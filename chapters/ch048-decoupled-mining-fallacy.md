@@ -1,0 +1,11 @@
+# Fallacia del Mining Disaccoppiato
+
+
+
+Vi è una teoria secondo la quale la [sicurezza]() è incrementata [disaccoppiando]() la [ricompensa]() dalla selezione delle transazione nel [mining]() [aggregato]() (_pooled_). La teoria ritiene che distribuendo la sola ricompensa, il controllo sulla selezione delle transazioni si sposta sui [miner]() con minore [_hash power_](). Questo implica una riduzione nello [sconto di varianza]() e di conseguenza un incremento nella [competitività]() delle _mining farm_ più piccole. Poiché le _mining farm_ più piccole possono presumibilmente operare in maniera più coperta di quelle più grandi, questo a propria volta implica che la [resistenza alla censura]() è incrementata.
+
+**La teoria non riesce a riconoscere che il controllo sulla selezione delle transazioni rimane nelle mani dell'operatore della pool**, ed è quindi invalida. L'unico beneficio consiste nella riduzione della [varianza](), ma questa si registra solo quanto il pagamento viene ricevuto. Poiché il pagamento è discrezionale ogni condizione può essere teoricamente legata ad esso. Le condizioni potrebbero includere la censura e [l'identità](). I membri possono ricorrere all'abbandono della pool in favore di un'altra, così come all'aggregazione accoppiata (tra selezione transazione e reward ndt). Come tale le _pool_ disaccoppiate e quelle accoppiate sono egualmente soggette alla [cooptazione]().
+
+Vi è una teoria correlata secondo la quale la trasparenza di una _pool_ disaccoppiata è maggiore di quella di una _pool_ accoppiata, cosa che facilita la fuga dei suoi membri verso le _pool_ che non adottano la censura, limitando quindi la dominanza delle _pool_ che adottano censura. Anche accettando generosamente le assunzioni di maggiore trasparenza e il fatto che miner indipendenti agiscano contro il proprio stesso interesse finanziario, rimaniamo comunque con la questione della cooptazione irrisolta. Lo stato può sempre riservare a sé stesso l'abilità di operare con i [vantaggi finanziari del _pooling_]() e la teoria è quindi invalida.    
+
+La fallacia è simile alla [Fallacia dell'inoltro]() secondo la quale tutti i vantaggi finanziari dipendono da miner altrimenti indipendenti che accordano il controllo ad una singola [persona]() sulla base di quello specifico vantaggio.

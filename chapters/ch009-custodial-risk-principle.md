@@ -1,0 +1,14 @@
+# Principio del Rischio di Custodia
+
+
+
+Quando un contratto rappresenta un asset, il contratto è un reclamo effettuato sull'asset detenuto dal custode. Questo reclamo è spesso chiamato una _security_ (titolo), che implica in maniera sottintesa che il reclamo è "assicurato" rispetto al fallimento del custode di [scambiare]() l'asset secondo i termini del contratto. Il [valore]() monetario della _security_ è quello dell'asset sottostante meno i costi di transazione e di applicazione del reclamo.
+
+Il rischio di custodia è un aspetto centrale di ogni [moneta](). L'utilità di una moneta è limitata dall'affidabilità del suo custode. Essendo un [umano](), l'affidabilità del custode non può essere assicurata. Nel caso di una moneta di [stato](), l'unico custode è lo stato. Come mostrato nel [Principio di Riserva]() la moneta di stato esiste con lo scopo di accumulare una [riserva](). Questo fornisce un beneficio allo stato solo in quanto il suo ruolo di custode può essere abrogato sia attraverso la liquidazione delle riserva sia attraverso l'emissioni di _security_ fraudolente. Il altre parole il default del custode è la ragione della moneta di stato.
+
+Il valore monetario di una [unità]() di Bitcoin è strettamente una funzione di ciò che può essere acquistato nello [scambio](). Se nessun [commerciante]() lo accetta, un'unità di esso non è utile al suo [possessore](). Bitcoin non necessita di custodi (_non-custodial_), ma nell'ottica di stabilire un principio generale, è possibile considerare l'insieme di tutti i commercianti come il custode collettivo di Bitcoin. Per come è posto, il rischio di custodia è distribuito attraverso tutta l'[economia](). 
+
+Nel caso di Bitcoin, i commercianti offrono la loro proprietà in [cambio]() di moneta. In quanto tale non è implicata nessuna trasformazione della proprietà in _security_. Un mercante può smetter di accettare qualsiasi moneta, cosa che riduce [l'utilità]() della moneta stessa. Questo può essere considerato un rischio di custodia, ma non equivalente al defaul (fallimento) in quanto il commerciante non ha accettato alcun obbligo di commerciare in cambio di quella moneta. Come mostrato nel [Principio di Frammentazione](), il cambiamento dell'accettazione da parte dei commercianti è la natura di uno [split]().
+
+Come mostrato nella [Fallacia della Blockchain](), la "tecnologia blockchain" non può offrire alcuna protezione contro il default del custode. Un asset "tokenizzato" è una _security_. L'opportunità, da parte del custode, di perpetrare una frode o un furto, sia direttamente che sotto la costrizione dello stato non viene ridotta. **Così come per le monete-merci, come l'oro, la riduzione del rischio di custodia che è in grado di offrire Bitcoin non è conseguenza della tecnologia o di una obbligazione contrattuale, ma delle dimensione della sua economia.** Ironicamente, sono le "_security_" ad essere insicure.
+

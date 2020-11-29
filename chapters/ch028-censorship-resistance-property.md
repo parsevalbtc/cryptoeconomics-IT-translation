@@ -1,0 +1,18 @@
+# Proprietà di Resistenza alla Censura
+
+
+
+La resistenza alla [censura]() è una conseguenza delle [commissioni di transazione](). L'applicazione della censura è di fatto indistinguibile dall'applicazione di un [_soft fork_](), dove la [maggioranza dell'_hash power_]() che rifiuta i [blocchi]() che non applicano la censura. Senza questo tipo di applicazione le transazioni sono [confermate]() su base economica razionale, nonostante la soggettività individuale del [miner]().
+
+Un miner in maggioranza è finanziariamente profittevole. Come tale non sopporta un costo nell'acquisire i mezzi per porre in atto la censura. Poiché il mining è necessariamente un ruolo [anonimo]() è sempre possibile per ogni entità acquisire e sviluppare la maggioranza dell'_hash power_ e controllarla ad ogni istante. Come mostrato ne [La Fallacia della Proof of Work](), gli [_hard fork_]() non possono essere usati per scacciare selettivamente la forza censurante ma, al contrario, accelerano il collasso della [moneta]().
+
+Nel caso di una censura attiva, le commissioni di transazione possono essere aumentate per le transazioni che non vengono confermate. Questo premio sulle _fee_ va a creare un potenziale maggiore profitto per i miner che confermano le transazioni censurate. Ad un livello sufficiente questa opportunità produce una competizione addizionale e quindi un incremento complessivo di [_hash rate_]().
+
+Se il crescente _hash power_  di tipo non censurante eccede quello del censore, il controllo di quest'ultimo fallisce. Il censore si trova quindi di fronte alla scelta di sussidiare le operazioni o di abbandonare il tentativo. Solo lo [stato]() può perpetuamente sussidiare le operazioni, in quanto può imporre la tassazione e guadagnare dalla preservazione del suo stesso regime monetario.**Lo stato deve consumare un quantitativo di tasse almeno pari al livello del premio delle _fee_ per mantenere il controllo della censura**.
+
+Una moneta senza commissioni integrate ricadrebbe sotto il controllo di un censore o evolvere in mercato parallelo delle _fee_. Come mostrato ne la [Fallacia delle Commissioni Parallele]() non è necessario che le commissioni siano integrate, tuttavia l'integrazione delle stesse rappresenta una importante tecnica di anonimizzazione. in ongi caso la resistenza alla censura deriva unicamente dal premio sulle _fee_. La parte di [sussidio]() della [ricompensa]() del blocco non contribuisce alla resistenza alla censura in quanto il censore guadagna lo stesso sussidio degli altri miner.
+
+E' possibile che l'applicazione della censura posso portare un collasso del [prezzo](), causando una perdita sulle operazioni del censore. Tuttavia, in questo caso, il suo obiettivo è stato raggiunto, non lasciando alcuna opportunità all'[economia]() di contrapporsi al censore. Questo collasso può essere ottenuto ad un costo irrisorio semplicemente dimostrando l'intenzione di porre in essere la censura. E' anche possibile che che un _soft fork_ atto a censurare possa portare ad aumento del prezzo, in quanto i business del mercato legale (mercato bianco) abbraccino l'approvazione dello stato ad esso associata. Cionondimeno, affinché la moneta sopravviva, la sua economia deve continuare a generare un premio in termini di commissioni di transazione sufficiente a sopraffare in censore.
+
+Non può essere dimostrato che l'economia generi un livello di _fee_ sufficiente a sopraffare il censore. In maniera simile, non può essere dimostrato che il censore sia disponibile e capace a sussidiare le proprie operazioni ad ogni dato livello. Non è quindi possibile dimostrare la resistenza alla censura. Questo è il motivo per cui la resistenza al controllo dello stato è [assiomatica]().
+

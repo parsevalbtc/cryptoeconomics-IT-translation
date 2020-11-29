@@ -1,0 +1,12 @@
+# Proprietà della Soglia di Utilità
+
+
+
+L'[utilità]() è espressa attraverso la preferenza di una [moneta]() rispetto ai sostituti (monetari), per [trasferimenti]() di [valore]() comparabile. Una aumentata utilità implica un livello delle[_fee_]() crescente, presupponendo che abbia luogo un crescente volume di [transazioni](). La competizione per la [conferma]() (delle transazioni) aumenta le _fee_. Data la presenza di differenze nel [mercato]() del [prezzo]() delle fee nel corso del tempo, un individuo può offrire una fee non competitiva aspettandosi di attendere un tempo più lungo per ottenere la conferma. Altri individui non transeranno sulla [catena](), affidandosi invece ai sostituti.
+
+L'aumento di utilità implica l'aumento del valore medio transato, in quanto le _fee_ crescenti porterebbero il costo del trasferimento ad eccedere il valore trasferito. Una maggiore [profondità]() (delle transazioni "sepolte" dentro la catena) implica una maggiore sicurezza nella conferma. Di conseguenza è possibile scambiare il tempo contro una _maggiore_ sicurezza contro la [doppia spesa](). Tuttavia il tempo non può essere ridotto al di sotto del periodo di un blocco per ottenere una più _bassa_ sicurezza. I più bassi livelli di sicurezza sono nessuna sicurezza (transazione [non confermata]()) e sicurezza minima (una conferma). Non può essere effettuato nessuno scambio tra questi due livelli.
+
+_Fee_ più elevate implicano un [_hash rate_]() più elevato, cosa che mitiga la necessita di aumentare la profondità di conferma per più elevati valori di trasferimento. **Ma poiché non vi è modo di ridurre la sicurezza per valori di trasferimento più piccoli, il più piccolo valore di trasferimento utile, cresce assieme all'utilità**. Il mancato supporto ai trasferimenti in un certo intervallo di valori implica che i sostituti sono meno cari in quell'intervallo di valori. Questo implica la possibilità che coesistano differenti monete al fine di servire distinti intervalli di valore. Tuttavia tutti i Bitcoin (inteso come sistemi di protocollo monetario analoghi - inclusivi dei più celebri fork) possiedono intrinsecamente questa proprietà.
+
+Differenze nelle [regole]() in termini di periodo o dimensione tra i [blocchi]() non cambiano questa relazione. L'effetto di queste variazioni tra monete è strettamente proporzionale. Anche un sistema con blocchi di dimensione illimitata deve produrre dei livelli di _fee_ che portano fuori mercato i trasferimenti di basso valore. 
+

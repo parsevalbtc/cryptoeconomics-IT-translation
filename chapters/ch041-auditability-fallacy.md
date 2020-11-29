@@ -1,0 +1,9 @@
+# Fallacia della Verificabilità
+
+
+
+**La solvibilità di un custode di Bitcoin non può essere verificata**. Un custode è una [persona]() che ha discrezione nel rilascio di un asset e nell'emissione di un titolo che lo rappresenti. Se entrambe le operazioni di rilascio dell'asset e di emissione del titolo rappresentativo associato sono controllate da [regole di consenso](), allora la relazione intrattenuta, in realtà, non è del tipo di quelle di custodia. Questa è la distinzione che si configura tra una [riserva]() ed un [_layer_](). Un _layer_ soggiace all'applicazione del protocollo (non ad una custodia) e di conseguenza non necessita di essere ispezionato.
+
+Un accertamento della solvibilità richiede la prova contemporanea (atomica) sia dell'intero ammontare dell'asset detenuto dal custode sia dei titoli emessi a sua rappresentazione. in caso di una riserva nazionale di Bitcoin questo richiederebbe la prova completa di tutto il rappresentativo fiat (e.g. il titolo) emesso a valere sulla [riserva](), sia la prova del quantitativo Bitcoin detenuto  in riserva. Anche qualora il titolo rappresentativo venga emesso su una [catena]() distinta di tipologia pubblica il requisito di atomicità non risulta soddisfatto.
+
+In alcuni casi risulterebbe sufficiente rinunciare al requisito di atomicità, accettando la non correttezza del sistema sotto l'ipotesi che deviazioni materiali nel suo funzionamento verrebbero alla fine scoperte. Tuttavia nel caso del [sistema bancario di stato]() non è sufficiente rivelare una deviazione. Storicamente non è stato difficile scoprire queste deviazioni. La difficoltà risiede (interamente) nel porre fine ad esse.
