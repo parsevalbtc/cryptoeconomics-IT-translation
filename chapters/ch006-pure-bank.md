@@ -35,10 +35,10 @@ Date le precedente definizione di banca pura, le seguenti relazioni valgono in m
 ```
 
 [capitale] riservato     = preso-in-prestito - dato-in-prestito [investito]
-demurrage     			 = tasso-di-demurrage * riservato
-svalutazione 			 = tasso-di-interesse * riservato
-interesse     			 = tasso-di-interesse * investito
-ritorno       			 = rapporto-di-spesa * interesse
+demurrage     	         = tasso-di-demurrage * riservato
+svalutazione 	         = tasso-di-interesse * riservato
+interesse     	         = tasso-di-interesse * investito
+ritorno       	         = rapporto-di-spesa * interesse
 ```
 
 Per la banca pura, il [rapporto di riserva](https://en.wikipedia.org/wiki/Reserve_requirement) determina interamente il [rapporto di capitale](https://en.wikipedia.org/wiki/Capital_requirement), [il rapporto di debito](https://en.wikipedia.org/wiki/Debt_ratio), il [rapporto di risparmio](https://it.wikipedia.org/wiki/Regola_aurea_del_risparmio), lo [stato patrimoniale](https://it.wikipedia.org/wiki/Stato_patrimoniale) e il [tasso di rendimento](https://en.wikipedia.org/wiki/Rate_of_return).
@@ -49,7 +49,7 @@ Per la banca pura, il [rapporto di riserva](https://en.wikipedia.org/wiki/Reserv
 
 ```
 rapporto-di-riserva = riservato / preso-in-prestito
-				    = (preso-in-prestito - investito) /  preso-in-prestito
+	            = (preso-in-prestito - investito) /  preso-in-prestito
 ```
 
 
@@ -58,7 +58,7 @@ rapporto-di-riserva = riservato / preso-in-prestito
 
 ```
 rapporto-di-capitale = riservato / investito
-					 = (preso-in-prestito - investito) /  investito
+		     = (preso-in-prestito - investito) /  investito
 ```
 
 
@@ -67,7 +67,7 @@ rapporto-di-capitale = riservato / investito
 
 ```
 rapporto-di-debito = preso-in-prestito / riservato
-				   = preso-in-prestito / (preso-in-prestito - investito) 
+	           = preso-in-prestito / (preso-in-prestito - investito) 
                    = 1 / rapporto-di-riserva
 ```
 
@@ -77,7 +77,7 @@ rapporto-di-debito = preso-in-prestito / riservato
 
 ```
 rapporto-di-risparmio = investito / riservato 
-					 =  investito / (preso-in-prestito - investito) 
+		      =  investito / (preso-in-prestito - investito) 
 ```
 
 
@@ -88,7 +88,7 @@ La banca pura non ha fonti di indebitamento (passività) ma solamente capitale s
 
 | Asset della banca - Attività | Capitale Sociale - Passività |
 | :--------------------------: | :--------------------------: |
-|    investito + riservato     |      preso_in_prestito       |
+|    investito + riservato     |      preso-in-prestito       |
 
 ##### Tasso di Rendimento
 
@@ -113,32 +113,31 @@ tasso-di-rendimento = (riservato * demurrage / investito) * 								          (i
 I rapporti di capitale stabiliti indipendentemente dalle persone, basati sulla preferenza temporale, determinano il tasso di interesse di [mercato](). La sostituzione apportata qui sopra per il rapporto di capitale proprio della banca come tasso di interesse implica che la banca sta fissando il tasso di interesse. Tuttavia questo è connaturato al concetto di preferenza temporale. Una banca può fissare il tasso di interesse che preferisce. Non vi è assunzione che il mercato possa imporre un tasso alle banche reali, di conseguenza vengono assunti l'interesse e quindi il rendimento di mercato. 
 
 ```
-tasso-di-rendimento-di-mercato = tasso-di-interesse-di-mercato *    
-                                 (investito / preso-in-prestito)
-                               = rapporto-di-capitale-di-mercato *										         (investito / preso-in-prestito) 
+tasso-di-rendimento-di-mercato = tasso-di-interesse-di-mercato * (investito / preso-in-prestito)
+                               = rapporto-di-capitale-di-mercato * (investito / preso-in-prestito) 
 ```
 
 La banca in regime di _free banking_ differisce dalla banca pura anche per quanto riguarda le spese operative che riducono direttamente il tasso di rendimento.
 
 ```
-tasso-di-rendimento-free-banking = tasso-di-rendimento-di-mercato * 									   rapporto-di-spesa
+tasso-di-rendimento-free-banking = tasso-di-rendimento-di-mercato * rapporto-di-spesa
 ```
 
 A sua volta, la banca reale differisce dalla banca in regime di _free banking_ per quanto riguarda la tassazione (inclusiva delle spese regolatorie) che riduce direttamente il tasso di rendimento.
 
 ```
-tasso-di-rendimento-reale = tasso-di-rendimento-free-banking * 									    rapporto-di-tassazione
+tasso-di-rendimento-reale = tasso-di-rendimento-free-banking * rapporto-di-tassazione
 ```
 
 La banca centrale (di stato) differisce, a sua volta, dalla banca reale per quanto riguarda il sussidio fornito dai contribuenti (inclusivo dello sconto applicato ai prestiti ricevuti), cosa che incrementa il tasso di rendimento.
 
 ```
-tasso-di-rendimento-banca-centrale = tasso-di-rendimento-reale * 									           rapporto-di-sussidio-reddito
+tasso-di-rendimento-banca-centrale = tasso-di-rendimento-reale * rapporto-di-sussidio-reddito
 ```
 
-Ove la tassa includa il signoraggio sulla moneta impiegata dalla banca è necessario utilizzare l'[Equazione di Fisher]()  sulle relazioni precedenti per tradurre il tasso di interesse da una tasso nominale ad un tasso reale. Non vi è implicato nessun altro cambiamento oltre alla tassa che è già inclusa nell'esempio della banca reale riportato. Questa tassa è in generale la fonte del sussidio, che è già incluso nell'esempio della banca centrale riportato.
+Ove la tassa includa il signoraggio sulla moneta impiegata dalla banca è necessario utilizzare l'[Equazione di Fisher](https://it.wikipedia.org/wiki/Equazione_di_Fisher_(economia))  sulle relazioni precedenti per tradurre il tasso di interesse da una tasso nominale ad un tasso reale. Non vi è implicato nessun altro cambiamento oltre alla tassa che è già inclusa nell'esempio della banca reale riportato. Questa tassa è in generale la fonte del sussidio, che è già incluso nell'esempio della banca centrale riportato.
 
-Ogni [persona](), o società di persone, è una banca reale e lo [stato]() è una banca centrale. Una banca reale garantisce il servizio di fornire liquidità agli investimenti, un bene economico. Il costo di produzione è la svalutazione delle sue riserve. Questo rappresenta il modello di tutta la produzione.
+Ogni [persona](ch101-glossary.md#persona), o società di persone, è una banca reale e lo [stato](ch101-glossary.md#stato) è una banca centrale. Una banca reale garantisce il servizio di fornire liquidità agli investimenti, un bene economico. Il costo di produzione è la svalutazione delle sue riserve. Questo rappresenta il modello di tutta la produzione.
 
 -----------
 
