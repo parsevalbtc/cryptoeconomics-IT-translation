@@ -101,9 +101,9 @@ tasso-di-rendimento = tasso-di-interesse * (investito / preso-in-prestito)
 Come mostrato ne la [Relazione del Risparmio](ch091-saving-relation.md) il rapporto di capitale è il tasso di interesse. Il rapporto di capitale include il deprezzamento dei beni presenti, che nel caso della moneta è il _demurrage_. Il _demurrage_ della banca pura è 1 e quindi questo termine scompare dall'espressione. Sostituendo il rapporto di capitale nella formula si ottiene il tasso di rendimento espresso nei termini del capitale preso a prestito ed investito.
 
 ```
-tasso-di-rendimento = (riservato * demurrage / investito) * 								          (investito / preso-in-prestito)
-					= (riservato /preso-in-prestito) * demurrage
-					= riservato/ presto-in-prestito
+tasso-di-rendimento = (riservato * demurrage / investito) * (investito / preso-in-prestito)
+		    = (riservato / preso-in-prestito) * demurrage
+		    = riservato / presto-in-prestito
 ```
 
  **Il tasso di rendimento di una banca pura è il rapporto di riserva.**
