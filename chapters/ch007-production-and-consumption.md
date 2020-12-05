@@ -10,7 +10,11 @@ Un produttore reale converte tempo e capitale in interesse al [prezzo](ch101-glo
 
 Un consumatore puro accumula capitale senza _investirlo_ nella produzione. Tutto il capitale è _preso in prestito_ e _riservato_. Con una riserva del 100% non vi è né _interesse_ né rendimento e alla fine si giunge a completa svalutazione. In questo caso il capitale preso a prestito viene considerato un regalo ([beneficienza](https://it.wikipedia.org/wiki/Beneficenza)). In aggiunta, un consumatore reale è soggetto alla tassazione e al sussidio che incrementano e diminuiscono rispettivamente il tasso di deprezzamento di quanto accumulato. 
 
+-------
 
+Titolo originale: [Production and Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Production-and-Consumption)
+
+[Indice](/README.md)
 
 
 
