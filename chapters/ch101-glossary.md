@@ -2,935 +2,926 @@
 
 
 
-### Fondamenti
+## Fondamenti
 
-----
 
-##### Persona
+#### Persona
 
 Decisore.
 
-
-
-##### Macchina
+#### Macchina
 
 Esecutore di istruzioni.
 
 
 
-###  L'accordo
+##  L'accordo
 
-------
 
-##### Bitcoin
 
-L'insieme di principi che proteggono una [Moneta]() dallo [Stato]().
+#### Bitcoin
+
+L'insieme di principi che proteggono una [Moneta](#moneta) dallo [Stato](#stato).
 
 > I termini ed i principi sono stati definiti da Satoshi in "Bitcoin: A Peer-to-Peer Electronic Cash System".
 
 
 
-##### Consenso
+#### Consenso
 
-Un accordo tra [Persone](). 
+Un accordo tra [Persone](#persona). 
 
 > Indica anche l'insieme di persone che partecipano in un accordo.
 
 
 
-##### Moneta
+#### Moneta
 
-Un [Consenso]() che riguarda un mezzo di [Scambio]() mutuamente accettato.
-
-
-
-##### Regole di Consenso
-
-L'insieme di vincoli che definisce una [Moneta]().
+Un [Consenso](#consenso) che riguarda un mezzo di [Scambio](#scambio) mutuamente accettato.
 
 
 
-##### Regola
+#### Regole di Consenso
 
-Un sottoinsieme delle [Regole di Consenso]().
-
-
-
-##### Validità
-
-Conformità alle [Regole di Consenso]().
+L'insieme di vincoli che definisce una [Moneta](#moneta).
 
 
 
-##### Validazione
+#### Regola
 
-Il Processo volto a determinare la [Validità]().
-
-
-
-  ##### Applicazione delle Regole (Enforcement)
-
-L'atto di rigettare dati [Invalidi]().
+Un sottoinsieme delle [Regole di Consenso](#regole-di-consenso).
 
 
 
-### Oggetti
+#### Validità
 
--------
+Conformità alle [Regole di Consenso](#regole-di-consenso).
 
 
 
-##### Unità
+#### Validazione
 
-Minima frazione di proprietà che può essere trasferita, rappresentata da una [Moneta]().
+Il Processo volto a determinare la [Validità](#validità).
+
+
+
+  #### Applicazione delle Regole (Enforcement)
+
+L'atto di rigettare dati [Invalidi](#validità).
+
+
+
+## Oggetti
+
+
+
+#### Unità
+
+Minima frazione di proprietà che può essere trasferita e rappresentata da una [Moneta](#moneta).
 
 > Il Satoshi è l'unità di Bitcoin.
 
 
 
-##### Trasferimento
+#### Trasferimento
 
-Cambio di titolarità che coinvolge un certo numero di [Unità]().
-
-
-
-##### Transazione
-
-Registrazione [Validata]() di un [Trasferimento]().
+Cambio di titolarità che coinvolge un certo numero di [Unità](#unità).
 
 
 
-##### Blocco
+#### Transazione
 
-Insieme [Valido]() di [Transazioni]() dotate di [_Timestamp_]() e [Prova]().
-
-
-
-##### Catena
-
-[Ramo]() avente la maggior [Prova]() cumulata.
+Registrazione [Validata](#validità) di un [Trasferimento](#trasferimento).
 
 
 
-### Transazioni
+#### Blocco
 
------
-
-
-
-##### Script
-
-Insieme di [Operazioni]() che autorizzano un [Trasferimento]().
+Insieme [Valido](#validità) di [Transazioni](#transazione) dotate di [_Timestamp_](#marcatura-temporale-timestamp) e [Prova](#prova).
 
 
 
-##### Operazione
+#### Catena
 
-Dichiarazione  [atomica/univoca]  di intenti.
+[Ramo](#ramo-branch) avente la maggior [Prova](#prova) cumulata.
 
 
 
-##### Contratto
+## Transazioni
 
-[Script]() che esprime delle condizioni di [Trasferimento]().
+
+#### Script
+
+Insieme di [Operazioni](#operazione) che autorizzano un [Trasferimento](#trasferimento).
+
+
+
+#### Operazione
+
+Dichiarazione atomica (univoca) di intenti.
+
+
+
+#### Contratto
+
+[Script](#script) che esprime delle condizioni di [Trasferimento](#trasferimento).
 
 > _Public Key Script_ è una formulazione anacronistica per questo termine.
 
 
 
-##### (Verifica Positiva) (Endorsment)
+#### Endorsement
 
-Uno [Script]() che soddisfa un [Contratto]().
+Uno [Script](#script) che soddisfa un [Contratto](contratto).
 
 >Signature Script (ScriptSig) è una formulazione anacronistica per questo termine.
 
 
 
-##### Point
+#### Point
 
-Riferimento ad un [Output]() o ad un [Input]().
-
-
-
-##### Output
-
-Un [Trasferimento]() esplicito collegato ad un [Contratto]().
+Riferimento ad un [Output](#output) o ad un [Input](#input).
 
 
 
-##### Input
+#### Output
 
-Un [_Output_]() [_Point_]() collegato ad un [_Endorsment_]().
+Un [Trasferimento](#trasferimento) esplicito collegato ad un [Contratto]().
+
+
+
+#### Input
+
+Un [_Output_](#output) [_Point_](#point) collegato ad un [_Endorsment_](#endorsement).
 
  
 
-##### Output precedente 
+#### Output precedente 
 
-L'[Output]() al quale si riferisce un [Input]().
-
-
-
-##### Locktime
-
-Una espressione relativa alla più recente [Validità]() di una [Transazione]().
+L'[Output](#output) al quale si riferisce un [Input](#input).
 
 
 
-##### Dust
+#### Locktime
 
-Un numero insufficiente di [Unità]() necessarie per effettuare un [Trasferimento]() attraverso un [Output]().
-
-> Le regole di consenso di Bitcoin proibiscono il trasferimento di meno di una unità
+Un'espressione relativa alla più recente [Validità](#validità) di una [Transazione](#transazione).
 
 
 
-### Blocchi
+#### Dust
 
-------
+Un numero insufficiente di [Unità](#unità) necessarie per effettuare un [Trasferimento](#trasferimento) attraverso un [Output](#output).
 
-##### Timestamp
-
-Una dichiarazione relativa al tempo di produzione di un [Blocco]().
+> Le regole di consenso di BTC proibiscono il trasferimento di meno di una unità
 
 
 
-##### Tempo Mediano Trascorso 
-
-Una media dei [Timestamp]() dei precedenti [Blocchi]().
+## Blocchi
 
 
+#### Marcatura Temporale (Timestamp)
 
-##### Prova
-
-Una dimostrazione probabilistica della quantità di [Lavoro]() svolta.
+Una dichiarazione relativa al tempo di produzione di un [Blocco](#blocco).
 
 
 
-##### Branch - Ramo
+#### Tempo Mediano Trascorso 
 
-Una sequenza [valida]() di [blocchi]().
-
-
-
-##### Weak (Branch) - Ramo debole
-
-Un [Branch]() avente meno [Prova]() cumulata rispetto ad un altro.
-
-> Branch orfano è un nome fuorviante di questo termine.
+Una media dei [_Timestamp_](#marcatura-temporale-timestamp) dei precedenti [Blocchi]().
 
 
 
-##### Strong (Branch) - Ramo forte
+#### Prova
 
-Un [Branch]() avente più [Prova]() cumulata rispetto ad un altro.
-
-
-
-### Sequenza
-
------
-
-##### Conferma
-
-Inclusione di una [Transazione]() in un [Blocco]().
+Una dimostrazione probabilistica della quantità di [Lavoro](#lavoro) svolta.
 
 
 
-##### Non Confermata
+#### Ramo (Branch)
 
-Una [Transazione]() che non è inclusa in alcun [Blocco]().
-
-
-
-##### Transaction Pool - Pool delle transazioni 
-
-L'insieme delle [Transazioni]() [Non Confermate]().
-
-> Memory Pool è un nome fuorviante per questo termine.
+Una sequenza [valida](#validità) di [blocchi](#blocchi).
 
 
 
-##### Block Pool
+#### Ramo debole (Weak Branch)
 
-L'insieme dei [blocchi]() [deboli]().
+Un [Ramo](#ramo-branch) avente meno [Prova](#prova) cumulata rispetto ad un altro.
+
+> Ramo orfano è un nome fuorviante di questo termine.
+
+
+
+#### Ramo forte (Strong Branch)
+
+Un [Ramo](#ramo-brancj) avente maggiore [Prova](#prova) cumulata rispetto ad un altro.
+
+
+
+## Sequenza
+
+
+
+#### Conferma
+
+Inclusione di una [Transazione](#transazione) in un [Blocco](#blocco).
+
+
+
+#### Non Confermata
+
+Una [Transazione](#transazione) che non è inclusa in alcun [Blocco](#blocco).
+
+
+
+#### Transaction Pool 
+
+L'insieme delle [Transazioni](#transazione) [Non Confermate](#non-confermata).
+
+> Memory Pool (Mempool) è un nome fuorviante per questo termine.
+
+
+
+#### Block Pool
+
+L'insieme dei [blocchi](#blocco) [deboli](#ramo-debole-weak-branch).
 
 > Pool dei Blocchi Orfani è un nome fuorviante di questo termine.
 
 
 
-##### Genesi
+#### Blocco Genesi
 
-Il primo [Blocco]() di tutti i [Rami]() di una [Moneta]().
-
-
-
-##### Profondità - Depth
-
-Uno più il numero di [Blocchi]() dopo una [Conferma]().
+Il primo [Blocco](#blocco) di tutti i [Rami](#ramo-branch) di una [Moneta](#moneta).
 
 
 
-##### Altezza
+#### Profondità (Depth)
 
-Il numero di blocchi precedenti [Contenuti]() in un [Ramo]().
-
-
-
-##### Segmento 
-
-Un sottoinsieme contiguo (di blocchi) in un [Ramo]().
+Il numero di [Blocchi](#blocco) più uno dopo una [Conferma](#conferma).
 
 
 
-##### Organizzazione 
+#### Altezza (Height)
 
-Un [Annuncio]() relativo all'aggiunta di un [Blocco]() alla [Catena]().
-
-
-
-##### Periodo
-
-Tempo medio trascorso tra due [Organizzazioni]().
+Il numero di blocchi precedenti [Contenuti](#blocco) in un [Ramo](#ramo).
 
 
 
-##### Stratificazione (Layering)
+#### Segmento 
 
-[Scambio]() effettuato utilizzando una sequenza di [Transazioni]() [Non Confermate]() che possono essere [Finalizzate]() da ambo le [Controparti]().
-
-
-
-##### Settlement - Finalizzazione
-
-[Conferma]() di [Transazioni]() [Layerizzate]().
+Un sottoinsieme contiguo (di blocchi) in un [Ramo](#ramo-branch).
 
 
 
-### Moneta
+#### Organizzazione 
 
-------
-
-##### Spesa
-
-La prima pubblicazione di una [Transazione]().
+Un [Annuncio](#annuncio) relativo all'aggiunta di un [Blocco](#blocco) alla [Catena](#catena).
 
 
 
-##### Doppia Spesa
+#### Periodo
 
-_[Endorsment]()_ dello stesso [Output]() in due [Spese]() distinte.
-
-
-
-##### Sussidio (Subsidy)
-
-Emissione di nuove [Unità]() ad un [Miner]().
+Tempo medio trascorso tra due [Organizzazioni](#organizzazione).
 
 
 
-##### Inflazione 
+#### Layering
 
-L'aumento di [Offerta]() dovuta al [Sussidio]().
+[Scambio](#scambio) effettuato utilizzando una sequenza di [Transazioni](#transazione) [Non Confermate](#non-confermata) che possono essere [Finalizzate](#finalizzazione-settlement) da ambo le Controparti.
+
+
+
+#### Finalizzazione (Settlement)
+
+[Conferma](#conferma) di [Transazioni](#transazione) [Layerizzate](#layering).
+
+
+
+## Denaro
+
+
+
+#### Spesa
+
+La prima pubblicazione di una [Transazione](#transazione).
+
+
+
+#### Doppia Spesa
+
+_[Endorsment](#endorsment)_ dello stesso [Output](#output) in due [Spese](#spesa) distinte.
+
+
+
+#### Sussidio (Subsidy)
+
+Emissione di nuove [Unità](#unità) ad un [Miner](#miner).
+
+
+
+#### Inflazione 
+
+L'aumento di [Offerta](#offerta) dovuta al [Sussidio](#sussidio-subsidy).
 
 > Il termine si riferisce all'inflazione monetaria che non va confusa con l'inflazione dei prezzi.
 
 
 
-##### Commissione di Transazione (Fee)
+#### Commissione di Transazione (Fee)
 
-Un [Trasferimento]() implicito ad un [Miner]().
+Un [Trasferimento](#trasferimento) implicito ad un [Miner](#miner).
 
 
 
-##### Ricompensa (Reward)
+#### Ricompensa (Reward)
 
- La somma del [Sussidio]() e delle [Commissioni]() per un [Blocco]().
+ La somma del [Sussidio](#sussidio-subsidy) e delle [Commissioni](#commissione-di-transazione-fee) per un [Blocco](#blocco).
 
 
 
-##### Coinbase 
+#### Coinbase 
 
-Una [Transazione]() che trasferisce la [Ricompensa]() (di un Blocco).
+Una [Transazione](#transazione) che trasferisce la [Ricompensa](#ricompensa-reward) (di un Blocco).
 
 
 
-##### Maturità
+#### Maturità
 
-La [Profondità]() alla quale un [Output]() della [Coinbase]() diventa [Trasferibile]().
+La [Profondità](#profondità-depth) alla quale un [Output](#output) della [Coinbase](#coinbase) diventa [Trasferibile](#trasferimento).
 
 
 
-##### Dimezzamento (Halving)
+#### Dimezzamento (Halving)
 
-Riduzione (pari alla metà) della quantità di [Sussidio]().
+Riduzione (pari alla metà) della quantità di [Sussidio](#sussidio-subsidy).
 
 
 
-##### Difficoltà
+#### Difficoltà
 
-Il livello di [Prova]() richiesto per la [Validità]().
+Il livello di [Prova](#prova) richiesto per la [Validità](#validità).
 
 
 
-##### Aggiustamento 
+#### Aggiustamento 
 
-Cambiamento nella [Difficoltà]().
+Cambiamento nella [Difficoltà](#difficoltà).
 
 
 
-##### Cap
+#### Limite (Cap)
 
-Il limite posto [all'Offerta]() nel tempo.
+Il limite posto all'[Offerta](#offerta) nel tempo.
 
 
 
-##### Prezzo
+#### Prezzo
 
-Media variabile di valori di [Scambio]().
+Media variabile di valori di [Scambio](#scambio-di-unità).
 
 
 
-##### Capitalizzazione
+#### Capitalizzazione
 
-Prodotto del [Prezzo]() per [l'Offerta]()
+Prodotto del [Prezzo](#prezzo) per l'[Offerta](#offerta)
 
 
 
-### Economia
+## Economia
 
-----
 
-##### Scambio
 
-Passaggio volontario di proprietà tra due [Persone]().
+#### Scambio
 
+Passaggio volontario di proprietà tra due [Persone](#persona).
 
 
-##### Utilità
 
-Il grado di Utilità di una certa proprietà per una [Persona]().
+#### Utilità
 
+Il grado di Utilità di una certa proprietà per una [Persona](#persona).
 
 
-##### Valore
 
-La preferenza accordata da una [Persona]() su una proprietà rispetto ad un altra.
+#### Valore
 
+La preferenza accordata da una [Persona](#persona) su una proprietà rispetto ad un altra.
 
 
-##### Offerta 
 
-L'insieme ti tutte le [Unità]() emesse.
+#### Offerta 
 
+L'insieme di tutte le [Unità](#unità) emesse.
 
 
-##### Scambio monetario
 
-Lo [scambio]() di [Unità]() monetarie per altra proprietà.
+#### Scambio di Unità
 
+Lo [scambio](#scambio) di [Unità](#unità) per altra proprietà.
 
 
-##### Inflazione del prezzo
 
-Aumento nel prezzo medio di [scambio monetario]() nel tempo.
+#### Inflazione di prezzo
 
+Aumento nel prezzo medio di [scambio](#scambio-di-unità) nel tempo.
 
 
-##### Accumulare
 
-[Possedere]() per un uso futuro.
+#### Accumulare
+
+[Possedere](#proprietario) per un uso futuro.
 
 > Non si tratta né di speculazione né di investimento.
 
 
 
-##### Speculare
+#### Speculare
 
-[Possedere]() nell'aspettativa di un aumento di [Prezzo]().
+[Possedere](#proprietario) nell'aspettativa di un aumento di [Prezzo](#prezzo).
 
 > In maniera equivalente anche dare in prestito nell'aspettativa di una diminuzione del prezzo.
 
 
 
-##### Dare in prestito - Investire
+#### Dare in Prestito - Investire
 
-[Scambiare]() tempo privandosi di [Unità]() per acquisire (nel futuro) una proprietà di maggiore [Utilità]().
-
-
-
-##### Prendere a prestito
-
-[Scambiare]() tempo per [Unità]() che garantiscono al [Prestatore]() maggiore [Utilità]() (nel futuro).
+[Scambiare](#scambio) tempo privandosi di [Unità](unità) per acquisire (nel futuro) una proprietà di maggiore [Utilità](#utilità).
 
 
 
-##### Interesse
+#### Prendere a prestito
 
-Il tasso relativo all'aumento di Utilità nel [Dare in prestito]().
+[Scambiare](#scambio) tempo per [Unità](#unità) che garantiscono al [Prestatore](#dare-in-prestito---investire) maggiore [Utilità](#utilità) (nel futuro).
 
 
 
-##### Profitto
+#### Interesse
 
-Il ritorno (economico) derivante dalla [Speculazione]()
+Il tasso relativo all'aumento di [Utilità](#utilità) nel [Dare in prestito](#dare-in-prestito---investire).
+
+
+
+#### Profitto
+
+Il ritorno (economico) derivante dalla [Speculazione](#speculare)
 
 >Ciò esclude l'interesse
 
 
 
-##### Perdita
+#### Perdita
 
-Fallimento nel percepire [l'Interesse]() in un [Investimento]().
+Fallimento nel percepire [l'Interesse](#interesse) in un [Investimento](#dare-in-prestito---investire).
 
 > Si tratta di profitto negativo.
 
 
 
-##### Volatilità
+#### Volatilità
 
-Deviazioni del [Prezzo]() che avvengono nel tempo.
-
-
-
-##### Mercato
-
-Lo [Scambio]() di certe proprietà.
+Variazioni del [Prezzo](#prezzo) che avvengono nel tempo.
 
 
 
-### Network
+#### Mercato
 
------
-
-##### Comunicazione
-
-Trasmissione di dati tra due Macchine.
+Lo [Scambio](#scambio) di certe proprietà.
 
 
 
-##### Protocollo
-
-Un insieme di convenzioni adottate nella [Comunicazione]().
+## Network
 
 
 
-##### Peer-to-Peer
+#### Comunicazione
 
-Un [Protocollo]() simmetrico.
-
-
-
-##### Client-Server
-
-Un [Protocollo]() asimmetrico.
+Trasmissione di dati tra due [Macchine](#macchina).
 
 
 
-##### Latenza
+#### Protocollo
 
-Il ritardo intrinseco nella [Comunicazione]().
-
-
-
-##### Partizione
-
-Una impossibilità di certi [Nodi]() di [Comunicare]().
+Un insieme di convenzioni adottate nella [Comunicazione](#comunicazione).
 
 
 
-##### Diniego di Servizio (Denial of Service) 
+#### Peer-to-Peer
 
-Utilizzare la [Comunicazione]() per sfruttare falle nel [Protocollo]() o [nell'Implementazione]() che portano a degradare le prestazioni.
+Un [Protocollo](#protocollo) simmetrico.
+
+
+
+#### Client-Server
+
+Un [Protocollo](#protocollo) asimmetrico.
+
+
+
+#### Latenza
+
+Il ritardo intrinseco nella [Comunicazione](#comunicazione).
+
+
+
+#### Partizione
+
+Una impossibilità di certi [Nodi](#nodo) di [Comunicare](#comunicazione).
+
+
+
+#### Denial of Service
+
+Utilizzare la [Comunicazione](#comunicazione) per sfruttare difetti nel [Protocollo](#protocollo) o nell'[Implementazione](#implementazione) che portano a degradare le prestazioni.
 
 > DoS è un acronimo di questo termine.
 
 
 
-### Componenti
-
---------
-
-##### Centro di Mining (Mine)
-
-Uno [Strumento]() che compie [Lavoro]().
+## Componenti
 
 
+#### Centro di Mining (Mine)
 
-##### Dispositivo di Mining (Grinder) 
-
-Uno [Strumento]() che compie operazioni di [Hashing]().
+Uno [Strumento](#strumento-tool) che compie [Lavoro](#lavoro).
 
 
 
-##### Propagatore (Relay)
+#### Dispositivo di Mining (Grinder) 
 
-Uno [Strumento]() che propaga nuovi [Blocchi]().
-
-
-
-##### Nodo
-
-Uno [Strumento]() che esegue l'operazione di [Validazione]().
+Uno [Strumento](#strumento-tool) che compie operazioni di [Hashing](#hash).
 
 
 
-##### Wallet 
+#### Propagatore (Relay)
 
-Uno [Strumento]() che crea [Transazioni](). 
-
-
-
-##### Strumento (Tool)
-
-Un insieme di istruzioni [Macchina]().
+Uno [Strumento](strumento-tool) che propaga nuovi [Blocchi](#blocco).
 
 
 
-##### Implementazione 
+#### Nodo
 
-Uno specifico insieme di [Strumenti]().
-
-
-
-### Attori
-
--------
-
-##### Miner
-
-Una [Persona]() che opera un [Centro di Mining](). 
+Uno [Strumento](strumento-tool) che esegue l'operazione di [Validazione](#validità).
 
 
 
-##### Operatore di Dispositivo di Mining (Grinder)
+#### Wallet 
 
-Una [Persona]() che opera un [Dispositivo di Mining]().
-
-
-
-##### Relayer 
-
-Una Persona che opera un Propagatore ([Relay]()).
+Uno [Strumento](strumento-tool) che crea [Transazioni](#transazione). 
 
 
 
-##### Commerciante
+#### Strumento (Tool)
 
-Una [Persona]() che accetta [Unità]() in uno [Scambio]().
+Un insieme di istruzioni [Macchina](#macchina).
+
+
+
+#### Implementazione 
+
+Uno specifico insieme di [Strumenti](strumento-tool).
+
+
+
+## Attori
+
+
+
+#### Miner
+
+Una [Persona](#persona) che opera un [Centro di Mining](centro-di-mining-mine). 
+
+
+
+#### Operatore di Dispositivo di Mining (Grinder)
+
+Una [Persona](#persona) che opera un [Dispositivo di Mining](#dispositivo-di-mining-grinder).
+
+
+
+#### Relayer 
+
+Una Persona che opera un Propagatore ([Relay](#propagatore-relay)).
+
+
+
+#### Commerciante
+
+Una [Persona](#persona) che accetta [Unità](unità) in uno [Scambio](#scambio).
 
 > Utente è un sinonimo comune di questo termine.
 
 
 
-##### Proprietario
+#### Proprietario
 
-Una [Persona]() che ha il controllo di certe [Untità]().
+Una [Persona](#persona) che ha il controllo di certe [Untità](#unità).
 
 > Detentore è un sinonimo comune di questo termine.
 
 
 
-##### Sviluppatore (Developer)
+#### Sviluppatore (Developer)
 
-Una [Persona]() che crea una [Implementazione]().
-
-
-
-##### Ricorrente (Claimant)
-
-Una [Persona]() che detiene un titolo di una proprietà sotto il controllo di un Custode.
+Una [Persona](#persona) che crea una [Implementazione](#implementazione).
 
 
 
-##### Custode (Custodian)
+#### Ricorrente (Claimant)
 
-Una [Persona]() che controlla la proprietà di un'altra.
-
-
-
-### Mining
-
--------
-
-##### Lavoro
-
-Il processo di produzione di un [Blocco]().
+Una [Persona](#persona) che detiene un titolo di una proprietà sotto il controllo di un [Custode](#custode-custodian).
 
 
 
-##### Candidato
+#### Custode (Custodian)
 
-Un [Blocco]() potenziale con una [Prova]() non definita.
-
-
-
-##### Hash
-
-Una singola computazione svolta per [Provare]() la [Validità]() di un [Candidato](). 
+Una [Persona](#persona) che controlla la proprietà di un'altra.
 
 
 
-##### Hash Rate
-
-La quantità di [Hash]() calcolati nell'unità di tempo.
+## Mining
 
 
 
-##### Hash Power Apparente
+#### Lavoro
 
-Un frazione di [Blocchi]() in un [Segmento]() di [Catena]().
+Il processo di produzione di un [Blocco](#blocco).
+
+
+
+#### Candidato
+
+Un [Blocco](#blocco) potenziale con una [Prova](#prova) non definita.
+
+
+
+#### Hash
+
+Una singola computazione svolta per [Provare](#prova) la [Validità](#validità) di un blocco [Candidato](#candidato). 
+
+
+
+#### Hash Rate
+
+La quantità di [Hash](#hash) calcolati nell'unità di tempo.
+
+
+
+#### Hash Power Apparente
+
+Un frazione di [Blocchi](#blocco) in un [Segmento](#segmento) di [Catena](#catena).
 
 > Le stime pubbliche dell'hash power di un miner sono basate su questa definizione.
 
 
 
-##### Maggioranza dell'Hash Power
+#### Maggioranza dell'Hash Power
 
-Un sottoinsieme di [Miner]() dotato di sufficiente Hash Power tale da compiere un [Attacco]() sostenuto nel tempo.
+Un sottoinsieme di [Miner](#miner) dotato di sufficiente [Hash Power](#hash-power) tale da compiere un [Attacco](#attacco) sostenuto nel tempo.
 
 > 51% è una comune approssimazione di sufficiente hash power. 
 
 
 
-##### Ottimizzazione
+#### Ottimizzazione
 
-Uno [Strumento]() che riduce il costo del [Mining]().
-
-
-
-##### Annuncio
-
-La prima comunicazione di un [Blocco]() ad un altra [Persona]().
+Uno [Strumento](strumento-tool) che riduce il costo del [Mining](#centro-di-mining-mine).
 
 
 
-##### Trattenimento (Withholding)
+#### Annuncio
 
-Il ritardo intenzionale di un [Annucio]().
-
-
-
-##### Onesto
-
-Un [Miner]() che costruisce sui [Blocchi]() di altri.
+La prima comunicazione di un [Blocco](#blocco) ad un'altra [Persona](#persona).
 
 
 
-##### Selfish
+#### Trattenimento (Withholding)
 
-Un [Miner]() che non si dimostra sempre [Onesto]().
-
-
-
-##### Varianza
-
-La frequenza variabile con cui si ottiene la [Ricompensa]().
+Il ritardo intenzionale di un [Annucio](#annuncio).
 
 
 
-##### Disaccoppiamento (Decouple)
+#### Onesto
 
-Un [Centro di Mining]() che condivide la [Ricompensa]() con un altro al fine di ridurre la [Varianza]().
-
-
-
-### Deviazioni
-
-------
-
-##### Fork
-
-Una divergenza nelle [Regole di Consenso]().
+Un [Miner](#miner) che costruisce sui [Blocchi](#blocco) di altri.
 
 
 
-##### Hard Fork
+#### Selfish Miner
 
-Un [Fork]() che implica una [Separazione]().
+Un [Miner](#miner) che non si dimostra sempre [Onesto](#onesto).
 
 
 
-##### Soft Fork
+#### Varianza
 
-Un [Fork]() che implica una [Separazione]() a meno che il cambiamento nelle regole non sia [Applicato]() dalla [Maggioranza dell'Hash Power]().
+La frequenza variabile con cui si ottiene la [Ricompensa](#ricompensa-reward).
+
+
+
+#### Disaccoppiamento (Decouple)
+
+Un [Centro di Mining](#centro-di-mining-mine) che condivide la [Ricompensa](#ricompensa-reward) con un altro al fine di ridurre la [Varianza](#varianza).
+
+
+
+## Deviazioni
+
+
+
+#### Fork
+
+Una divergenza nelle [Regole di Consenso](#regole-di-consenso).
+
+
+
+#### Hard Fork
+
+Un [Fork](#fork) che implica una [Separazione](#separazione-split).
+
+
+
+#### Soft Fork
+
+Un [Fork](#fork) che implica una [Separazione](#separazione-split) a meno che il cambiamento nelle regole non sia [Applicato](#applicazione-delle-regole-enforcement) dalla [Maggioranza dell'Hash Power](#maggioranza-dellhash-power).
 
 > Si riduce l'insieme dei blocchi potenzialmente validi.
 
 
 
-##### Separazione (Split)
+#### Separazione (Split)
 
-Una biforcazione di una [Moneta]().
+Una biforcazione di una [Moneta](#moneta).
 
 
 
-##### Riorganizzazione
+#### Riorganizzazione
 
-Un Annuncio che promuove un [Ramo Debole]() sulla [Catena]().
+Un [Annuncio](#annuncio) che promuove un [Ramo Debole](#ramo-debole-weak-branch) sulla [Catena](#catena).
 
 > Reorg è una abbreviazione di questo termine.
 
 
 
-##### Stallo
+#### Stallo
 
-L'assenza di incremento di [Altezza]() nel tempo.
+L'assenza di incremento di [Altezza](#altezza-height) nel tempo.
 
 
 
-##### Attivazione
+#### Attivazione
 
-Iniziare ad [Applicare]() una nuova [Regola]().
+Iniziare ad [Applicare](#applicazione-delle-regole-enforcement) una nuova [Regola](#regola).
 
 
 
-##### Segnalazione (Signal)
+#### Segnalazione (Signal)
 
-Una indicazione di un [Miner]() veicolata dai dati di un [Blocco]() relativa all'intenzione di [Applicare]() una nuova [Regola](). 
+Una indicazione di un [Miner](#miner) veicolata dai dati di un [Blocco](#blocco) relativa all'intenzione di [Applicare](#applicazione-delle-regole-enforcement) una nuova [Regola](#regola). 
 
 
 
-### Privacy
+## Privacy
 
-------
 
-##### Identità
 
-I modi di associare una [Comunicazione]() ad una [Persona]().
+#### Identità
 
+I modi di associare una [Comunicazione](#comunicazione) ad una [Persona](#persona).
 
 
-##### Tracciamento (Taint)
 
-Determinazione della [Proprietà]().
+#### Tracciamento (Taint)
 
+Determinazione della [Proprietà](#proprietario).
 
 
-### Sicurezza
 
------
+## Sicurezza
 
-##### Potere 
 
-Il livello relativo di controllo di una [Persona]() su una [Catena]() o una [Moneta]().
 
+#### Potere 
 
+Il livello relativo di controllo di una [Persona](#persona) su una [Catena](#catena) o una [Moneta](#moneta).
 
-##### Economia
 
-L'insieme di tutti i [Commercianti]().
 
+#### Economia
 
+L'insieme di tutti i [Commercianti](#commerciante).
 
-##### Potere Economico
 
-Una frazione di tutte le proprietà offerte in [Scambio]().
 
+#### Potere Economico
 
+Una frazione di tutte le proprietà offerte in [Scambio](#scambio-di-unità).
 
-##### Hash Power
 
-Una frazione dell'[Hash Rate]() di tutti i [Centri di Mining]().
 
+#### Hash Power
 
+Una frazione dell'[Hash Rate](#hash-rate) di tutti i [Centri di Mining](#centro-di-mining-mine).
 
-##### Attacco 
 
-Utilizzo di [Hash Power]() al fine di realizzare una [Doppia Spesa]().
 
+#### Attacco 
 
+Utilizzo di [Hash Power](#hash-power) al fine di realizzare una [Doppia Spesa](#doppia-spesa).
 
-##### Cooptazione (Co-option)
+> Impedire una conferma è un modo per consentire una doppia spesa.
 
-Ricorso all'aggressione al fine di controllare dell'[HashPower]().
 
 
+#### Cooptazione (Co-option)
 
-##### Coercizione
+Ricorso all'aggressione al fine di controllare dell'[Hash Power](#hash-power).
 
-Ricorso all'aggressione al fine di indurre ad una [Attivazione]().
 
 
+#### Coercizione
 
-##### Distorsione
+Ricorso all'aggressione al fine di indurre ad una [Attivazione](#attivazione).
 
-Aggressione di [Mercato]() che altera il costo del [Mining]().
 
 
+#### Distorsione
 
-##### Variazione
+Aggressione al [Mercato](#mercatop) che altera il costo del [Mining]().
 
-Differenze nel costo della risorsa per il [Mining]().
 
 
+#### Variazione
 
-##### Censura
+Differenze nel costo della risorsa per il [Mining](#centro-di-mining-mine).
 
-[Conferma]() soggettiva.
 
 
+#### Censura
 
-##### Stato
+[Conferma](#conferma) soggettiva.
 
-Insieme di [Persone]() che utilizzano l'aggressione al posto dello [Scambio]().
+
+
+#### Stato
+
+Insieme di [Persone](#persona) che utilizzano l'aggressione al posto dello [Scambio](#scambio).
 
 > Opera tipicamente in un regime di impunità all'interno di limiti geografici.
 
 
 
-##### Politico
+#### Politico
 
-Che concerne le azioni degli [Stati]().
+Che concerne le azioni degli [Stati](#stato).
 
 
 
-### Debolezza
+## Debolezza
 
-------
 
-##### Aggregazione
+#### Aggregazione
 
-La Tendenza alla ridotta partecipazione nel Mining o nella Validazione.
+La Tendenza alla ridotta partecipazione nel [Mining](centro-di-mining-mine) o nella [Validazione](#validità).
 
 > Implica il raggruppamento o la centralizzazione.
 
 
 
-##### Raggruppamento (Pooling)
+#### Raggruppamento (Pooling)
 
-La tendenza verso l'esistenza di pochi [Miner](), che include il consolidamento dei [Propagatori]().
+La tendenza verso l'esistenza di pochi [Miner](#miner), che include il consolidamento dei [Relay](#propagatore-relay).
 
 > Collusione è un comune sinonimo per questo termine.
 
 
 
-##### Centralizzazione
+#### Centralizzazione
 
-La tendenza verso l'esistenza di pochi [Commercianti]().
+La tendenza verso l'esistenza di pochi [Commercianti](#commerciante).
 
 > I Commercianti controllano direttamente la validazione.
 
 
 
-##### Delegazione
+#### Delegazione
 
-La tendenza verso l'esistenza di pochi [Proprietari]().
+La tendenza verso l'esistenza di pochi [Proprietari](#proprietario).
 
 > I Proprietari controllano direttamente la spesa.
 
 
 
-##### Partizionamento
+#### Partizionamento
 
-La tendenza verso [Partizioni]() persistenti.
+La tendenza verso [Partizioni](#partizione) persistenti.
 
 > L'identità implica l'esclusione.
 
 
 
-##### Correlazione
+#### Correlazione
 
-L'abilità di Tracciare usando metodi statistici di _[Chain]()_ analysis.
+L'abilità di [Tracciare](#tracciamento-taint) usando metodi statistici di analisi della [catena](#catena) (_chain analysis_).
 
 
 
