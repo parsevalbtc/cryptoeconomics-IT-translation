@@ -34,7 +34,7 @@ TBD
 | 11       | [Principio di Svalutazione](chapters/ch011-depreciation-principle.md) | [Depreciation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Depreciation-Principle) |
 | 12   | [Principio di Espressione](chapters/ch012-expression-principle.md) | [Expression Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Expression-Principle) |
 | 13   | [Principio di Inflazione](chapters/ch013-inflation-principle.md) | [Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflation-Principle) |
-| 14   | [Principio degli Altri mezzi](chapters/ch014-other-means-principle.md) | [Other Means Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Other-Means-Principle) |
+| 14   | [Principio degli Altri Mezzi](chapters/ch014-other-means-principle.md) | [Other Means Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Other-Means-Principle) |
 | 15   | [Principio di Resistenza al Brevetto](chapters/ch015-patent-resistance-principle.md) | [Patent Resistance Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Patent-Resistance-Principle) |
 | 16   | [Principio di Condivisione del Rischio](chapters/ch016-risk-sharing-principle.md) | [Risk Sharing Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Sharing-Principle) |
 | 17   | [Principio di Riserva](chapters/ch017-reservation-priciple.md) | [Reservation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Reservation-Principle) |
