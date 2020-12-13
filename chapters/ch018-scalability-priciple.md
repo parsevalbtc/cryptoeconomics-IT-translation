@@ -2,7 +2,7 @@
 
 
 
-La [scalabilità](https://it.wikipedia.org/wiki/Scalabilit%C3%A0) è l'incremento proporzionale di alcune prestazioni di un sistema quando viene impiegato più hardware. Il _throughput_ (n.d.t. intesa come capacità di processamento nell'unità di tempo) delle [transazioni](ch101-glossary.md#transazione) bitcoin è perfettamente non scalabile in quanto nessun quantitativo di hardware aggiuntivo può incrementarla.
+La [scalabilità](https://it.wikipedia.org/wiki/Scalabilit%C3%A0) è l'incremento proporzionale di alcune prestazioni di un sistema quando viene impiegato più hardware. Il _throughput_ (n.d.t. capacità di processamento nell'unità di tempo) delle [transazioni](ch101-glossary.md#transazione) bitcoin è perfettamente non scalabile in quanto nessun quantitativo di hardware aggiuntivo può incrementarlo.
 
 La [regola di consenso](ch101-glossary.md#regole-di-consenso) relativa limite alla dimensione del [blocco](ch101-glossary.md#blocco) stabilisce un compromesso arbitrario tra l'[utilità](ch101-glossary.md#utilità) e la sicurezza del sistema. Un aumento della dimensione del blocco incrementa marginalmente il _throughput_ delle [transazioni](ch101-glossary.md#transazione) e di conseguenza incrementa il costo delle risorse nella [validazione](ch101-glossary.md#validazione) delle stesse (i.e. elaborazione, storage, e banda). All'aumentare del costo di validazione, la sicurezza [economica](ch101-glossary.md#economia) è influenzata negativamente da un più elevato [rischio di centralizzazione](ch038-centralization-risk.md). Poiché il compromesso è arbitrario per natura, non può esistere una dimensione ideale (n.d.t. del blocco).
 
