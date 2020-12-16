@@ -1,8 +1,15 @@
 # Principio di Consolidamento
 
-La necessità di [cambiare]() una moneta con un'altra per poter [effettuare degli scambi]() con dei [commercianti]() rappresenta un costo. Questo costo deve essere non nullo anche se automatizzato, in quanto deve consumare spazio e/o tempo. Come tale, una sola moneta è sempre "meglio" (ha maggiore [utilità]()) di due monete, nella misura in cui l'unica moneta  risultante non diventi legata a delle [commissioni]() come implicato dalla [soglia di utilità]().
 
-Possiamo ragionevolmente supporre che due [monete]() distinte non possano avere perennemente la stessa utilità. La [Legge di Thiers]() mette in evidenza le conseguenze legate alla migliore moneta in assenza del controllo dello [stato](). Da questo concludiamo necessariamente che **la migliore tra le due monete, alla fine, rimpiazzerà l'altra** in assenza del controllo dello stato. Quando ciò avviene l'utilità matura a favore della moneta che sopravvive in un modo inverso rispetto a quanto dettagliato nel [Principio di Frammentazione]().
 
-Ciò non implica che (altre) nuove monete non possano essere create o esistere durante un significativo lasso di tempo. Implica che è presente una pressione di [mercato]() che indirizza verso una singola moneta. Una miglior moneta in una situazione, può non essere una buona moneta o addirittura una moneta utile in un'altra situazione. Per esempio, l'oro non è una moneta utile per il trasferimento elettronico e bitcoin non è molto utile in assenza di una rete. Una moneta rimpiazza un'altra negli scenari nei quali la prima è migliore
+La necessità di [cambiare](ch101-glossary.md#scambio-di-unità) una moneta con un'altra al fine di [effettuare degli scambi](ch101-glossary.md#scambio) con dei [commercianti](ch101-glossary.md#commerciante) rappresenta un costo. Questo costo deve essere non nullo anche se automatizzato in quanto deve consumare spazio e/o tempo. Per questa ragione, una sola moneta è sempre "migliore" (ha maggiore [utilità](ch101-glossary.md#utilità)) di due monete, nella misura in cui l'unica moneta risultante non diventi dipendente dal livello delle [_fee_](ch101-glossary.md#commissione-di-transazione-fee) come implicato dalla [soglia di utilità](ch031-utility-threshold-property.md).
+
+Possiamo ragionevolmente supporre che due [monete](ch005-money-taxonomy.md) distinte non possano avere perennemente la stessa utilità. La [Legge di Thiers](https://en.wikipedia.org/wiki/Gresham%27s_law#Reverse_of_Gresham.27s_Law_.28Thiers.27_Law.29) mette in evidenza le conseguenze legate alla migliore moneta in assenza del controllo dello [stato](ch101-glossary.md#stato). Da questo concludiamo necessariamente che, in assenza del controllo dello stato, **la migliore tra le due monete, alla fine, rimpiazzerà l'altra** . Quando ciò avviene, l'utilità si concentra sulla moneta che sopravvive in un modo opposto rispetto a quanto dettagliato ne il [Principio di Frammentazione](ch021-fragmentation-principle.md).
+
+Il principio non implica che (altre) nuove monete non possano essere create o esistere durante un significativo lasso di tempo.  Esso implica semplicemente che vi è una pressione di [mercato](ch101-glossary.md#) che indirizza verso una singola moneta. La migliore moneta in una situazione, può non essere affatto una buona moneta o addirittura una moneta utile in un'altra situazione. Per esempio, l'oro non è una moneta utile per il trasferimento elettronico e bitcoin non è molto utile in assenza di una rete. Una moneta rimpiazza un'altra negli scenari nei quali essa è migliore.
+
+---------
+Titolo originale: [Consolidation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Consolidation-Principle)
+
+[Indice](/README.md)
 
