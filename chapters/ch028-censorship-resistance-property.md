@@ -17,6 +17,6 @@ E' possibile che l'applicazione della censura posso portare un collasso del [pre
 Non può essere dimostrato che l'economia sia in grado di generare un livello di _fee_ sufficiente a sopraffare il censore. In maniera simile, non può essere dimostrato che il censore sia disponibile e capace di sussidiare le proprie operazioni ad ogni livello. Non è quindi possibile dimostrare la resistenza alla censura. Questo è il motivo per cui la resistenza al controllo dello stato è [assiomatica](ch004-axiom-of-resistance.md).
 
 ---------
-Titolo originale: [Proprietà di Resistenza alla Censura](https://github.com/libbitcoin/libbitcoin-system/wiki/Censorship-Resistance-Property)
+Titolo originale: [Censorship Resistance Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Censorship-Resistance-Property)
 [Indice](/README.md)
 
