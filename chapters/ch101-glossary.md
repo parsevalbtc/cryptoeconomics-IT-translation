@@ -546,7 +546,7 @@ Uno [Strumento](#strumento-tool) che compie [Lavoro](#lavoro).
 
 
 
-#### Dispositivo di Mining (Grinder) 
+#### Dispositivo di Mining (Grind) 
 
 Uno [Strumento](#strumento-tool) che compie operazioni di [Hashing](#hash).
 
