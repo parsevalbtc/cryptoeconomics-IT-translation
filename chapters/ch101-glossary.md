@@ -43,7 +43,7 @@ Un [Consenso](#consenso) che riguarda un mezzo di [Scambio](#scambio) mutuamente
 
 #### Regole di Consenso
 
-L'insieme di vincoli che definisce una [Moneta](#moneta).
+L'insieme dei vincoli che definisce una [Moneta](#moneta).
 
 
 
@@ -263,7 +263,7 @@ Il numero di [Blocchi](#blocco) più uno dopo una [Conferma](#conferma).
 
 #### Altezza (Height)
 
-Il numero di blocchi precedenti [Contenuti](#blocco) in un [Ramo](#ramo).
+Il numero di [blocchi](#blocco) precedenti contenuti in un [Ramo](#ramo).
 
 
 
@@ -417,13 +417,13 @@ L'insieme di tutte le [Unità](#unità) emesse.
 
 #### Scambio di Unità
 
-Lo [scambio](#scambio) di [Unità](#unità) per altra proprietà.
+Lo [Scambio](#scambio) di [Unità](#unità) per altra proprietà.
 
 
 
 #### Inflazione di prezzo
 
-Aumento nel prezzo medio di [scambio](#scambio-di-unità) nel tempo.
+Aumento nel prezzo medio di [Scambio](#scambio-di-unità) nel tempo.
 
 
 
