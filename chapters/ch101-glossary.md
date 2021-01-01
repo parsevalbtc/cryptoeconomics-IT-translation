@@ -471,7 +471,7 @@ Il ritorno (economico) derivante dalla [Speculazione](#speculare)
 
 #### Perdita
 
-Fallimento nel percepire [l'Interesse](#interesse) in un [Investimento](#dare-in-prestito---investire).
+Fallimento nel percepire l'[Interesse](#interesse) in un [Investimento](#dare-in-prestito---investire).
 
 > Si tratta di profitto negativo.
 
