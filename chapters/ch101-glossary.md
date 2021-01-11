@@ -213,7 +213,7 @@ Un [Ramo](#ramo-branch) avente meno [Prova](#prova) cumulata rispetto ad un altr
 
 #### Ramo forte (Strong Branch)
 
-Un [Ramo](#ramo-brancj) avente maggiore [Prova](#prova) cumulata rispetto ad un altro.
+Un [Ramo](#ramo-branch) avente maggiore [Prova](#prova) cumulata rispetto ad un altro.
 
 
 
@@ -449,7 +449,7 @@ Aumento nel prezzo medio di [Scambio](#scambio-di-unità) nel tempo.
 
 
 
-#### Prendere a prestito
+#### Prendere a Prestito
 
 [Scambiare](#scambio) tempo per [Unità](#unità) che garantiscono al [Prestatore](#dare-in-prestito---investire) maggiore [Utilità](#utilità) (nel futuro).
 
@@ -538,6 +538,7 @@ Utilizzare la [Comunicazione](#comunicazione) per sfruttare difetti nel [Protoco
 
 
 ## Componenti
+
 
 
 #### Centro di Mining (Mine)
