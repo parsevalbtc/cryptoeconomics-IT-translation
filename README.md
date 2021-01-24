@@ -78,7 +78,7 @@ TBD
 |55 | [Fallacia della Purezza Genetica](chapters/ch055-genetic-purity-fallacy.md) | [Genetic Purity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Genetic-Purity-Fallacy) |
 |56 | [Fallacia della Riserva Intera](chapters/ch056-full-reserve-fallacy.md) | [Full Reserve Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Full-Reserve-Fallacy) |
 |57 | [Fallacia dell'_Halving_](chapters/ch057-halving-fallacy.md) | [Halving Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Halving-Fallacy) |
-|58 | [Fallacia dell'Accumulazione](chapters/ch058-hoarding-fallacy.md) | [Hoarding Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Hoarding-Fallacy) |
+|58 | [Fallacia dell'Accumulo](chapters/ch058-hoarding-fallacy.md) | [Hoarding Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Hoarding-Fallacy) |
 |59| [Fallacia del Mining Ibrido](chapters/ch059-hybrid-mining-fallacy.md) | [Hybrid Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Hybrid-Mining-Fallacy) |
 |60 | [Fallacia della Moneta Ideale](chapters/ch060-ideal-money-fallacy.md) | [Ideal Money Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Ideal-Money-Fallacy) |
 |61 | [Fallacia del Mining Impotente](chapters/ch061-impotent-mining-fallacy.md) | [Impotent Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Impotent-Mining-Fallacy) |
