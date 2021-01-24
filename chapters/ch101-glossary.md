@@ -880,6 +880,7 @@ Che concerne le azioni degli [Stati](#stato).
 ## Debolezza
 
 
+
 #### Aggregazione
 
 La Tendenza alla ridotta partecipazione nel [Mining](centro-di-mining-mine) o nella [Validazione](#validità).
