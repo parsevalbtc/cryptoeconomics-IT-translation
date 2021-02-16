@@ -841,7 +841,7 @@ Ricorso all'aggressione al fine di controllare dell'[Hash Power](#hash-power).
 
 #### Coercizione
 
-Ricorso all'aggressione al fine di indurre ad una [Attivazione](#attivazione).
+Ricorso all'aggressione al fine di indurre una [Attivazione](#attivazione).
 
 
 
