@@ -110,7 +110,7 @@ TBD
 |87 | [Obiettivi di una _Fedcoin_](chapters/ch087-fedcoin-objectives.md) | [Fedcoin Objectives](https://github.com/libbitcoin/libbitcoin-system/wiki/Fedcoin-Objectives) |
 |88 | [L'errore di Hearn](chapters/ch088-hearn-error.md) | [Hearn Error](https://github.com/libbitcoin/libbitcoin-system/wiki/Hearn-Error) |
 |89 | [Tautologia dell'Oggetto da Collezione](chapters/ch089-collectible-tautology.md) | [Collectible Tautology](https://github.com/libbitcoin/libbitcoin-system/wiki/Hearn-Error) |
-|90 | [Una Stima di Prezzo](chapters/ch090-price-estimation.md) | [Price Estimation](https://github.com/libbitcoin/libbitcoin-system/wiki/Price-Estimation) |
+|90 | [Stime di Prezzo](chapters/ch090-price-estimation.md) | [Price Estimation](https://github.com/libbitcoin/libbitcoin-system/wiki/Price-Estimation) |
 |91 | [Relazione del Risparmio](chapters/ch091-saving-relation.md) | [Savings Relation](https://github.com/libbitcoin/libbitcoin-system/wiki/Savings-Relation) |
 |92 | [Consumo Speculativo](chapters/ch092-speculative-consumption.md) | [Speculative Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Speculative-Consumption) |
 |93 | [L'Inappropriata Denominazione dello Spam](chapters/ch093-spam-misnomer.md) | [Spam Misnomer](https://github.com/libbitcoin/libbitcoin-system/wiki/Spam-Misnomer) |
