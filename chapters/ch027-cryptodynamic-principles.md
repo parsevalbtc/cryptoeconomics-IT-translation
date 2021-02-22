@@ -1,4 +1,4 @@
-# Principi di Criptodinamica
+# Principi della Criptodinamica
 
 
 
@@ -20,7 +20,7 @@ Criptodinamica è l'insieme delle forze che proteggono le [transazioni](ch101-gl
 
 ### Principi
 
-La forza delle sicurezza è interamente umana in natura. Le [persone ](ch101-glossary.md#persona)devono agire per proteggere qualsiasi cosa, incluso Bitcoin. Vista come sistema economico, la sicurezza di Bitcoin prevede che le persone agiscano in una maniera economicamente razionale (proprio interesse). Come tale, le forze di sicurezza di Bitcoin sono basate interamente sulle azioni di singoli individui a tutela del proprio interesse, specificamente:
+La forza della sicurezza è interamente umana in natura. Le [persone ](ch101-glossary.md#persona)devono agire per proteggere qualsiasi cosa, incluso Bitcoin. Vista come sistema economico, la sicurezza di Bitcoin prevede che le persone agiscano in una maniera economicamente razionale (proprio interesse). Come tale, le forze di sicurezza di Bitcoin sono basate interamente sulle azioni di singoli individui a tutela del proprio interesse, specificamente:
 
 * [Condivisione del Rischio](ch016-risk-sharing-principle.md)
 * [Dissipazione di Energia](ch072-proof-of-stake-fallacy.md)

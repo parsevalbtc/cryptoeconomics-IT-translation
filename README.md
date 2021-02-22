@@ -47,7 +47,7 @@ TBD
 |24  | [Principio del Social Network](chapters/ch024-social-network-principle.md) | [Social Network Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Social-Network-Principle) |
 |25  | [Principio del Sistema Bancario di Stato](chapters/ch025-state-banking-principle.md) | [State Banking Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/State-Banking-Principle) |
 |26  | [Principio di Sostituzione](chapters/ch026-substitution-principle.md) | [Substitution Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Substitution-Principle) |
-|27  | [Principi di Criptodinamica](chapters/ch027-cryptodynamic-principles.md) | [Cryptodynamic Principles](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptodynamic-Principles) |
+|27  | [Principi della Criptodinamica](chapters/ch027-cryptodynamic-principles.md) | [Cryptodynamic Principles](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptodynamic-Principles) |
 |28  | [Proprietà di Resistenza alla Censura](chapters/ch028-censorship-resistance-property.md) | [Censorship Resistance Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Censorship-Resistance-Property) |
 | 29 | [Proprietà del Consenso](chapters/ch029-consensus-property.md) | [Consensus Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Consensus-Property) |
 | 30 | [Proprietà di Stabilità](chapters/ch030-stability-property.md) | [Stability Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Stability-Property)    |
