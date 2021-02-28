@@ -2,16 +2,19 @@
 
 
 
-Traduzione Italiana di [_Cryptoeconomics_](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics) contenuta in forma _open source_ nel _Repository_ [Libbitcoin](https://github.com/libbitcoin). 
+Traduzione Italiana di [_Cryptoeconomics_](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics) contenuta nel _Repository_ [Libbitcoin](https://github.com/libbitcoin). 
 
-Scritta ed edita da [Eric Voskuil](https://twitter.com/evoskuil)
+Opera originale: [Eric Voskuil](https://twitter.com/evoskuil)
+
+Traduzione Italiana e Revisione : [Parsevalbtc](https://twitter.com/parsevalbtc) 
+
+[Licenza](LICENSE.md)
 
 
 
-## Introduzione alla traduzione italiana
+## Introduzione alla Traduzione Italiana
 
-
-TBD 
+[Link](/intro-ita.md)
 
 
 
@@ -21,7 +24,7 @@ TBD
 
 | Capitolo | Titolo                                                       | Titolo Originale           |
 | -------- | ------------------------------------------------------------ | -------------------------- |
-| 1        | [Introduzione di Eric Voskuil](chapters/ch001-cryptoeconomics.md) | [Cryptoeconomics](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics) |
+| 1        | [Criptoeconomia](chapters/ch001-cryptoeconomics.md) | [Cryptoeconomics](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics) |
 | 2        | [Prefazione di Amir Taaky](chapters/ch002-foreword-by-amir-taaky.md) | [Foreword by Amir Taaki](https://github.com/libbitcoin/libbitcoin-system/wiki/Foreword-by-Amir-Taaki) |
 | 3        | [La _Value Proposition_](chapters/ch003-value-proposition.md) | [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition) |
 | 4        | [Assioma di Resistenza](chapters/ch004-axiom-of-resistance.md) | [Axiom of Resistance](https://github.com/libbitcoin/libbitcoin-system/wiki/Axiom-of-Resistance) |
@@ -122,4 +125,8 @@ TBD
 |99 | [Definizione di Massimalismo](chapters/ch099-maximalism-definition.md) | [Maximalism Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Maximalism-Definition) |
 |100 | [Definizione di _Shitcoin_](chapters/ch100-shitcoin-definition.md) | [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition) |
 |101 | [Glossario](chapters/ch101-glossary.md) | [Glossary](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary) |
+
+
+
+____
 
