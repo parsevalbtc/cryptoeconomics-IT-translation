@@ -399,7 +399,7 @@ Passaggio volontario di proprietà tra due [Persone](#persona).
 
 #### Utilità
 
-Il grado di Utilità di una certa proprietà per una [Persona](#persona).
+Il grado di beneficio che ha una certa proprietà per una [Persona](#persona).
 
 
 
