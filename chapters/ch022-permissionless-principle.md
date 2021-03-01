@@ -12,5 +12,6 @@ La sicurezza di Bitcoin non si estende quindi ai sistemi che operano nel mercato
 
 ---------
 Titolo originale: [Permissionless Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Permissionless-Principle)
+
 [Indice](/README.md)
 
