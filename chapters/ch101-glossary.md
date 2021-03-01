@@ -199,11 +199,11 @@ Una dimostrazione probabilistica della quantità di [Lavoro](#lavoro) svolta.
 
 #### Ramo (Branch)
 
-Una sequenza [valida](#validità) di [blocchi](#blocchi).
+Una sequenza [Valida](#validità) di [Blocchi](#blocchi).
 
 
 
-#### Ramo debole (Weak Branch)
+#### Ramo debole (eak Branch)
 
 Un [Ramo](#ramo-branch) avente meno [Prova](#prova) cumulata rispetto ad un altro.
 
@@ -243,7 +243,7 @@ L'insieme delle [Transazioni](#transazione) [Non Confermate](#non-confermata).
 
 #### Block Pool
 
-L'insieme dei [blocchi](#blocco) [deboli](#ramo-debole-weak-branch).
+L'insieme dei [Blocchi](#blocco) [Deboli](#ramo-debole-weak-branch).
 
 > Pool dei Blocchi Orfani è un nome fuorviante di questo termine.
 
