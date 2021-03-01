@@ -70,7 +70,7 @@ Traduzione Italiana e Revisione : [Parsevalbtc](https://twitter.com/parsevalbtc)
 | 44 | [Fallacia della Causazione](chapters/ch044-causation-fallacy.md) | [Causation Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Causation-Fallacy) |
 | 45 | [Fallacia dello Scarafaggio](chapters/ch045-cockroach-fallacy.md) | [Cockroach Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Cockroach-Fallacy) |
 | 46 | [Fallacia dell'Espansione del Credito](chapters/ch046-credit-expansion-fallacy.md) | [Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Credit-Expansion-Fallacy) |
-| 47 | [Fallacia della Circolo del Debito](chapters/ch047-debt-loop-fallacy.md) | [Debt Loop Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Debt-Loop-Fallacy) |
+| 47 | [Fallacia della _Loop_ del Debito](chapters/ch047-debt-loop-fallacy.md) | [Debt Loop Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Debt-Loop-Fallacy) |
 | 48 | [Fallacia del Mining Disaccoppiato](chapters/ch048-decoupled-mining-fallacy.md) | [Decoupled Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Decoupled-Mining-Fallacy) |
 | 49 | [Fallacia del _Dumping_](chapters/ch049-dumping-fallacy.md) | [Dumping Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Dumping-Fallacy) |
 |50 | [Fallacia del Blocco Vuoto](chapters/ch050-empty-block-fallacy.md) | [Empty Block Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Empty-Block-Fallacy) |
