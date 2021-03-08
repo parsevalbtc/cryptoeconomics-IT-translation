@@ -22,7 +22,7 @@ Traduzione Italiana e Revisione : [Parsevalbtc](https://twitter.com/parsevalbtc)
 
 
 
-| Capitolo | Titolo                                                       | Titolo Originale           |
+| Argomento | Titolo                                                       | Titolo Originale           |
 | -------- | ------------------------------------------------------------ | -------------------------- |
 | 1        | [Criptoeconomia](chapters/ch001-cryptoeconomics.md) | [Cryptoeconomics](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics) |
 | 2        | [Prefazione di Amir Taaki](chapters/ch002-foreword-by-amir-taaky.md) | [Foreword by Amir Taaki](https://github.com/libbitcoin/libbitcoin-system/wiki/Foreword-by-Amir-Taaki) |
