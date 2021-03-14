@@ -10,7 +10,7 @@ Provare delle affermazioni su Bitcoin richiede di affidarsi ad un sistema assiom
 >
 > Ma possiamo vincere una grande battaglia nella corsa agli armamenti e guadagnare una nuova frontiera di libertà per diversi anni. 
 >
-> I governi sono bravi a tagliare le teste di reti controllate centralmente come Napster, ma le reti puramente P2P come Gnutella e Tor sembrano sopravvivere.
+> I governi sono bravi a tagliare le teste delle reti controllate centralmente come Napster, ma le reti puramente P2P come Gnutella e Tor sembrano sopravvivere.
 
 In altre parole, viene fatta l'assunzione che un sistema _possa_ resistere al controllo dello [stato](ch101-glossary.md#stato). Ciò non viene accettato come un fatto compiuto, ma si ritiene che possa essere una assunzione ragionevole basata sul comportamento di sistemi simili.
 
