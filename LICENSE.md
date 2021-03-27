@@ -8,5 +8,5 @@ Per la traduzione Italiana: Copyright © 2021 Parsevalbtc - autorizzata da Eric 
 
 
 
-E' autorizzato l'uso e la diffusione dell'opera in formato elettronico citando il contenuto o riferendosi ad esso tramite weblink ai capitoli di interesse.
+E' autorizzato l'uso e la diffusione dell'opera nel solo formato elettronico citando il contenuto o riferendosi ad esso tramite weblink ai capitoli di interesse.
 
