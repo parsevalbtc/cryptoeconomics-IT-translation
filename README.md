@@ -6,7 +6,7 @@ Traduzione Italiana di [_Cryptoeconomics_](https://github.com/libbitcoin/libbitc
 
 Opera originale: [Eric Voskuil](https://twitter.com/evoskuil)
 
-Traduzione Italiana e Revisione : [Parsevalbtc](https://twitter.com/parsevalbtc) 
+Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc) 
 
 [Licenza](LICENSE.md)
 
