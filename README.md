@@ -14,7 +14,7 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 
 ## Introduzione alla Traduzione Italiana
 
-[Link](/intro-ita.md)
+[Introduzione](/INTRO-ITA.md)
 
 
 
