@@ -8,7 +8,7 @@ Opera originale: [Eric Voskuil](https://twitter.com/evoskuil)
 
 Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc) 
 
-[Licenza](LICENSE.md)
+[Licenza](LICENSE)
 
 
 
