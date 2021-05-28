@@ -1,4 +1,4 @@
- # Tassonomia della Moneta
+# Tassonomia della Moneta
 
 
 
@@ -23,8 +23,7 @@ La moneta merce è anch'essa una una moneta di mercato, in quanto essa non dipen
 Sia le monete che i sostituti monetari costituiscono una [valuta](https://it.wikipedia.org/wiki/Valuta). Ci si riferisce talvolta alla moneta come ad una base monetaria. Tutte le monete sono soggette ad essere date in prestito e sono quindi sono soggette all'espansione del credito (i.e. in forma di sostituti monetari) che porta ad una corrispondente [riserva](ch098-reserve-definition.md) frazionaria.
 
 
-
- #### Riepilogo
+#### Riepilogo
 
 * [Valuta](https://it.wikipedia.org/wiki/Valuta)
   * [Moneta](https://it.wikipedia.org/wiki/Denaro) [presente]
@@ -48,4 +47,5 @@ Sia le monete che i sostituti monetari costituiscono una [valuta](https://it.wik
 Titolo originale: [Money Taxonomy](https://github.com/libbitcoin/libbitcoin-system/wiki/Money-Taxonomy)
 
 [Indice](/README.md)
+
 
