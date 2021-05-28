@@ -12,7 +12,8 @@ L'effettiva capacità di supportare transazioni aggiuntive, e di conseguenza l'u
 
 **Di conseguenza la stabilità e la non scalabilità esistono per ogni dimensione del blocco e per ogni livello di _layering_.**
 
----------
+---
+
 Titolo originale: [Scalability Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Scalability-Principle)
 
 [Indice](/README.md)
