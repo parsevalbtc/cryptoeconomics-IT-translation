@@ -12,11 +12,12 @@ Un aumento o una diminuzione del numero di commercianti che accettano una delle 
 
 Di conseguenza, una separazione produce sia uno spostamento che una riduzione di utilità in proporzione alla dimensione relativa delle due economie. Ne la [Fallacia dell'Effetto Network](ch066-network-effect-fallacy.md) viene spiegato perché la riduzione non sia di natura quadratica, come talvolta si tende a credere.
 
-Sebbene possa sembrare che nello spostamento qualcuno abbia "preso" valore dalla moneta originale, tale valore è tuttavia "andato" a formare la moneta separata. In altre parole, i commercianti sono padroni del valore che essi stessi attribuiscono ad una moneta. Nel momento della separazione un'unità originale si trasforma in due unità ciascuna avente proporzionalmente una diminuita utilità rispetto all'originale. impiegando una [_replay protection_](ch076-replay-protection-fallacy.md) obbligatoria e bidirezionale, ciascuna (n.d.t. delle due monete) può essere [spesa]() senza costi addizionali. Altrimenti la necessità di protezione da questo evento [porta a scontare](https://it.wikipedia.org/wiki/Valore_attuale_netto) le unità della(e) catena(e) non protetta(e).
+Sebbene possa sembrare che nello spostamento qualcuno abbia "preso" valore dalla moneta originale, tale valore è tuttavia "andato" a formare la moneta separata. In altre parole, i commercianti sono padroni del valore che essi stessi attribuiscono ad una moneta. Nel momento della separazione un'unità originale si trasforma in due unità ciascuna avente proporzionalmente una diminuita utilità rispetto all'originale. impiegando una [_replay protection_](ch076-replay-protection-fallacy.md) obbligatoria e bidirezionale, ciascuna (n.d.t. delle due monete) può essere [spesa](ch101-glossary.md#spesa) senza costi addizionali. Altrimenti la necessità di protezione da questo evento [porta a scontare](https://it.wikipedia.org/wiki/Valore_attuale_netto) le unità della(e) catena(e) non protetta(e).
 
 Questa analisi è applicabile anche alle nuove monete. La differenza nel caso di una nuova moneta risiede nel fatto che le unità delle (altre) monete originali non possono essere spese sulla nuova catena. Per questa ragione, la nuova moneta deve affrontare la difficoltà di allocare le sue unità che richiede lavoro e quindi tempo. Le separazioni [avviano automaticamente (_bootstrap_)](https://en.wikipedia.org/wiki/Bootstrapping) questo processo suddividendo l'utilità di una catena esistente, nella misura in cui i suoi commercianti sono disposti a fare ciò.
 
----------
+---
+
 Titolo originale: [Fragmentation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Fragmentation-Principle)
 [Indice](/README.md)
 
