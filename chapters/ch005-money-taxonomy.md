@@ -43,6 +43,7 @@ Sia le monete che i sostituti monetari costituiscono una [valuta](https://it.wik
       * [Banconota](https://it.wikipedia.org/wiki/Banconota) 
         * [_Silver Certificate_ Statunitense](https://en.wikipedia.org/wiki/Silver_certificate_(United_States))
 
+
 ---------
 
 Titolo originale: [Money Taxonomy](https://github.com/libbitcoin/libbitcoin-system/wiki/Money-Taxonomy)
