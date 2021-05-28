@@ -8,7 +8,8 @@ Il processo di [mining](centro-di-mining-mine) è altamente competitivo. La prot
 
 Se le persone non oppongono resistenza a queste forze non vi è [sicurezza](ch035-qualitative-security-model.md) nella moneta. Quando il [livello di minaccia](ch033-threat-level-paradox.md) aumenta le conseguenze della violazione di brevetto diventano un rischio di livello pari a quello dello stesso mining. Per questa ragione l'impatto dei brevetti non è irrilevante poiché riguarda la sicurezza della moneta.
 
----------
+---
+
 Titolo originale: [Patent Resistance Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Patent-Resistance-Principle)
 
 [Indice](/README.md)
