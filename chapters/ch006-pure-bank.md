@@ -1,7 +1,6 @@
 # Modello di Banca Pura
 
 
-
 Il concetto di una banca pura può essere utile nel dimostrare il comportamento generale dell'[imprestare il denaro](ch101-glossary.md#dare-in-prestito---investire).
 
 Una banca pura fornisce solamente i seguenti servizi:
@@ -72,14 +71,12 @@ rapporto-di-debito = preso-in-prestito / riservato
 ```
 
 
-
 ##### Rapporto di Risparmio
 
 ```
 rapporto-di-risparmio = investito / riservato 
 		      =  investito / (preso-in-prestito - investito) 
 ```
-
 
 
 ##### Stato Patrimoniale
@@ -90,6 +87,7 @@ La banca pura non ha fonti di indebitamento (passività) ma solamente capitale s
 | :--------------------------: | :--------------------------: |
 |    investito + riservato     |      preso-in-prestito       |
 
+
 ##### Tasso di Rendimento
 
 Il tasso di rendimento del creditore è, in aggiunta, una funzione del tasso di interesse. Il tasso di rendimento del creditore è inferiore al tasso di interesse del debitore a causa del _cash drag_, la spesa necessaria per sostenere la domanda di prelievo. Per ridurre queste spese sono tipicamente inclusi dei vincoli temporali nei [contratti delle banche reali](https://www.chase.com/content/dam/chasecom/en/checking/documents/deposit_account_agreement.pdf). Ad esempio, per legge ogni prelievo da un conto corrente con interesse degli Stati Uniti può essere ritardato di 7 giorni. Il creditore può eliminare il _cash drag_ tenendo il debito in un fondo di investimento (i.e. senza assicurazioni sul _settlement_) rispetto a tenerlo in una banca.
@@ -98,7 +96,7 @@ Il tasso di rendimento del creditore è, in aggiunta, una funzione del tasso di 
 tasso-di-rendimento = tasso-di-interesse * (investito / preso-in-prestito)
 ```
 
-Come mostrato ne la [Relazione del Risparmio](ch091-saving-relation.md) il rapporto di capitale è il tasso di interesse (n.d.t. la relazione è stata modificata e non ha un tale livello di generalità e questo paragrafo ha subito concordemente delle modifiche - si veda il commento nel capitolo relativo. Ai fini della presente versione l'applicazione della relazione segue la specifica assunzione che il capitale accumulato si deprezzi intereamente e venga interamente sostituito dall'interesse ottenuto dall'investimento). Il rapporto di capitale include il deprezzamento dei beni presenti, che nel caso della moneta è il _demurrage_. Il _demurrage_ della banca pura è 1, e quindi questo termine scompare dall'espressione. Sostituendo il rapporto di capitale nella formula si ottiene il tasso di rendimento espresso nei termini del capitale preso a prestito ed investito.
+Come mostrato ne la [Relazione del Risparmio](ch091-saving-relation.md) il rapporto di capitale è il tasso di interesse (n.d.t. la relazione è stata modificata e non ha un tale livello di generalità: questo paragrafo ha subito concordemente delle modifiche - si veda il commento nel capitolo relativo. Ai fini della presente versione l'applicazione della relazione segue la specifica assunzione che il capitale accumulato si deprezzi interamente e venga interamente sostituito dall'interesse ottenuto dall'investimento). Il rapporto di capitale include il deprezzamento dei beni presenti, che nel caso della moneta è il _demurrage_. Il _demurrage_ della banca pura è 1, e quindi questo termine scompare dall'espressione. Sostituendo il rapporto di capitale nella formula si ottiene il tasso di rendimento espresso nei termini del capitale preso a prestito ed investito.
 
 ```
 tasso-di-rendimento = (riservato * demurrage / investito) * (investito / preso-in-prestito)
@@ -107,6 +105,7 @@ tasso-di-rendimento = (riservato * demurrage / investito) * (investito / preso-i
 ```
 
  **Il tasso di rendimento di una banca pura è il rapporto di riserva.**
+
 
 ##### Le Banche Reali
 
@@ -144,4 +143,5 @@ Ogni [persona](ch101-glossary.md#persona), o società di persone, è una banca r
 Titolo orginale: [Pure Bank](https://github.com/libbitcoin/libbitcoin-system/wiki/Pure-Bank)  
 
 [Indice](/README.md)
+
 
