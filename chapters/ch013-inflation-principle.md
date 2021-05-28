@@ -46,7 +46,8 @@ Indipendentemente dalla crescita economica (o dalla contrazione), la variazione 
 
 Nella misura in cui ciò riguarda la moneta merce, questo principio è basato sull'assunzione che il quantitativo di beni richiesto per produrre la moneta rimanga costante. Il prezzo dei beni espressi nella moneta viene quindi mantenuto costante dalla relazione monetaria. Tuttavia, se il quantitativo di beni necessario per produrre una moneta commodity aumenta o diminuisce, viene rispettivamente implicata una decrescita od una crescita dei prezzi espressi in quella moneta. Di conseguenza, indipendentemente dalla domanda, la relazione monetaria è controllata dal tasso di variazione dei fattori di produzione necessari. Si presume che tali cambiamenti non siano predicibili in quanto sono già incorporati nel prezzo. Per questa ragione ciò costituisce un errore speculativo.
 
----------
+---
+
 Titolo originale: [Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflation-Principle)
 
 [Indice](/README.md)
