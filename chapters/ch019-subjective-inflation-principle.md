@@ -10,7 +10,8 @@ L'[inflazione del prezzo](https://github.com/libbitcoin/libbitcoin-system/wiki/S
 
 Questo principio potrebbe essere ottenuto più semplicemente dalla definizione di libero [mercato](ch101-glossary.md#mercato) che è, di per sé, una entità costruita solamente sulle preferenze personali.
 
----------
+---
+
 Titolo originale: [Subjective Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Subjective-Inflation-Principle)
 
 [Indice](/README.md)
