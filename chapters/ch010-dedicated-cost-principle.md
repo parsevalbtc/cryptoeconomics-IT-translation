@@ -10,7 +10,8 @@ E' stata formulata una teoria secondo la quale la [proof-of-work](ch101-glossary
 
 Il [_Merged Mining_](https://eprint.iacr.org/2017/791.pdf) viene solitamente implementato per risolvere il problema di "bootstrappare" (n.d.t. avviare) una nuova moneta superando le fasi vulnerabili di basso [hash rate](ch101-glossary.md#hash-rate). Questo tipo di progettazione non riconosce che l'hash rate che non viene dedicato alla nuova moneta non contribuisce alla sua sicurezza. Poiché l'intero costo dell'[hash rate]() può essere recuperato vendendolo su una catena, non vi è alcun costo nel censurare le altre catene validate tramite _merged mining_.
 
----------
+---
+
 Titolo originale: [Dedicated Cost Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Dedicated-Cost-Principle)
 
 [Indice](/README.md)
