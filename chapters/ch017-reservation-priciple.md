@@ -14,7 +14,8 @@ La [principale riserva estera degli Stati Uniti](https://it.wikipedia.org/wiki/R
 
 L'uso dell'oro come riserva di stato non offre alcun beneficio monetario agli individui che sono comunque costretti ad utilizzare negli scambi la moneta di monopolio. Come mostrato ne la [Fallacia della Valuta di Riserva](ch077-reserve-currency-fallacy.md), il Bitcoin come riserva di stato non può rappresentare un miglioramento. Tuttavia, a differenza dell'oro, la definizione di Bitcoin appartiene a coloro che lo accettano nello scambio. Se la maggior parte dei bitcoin fosse in mano allo stato e le persone utilizzassero dei [sostituiti monetari](https://wiki.mises.org/wiki/Money_substitutes) negli scambi, nessuna azione potrebbe impedire allo stato di introdurre arbitrariamente sia [inflazione](ch101-glossary.md#inflazione) che [censura](ch101-glossary.md#).
 
----------
+---
+
 Titolo originale: [Reservation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Reservation-Principle)
 
 [Indice](/README.md)
