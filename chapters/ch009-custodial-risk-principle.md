@@ -12,7 +12,8 @@ Nel caso di Bitcoin, i commercianti offrono la loro proprietà in [cambio](ch101
 
 Come mostrato ne la [Fallacia della Prova di Proprietà](ch071-proof-of-ownership-fallacy.md), la "tecnologia blockchain" non può offrire alcuna protezione contro il default del custode. Un asset "tokenizzato" è una _security_. L'opportunità, da parte del custode, di perpetrare una frode o un furto, sia in maniera diretta che sotto la costrizione dello stato, non viene ridotta. **Così come per le monete _commodity_ come l'oro, la riduzione del rischio di custodia offerta da Bitcoin non deriva della tecnologia o da una obbligazione contrattuale, ma dalle dimensione della sua economia.** Ironicamente sono le "_security_" ad essere insicure.
 
----------
+----
+
 Titolo originale: [Custodial Risk Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Custodial-Risk-Principle)
 
 [Indice](/README.md)
