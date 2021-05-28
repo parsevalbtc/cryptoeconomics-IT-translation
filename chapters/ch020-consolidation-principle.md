@@ -8,7 +8,8 @@ Possiamo ragionevolmente supporre che due [monete](ch005-money-taxonomy.md) dist
 
 Il principio non implica che (altre) nuove monete non possano essere create o esistere durante un significativo lasso di tempo.  Esso implica semplicemente che vi è una pressione di [mercato](ch101-glossary.md#) che indirizza verso una singola moneta. La migliore moneta in una situazione, può non essere affatto una buona moneta o addirittura una moneta utile in un'altra situazione. Per esempio, l'oro non è una moneta utile per il trasferimento elettronico e bitcoin non è molto utile in assenza di una rete. Una moneta rimpiazza un'altra negli scenari nei quali essa è migliore.
 
----------
+---
+
 Titolo originale: [Consolidation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Consolidation-Principle)
 
 [Indice](/README.md)
