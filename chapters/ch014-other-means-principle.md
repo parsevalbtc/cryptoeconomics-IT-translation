@@ -19,7 +19,8 @@ Assumendo una sufficiente resistenza, Bitcoin continua ad esistere indipendentem
 
 Considerando a parte la continua fase di contrasto al mercato nero, la fase competitiva è caratterizzata da una pacifica battaglia di [hash power](ch101-glossary.md#hash-power) tra lo stato e gli individui. Lo stato opera in [perdita](ch101-glossary.md#perdita) poiché deve escludere le transazioni soggette a censura (n.d.t. nei blocchi da lui minati). Questa perdita è compensata dal gettito fiscale. La pressione dovuta alle [fee](ch101-glossary.md#commissioni-di-transazione-fee) delle transazioni censurate [aumenta](ch028-censorship-resistance-property.md) fino al punto in cui il sussidio derivante dalla tassa sul mining non è compensato da questo livello di _fee_. **A questo punto le tasse e le commissioni delle transazioni censurate aumentano entrambe fino al punto in cui uno schieramento del conflitto non dichiara la resa.** In questa modo Bitcoin può potenzialmente vincere una guerra [per altri mezzi](https://it.wikiquote.org/wiki/Carl_von_Clausewitz). Non si può assumere, tuttavia, che questa resa sia perpetua. Come implicato ne il [Paradosso del livello di Minaccia](ch033-threat-level-paradox.md), è probabile che la situazione possa riportarsi alle fasi precedenti al diminuire della minaccia.
 
----------
+---
+
 Titolo originale: [Other Means Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Other-Means-Principle)
 
 [Indice](/README.md)
