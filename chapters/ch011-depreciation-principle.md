@@ -75,7 +75,8 @@ tasso-di-crescita-moneta-merce = tasso-di-crescita-moneta-pura - demurrage
 
 I tassi di crescita delle monete [inflazionarie]() e deflazionarie sono discussi nella [Fallacia della Moneta non Prestabile](ch086-unlendable-money-fallacy.md).
 
----------
+---
+
 Titolo originale: [Principio di Svalutazione](https://github.com/libbitcoin/libbitcoin-system/wiki/Depreciation-Principle)
 
 [Indice](/README.md)
