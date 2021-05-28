@@ -14,7 +14,8 @@ Viene talvolta affermato che il tempo ha valore perché la vita è un fenomeno t
 
 **L'azione è l'espressione della preferenza umana attraverso i beni.** I processi che vengono controllati dalle persone sono azione mentre i processi che vengono compiuti da macchine sono beni. In altre parole, [produzione](ch007-production-and-consumption.md)/[lavoro](ch008-labor-and-leisure.md), scambio/furto, e tempo libero/spreco sono azioni, mentre siti web, catene di montaggio e automobili sono beni.
 
----------
+---
+
 Titolo originale: [Expression Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Expression-Principle)
 
 [Indice](/README.md)
