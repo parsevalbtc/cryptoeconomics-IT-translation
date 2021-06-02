@@ -43,7 +43,7 @@ Il risultato per una mutua adozione del Dollaro  (**P**unizione):
 
 Per essere considerato un dilemma del prigioniero deve valere la relazione `T > R > P > S` dove:
 
-*  `T > R ` e `P > S` implicano che il Dollaro è la strategia dominante per ciascuno.
+* `T > R ` e `P > S` implicano che il Dollaro è la strategia dominante per ciascuno.
 * `R > P`  implica che la mutua adozione di Bitcoin è preferita alla mutua adozione del Dollaro.
 
 Possiamo concludere che valga  `P > S`  in quanto una sanzione economica individuale implica che non vi sia nessun _settlement_ internazionale e di conseguenza nessun beneficio dall'avere una [riserva estera](https://en.wikipedia.org/wiki/Foreign_exchange_reserves), e presumibilmente le sanzioni rappresentano una conseguenza non desiderabile.
@@ -79,7 +79,8 @@ La relazione tra oro e Bitcoin presume che i costi di [_clearing_](https://it.wi
 
 Il Dollaro è stato preferito all'oro nonostante esso abbia peso simile, ingombro significativamente più grande, e che subisca l'applicazione del signoraggio. La relazione tra oro e Bitcoin presume che non vi sia alcuna distinzione tra i due in termini di volatilità e liquidità, sebbene l'oro [superi](https://coinweek.com/bullion-report/bitcoin-vs-gold-10-crystal-clear-comparisons/) oggettivamente Bitcoin in entrambi i campi. Poiché sia Bitcoin che l'oro sono [monete stabili](ch030-stability-property.md), non viene assunto alcun ritorno speculativo per entrambe. Si presume inoltre che altre proprietà monetarie relative all'oro, a Bitcoin e al Dollaro siano equivalenti o non rilevanti dal punto di vista di una valuta di riserva di stato.
 
----------
+---
+
 Titolo originale: [Prisoner's Dilemma Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Prisoner's-Dilemma-Fallacy)
 
 [Indice](/README.md)

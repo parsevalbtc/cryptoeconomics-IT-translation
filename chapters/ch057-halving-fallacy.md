@@ -12,7 +12,8 @@ Si consideri anche il caso di cambiamenti di prezzo, sia gli aggiustamenti nella
 
 La teoria prende inoltre in considerazione l'eventualità che la ricompensa possa essere insufficiente per remunerare i miner per il livello di difficoltà subito dopo un _halving_. Per questo motivo essi potrebbero optare per ridurre l'_hash rate_, quindi estendendo il tempo delle [conferme](ch101-glossary.md#conferma) finché, le _fee_ non siano cresciute,  il prezzo aumenti e/o la difficoltà si aggiusti verso il basso. Tuttavia le _fee_ ed il prezzo sono determinate su un mercato e possono certamente crescere a qualsiasi livello le [persone](ch101-glossary.md#persona) siano disposte a spendere. Non vi è modo di sapere quale livelli il mercato sosterrà. Tuttavia i primi due più importanti eventi di _halving_ sono passati senza interruzioni (n.t.d. così come il terzo halving). Le _fee_ ed il prezzo sono saliti entrambi, spingendo un significativo incremento dell'_hash rate_ totale. Poiché i prossimi _halving_ daranno luogo all'equivalente di un riduzione esponenzialmente _più piccola_ della ricompensa, non vi è ragione di credere che gli eventi futuri saranno più interessanti di quelli passati.
 
----------
+---
+
 Titolo originale: [Halving Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Halving-Fallacy)
 
 [Indice](/README.md)

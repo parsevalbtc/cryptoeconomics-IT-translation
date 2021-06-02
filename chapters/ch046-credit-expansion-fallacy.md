@@ -31,7 +31,7 @@ La quantità M0 sommata a tutta la moneta (n.d.t. in realtà credito bancario - 
 | **Credito Totale**       | 94'724'997'156'483 $ |
 
 * Il rapporto totale della moneta rispetto al suo credito è intorno al 3.46% o equivalentemente **l'espansione del credito è 29.9 volte la moneta sottostante**. 
-* Le [riserve](https://www.federalreserve.gov/releases/h3/current/default.htm) bancarie pari a $1,400,949,000,000 $ indicano un rapporto di riserva pari a circa l'11.11% sul credito, o equivalentemente **una espansione del credito di 9.0 volte la moneta sottostante**. Questo dato è leggermente superiore al [requisito di riserva](https://en.wikipedia.org/wiki/Reserve_requirement) che [non è mai superiore al 10%](https://en.wikipedia.org/wiki/Reserve_requirement#United_States) (n.d.t. si noti che l'affermazione riflette la situazione alla stesura del capitolo nel corso del 2019, a partire dal 2020 il requisito di riserva negli Stati Uniti è stato abolito (0%) _ex lege_, sic!) .
+* Le [riserve](https://www.federalreserve.gov/releases/h3/current/default.htm) bancarie pari a 1,400,949,000,000 $ indicano un rapporto di riserva pari a circa l'11.11% sul credito, o equivalentemente **una espansione del credito di 9.0 volte la moneta sottostante**. Questo dato è leggermente superiore al [requisito di riserva](https://en.wikipedia.org/wiki/Reserve_requirement) che [non è mai superiore al 10%](https://en.wikipedia.org/wiki/Reserve_requirement#United_States) (n.d.t. si noti che l'affermazione riflette la situazione alla stesura del capitolo nel corso del 2019, a partire dal 2020 il requisito di riserva negli Stati Uniti è stato abolito (0%) _ex lege_, sic!) .
 *  La Riserva relativa alla moneta rimanente (i.e. che esclude le riserve bancarie) rispetto ai titoli obbligazionari ed azionari (i.e. il rapporto tra M0 meno le riserve bancarie e la somma di obbligazioni ed azioni) è pari a circa il 2.08%, ovvero **una espansione del credito di 48.0 volte la moneta**.
 
 L'eliminazione dell'espansione del credito richiede l'eliminazione del credito e di conseguenza della produzione. Tutto il credito è soggetto a default. Tuttavia la teoria afferma che il credito bancario è differente presumendo che esso sia "_risk free_". Questa presunzione deriva dall'esistenza di una [assicurazione dei contribuenti](https://www.fdic.gov/) di tale credito. Questo fatto non è una conseguenza del sistema bancario ma dell'intervento dello stato nel sistema bancario. Nella misura in cui questa presunzione è attribuita al [_free banking_](https://it.wikipedia.org/wiki/Free_banking), la teoria è invalida. Tutte le categorie di impresa sono soggette a fallimento e non essendo diverso da esse il _free banking_ elimina questa errata percezione.
@@ -50,7 +50,8 @@ Non importa se ci si riferisce al prestatore come ad una "banca", tutti gli inve
 
 Eliminare l'espansione del credito è equivalente alla condizione di preferenza temporale infinita, cui corrisponde un tasso di interesse infinito, nessun capitale disponibile per la produzione e nessun prodotto disponibile per il consumo. Negli stati dove il credito è limitato per legge (dalle leggi sull'[usura](https://it.wikipedia.org/wiki/Usura)) gli investimenti vanno verso gli strumenti azionari, i [prestiti predatori](https://en.wikipedia.org/wiki/Loan_shark) o viene posto fine alla produzione.
 
----------
+---
+
 Titolo originale: [Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Credit-Expansion-Fallacy)
 
 [Indice](/README.md)

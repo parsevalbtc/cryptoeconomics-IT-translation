@@ -26,7 +26,8 @@ Esiste un'ipotesi secondo la quale il Bitcoin sia un indice obiettivo mentre l'o
 
 Questa teoria è di conseguenza invalida. O le monete fiat di stato cesseranno di esistere o permetteranno sempre la riscossione della tassa di signoraggio implicata dalla loro esistenza. Gli stati rinunceranno alla tassa solo sotto estrema pressione e, in tal caso, solo per breve tempo. Al limite, la "moneta ideale" sarà Bitcoin e non potrà essere scambiata liberamente con le monete di stato (nel caso esse rimanessero in circolazione). 
 
----------
+---
+
 Titolo originale: [Ideal Money Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Ideal-Money-Fallacy)
 
 [Indice](/README.md)

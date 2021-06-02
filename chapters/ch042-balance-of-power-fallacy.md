@@ -12,7 +12,8 @@ I commercianti acquistano un servizio dai miner e come tale i due soggetti sono 
 
 Questa mancata comprensione del fenomeno porta le persone a credere che il mining può essere [raggruppato](ch101-glossary.md#raggruppamento-pooling) in maniera centralizzata a patto che i commercianti non operino una validazione [centralizzata](ch101-glossary.md#centralizzazione), cosa che porterebbe [l'economia](ch101-glossary.md#economia) a controllare il comportamento del mining, rendendo il sistema sicuro. Questa convinzione è scorretta ma sfortunatamente le persone [stanno traendo queste conclusione errate](https://www.coindesk.com/uasf-revisited-will-bitcoins-user-revolt-leave-lasting-legacy) a partire dagli eventi recenti. Una [fallacia strettamente collegata](ch073-proof-of-work-fallacy.md) a quest'ultima è la convinzione che un _fork_ della _proof of work_ da parte dei commercianti possa controllare il comportamento dei miner. 
 
----------
+---
+
 Titolo originale: [Balance of Power Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Balance-of-Power-Fallacy)
 
 [Indice](/README.md)

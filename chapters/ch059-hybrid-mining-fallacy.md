@@ -10,7 +10,8 @@ Il costo del mining ibrido è il costo combinato del [lavoro](ch101-glossary.md#
 
 In un modello nel quale un detentore di una quota maggioritaria di _stake_ può impedire la conferma di blocchi costruiti con PoW altrimenti [validi](ch101-glossary.md#validità), il censore, una volta che tale maggioranza è raggiunta, [non può essere destituito](ch072-proof-of-stake-fallacy.md). Questo sistema è fondamentalmente una moneta basata su PoS che manca di [resistenza alla censura](ch028-censorship-resistance-property.md) e dove la parte di PoW non fornisce alcuna sicurezza addizionale.
 
----------
+---
+
 Titolo originale: [Hybrid Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Hybrid-Mining-Fallacy)
 
 [Indice](/README.md)

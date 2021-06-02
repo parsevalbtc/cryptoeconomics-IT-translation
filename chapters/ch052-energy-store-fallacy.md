@@ -6,7 +6,8 @@ Vi è una teoria secondo la quale il valore di energia speso nella [proof](ch101
 
 Tuttavia la teoria è errata quando implica che il valore dell'energia speso nel [mining](ch101-glossary.md#centro-di-mining-mine) è unico nel suo contributo al valore. I miner [scambiano](ch101-glossary.md#scambiano) energia in cambio di [unità](ch101-glossary.md#unità). Tuttavia tutti i [commercianti](ch101-glossary.md#commerciante) scambiano qualcosa in cambio di unità. Tutte le cose offerte in uno scambio rappresentano la domanda. **Fatta salva la grandezza, una fonte di domanda non può essere considerata arbitrariamente un fattore più determinante del valore rispetto ad un altra fonte di domanda**. Per questa ragione la teoria è invalida.
 
----------
+---
+
 Titolo originale: [Energy Store Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Store-Fallacy)
 
 [Indice](/README.md)

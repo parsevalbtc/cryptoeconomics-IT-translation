@@ -14,7 +14,8 @@ La PoW è costituita da differenti forme di costo che includono lavoro, hardware
 
 Inoltre, garantire la sicurezza di una [moneta](ch101-glossary.md#moneta) rappresenta un costo per i [commercianti](ch101-glossary.md#commerciante). Per questa ragione, il fatto che essa venga usata implica che essa sia preferita rispetto alle alternative. Questo implica che le alternative sono essenzialmente più costose. Poiché tutti i costi si riducono fondamentalmente al consumo di energia, segue che la moneta in uso è quella maggiormente efficiente dal punto di vista energetico. 
 
----------
+---
+
 Titolo originale: [Energy Waste Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Waste-Fallacy)
 
 [Indice](/README.md)

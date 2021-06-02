@@ -8,7 +8,8 @@ Vi è una teoria collegata secondo la quale [scambiare](ch101-glossary.md#scambi
 
 Infine, vi è una teoria collegata secondo la quale la riduzione dell'[accumulo](https://en.wikipedia.org/wiki/Hoarding_(economics)) riduce generalmente i prezzi di scambio del bene accumulato. Ciò è [vero](https://mises.org/wire/problem-hoarding), tuttavia un [trasferimento](ch101-glossary.md#trasferimento) non rappresenta una riduzione del livelli di accumulo a meno che l'acquirente della proprietà accumulata, successivamente, non la accumuli in maniera minore rispetto al venditore. E' un errore assumere che tale ipotesi si applichi in questo caso. 
 
----------
+---
+
 Titolo originale: [Dumping Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Dumping-Fallacy)
 
 [Indice](/README.md)

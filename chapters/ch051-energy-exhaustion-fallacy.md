@@ -26,7 +26,8 @@ H ~ S / C
 
 Quando l'approvvigionamento di energia viene ridotto il suo [prezzo](ch101-glossary.md#prezzo) deve aumentare, cosa che riduce il quantitativo speso per un dato livello di sicurezza. Di conseguenza l'energia non può essere esaurita dal [mining](ch101-glossary.md#centro-di-mining-mine) e la teoria è invalida.
 
----------
+---
+
 Titolo originale: [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
 
 [Indice](/README.md)

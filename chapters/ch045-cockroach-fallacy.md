@@ -12,7 +12,8 @@ Per questa ragione non è possibile assumere che tutti i grossi centri di mining
 
 La teoria inoltre ignora la [centralizzazione](ch101-glossary.md#centralizzazione) e la [delegazione](ch101-glossary.md#delegazione) economiche. E' un errore assumere che l'economia possa decentralizzarsi rapidamente e inoltre, sarebbe molto probabilmente infattibile annullare i rapporti di delega in essere nel caso di un attacco da parte dello stato poiché, solitamente, il [controllo dei cambi](https://en.wikipedia.org/wiki/Foreign_exchange_controls) limita i [trasferimenti](ch101-glossary.md#trasferimento).
 
----------
+---
+
 Titolo originale: [Cockroach Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Cockroach-Fallacy)
 
 [Indice](/README.md)

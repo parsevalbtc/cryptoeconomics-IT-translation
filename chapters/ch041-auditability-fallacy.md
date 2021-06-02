@@ -8,7 +8,8 @@ La verifica della solvibilità richiede la prova di esistenza contemporanea ([at
 
 In alcuni casi risulterebbe sufficiente rinunciare al requisito di atomicità accettando la non correttezza del sistema sotto l'ipotesi che deviazioni materiali nel suo funzionamento verrebbero alla fine scoperte. Tuttavia nel caso del [sistema bancario di stato](ch077-reserve-currency-fallacy.md) non è sufficiente rivelare una deviazione. Storicamente non è stato difficile scoprire queste deviazioni. La difficoltà risiede (n.d.t. interamente) nel porre fine ad esse.
 
----------
+---
+
 Titolo originale: [Auditability Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Auditability-Fallacy)
 
 [Indice](/README.md)

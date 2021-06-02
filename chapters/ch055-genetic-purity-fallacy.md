@@ -8,7 +8,8 @@ Basandosi sull'ipotesi di elevata complessità, ciascun aggiornamento "dell'unic
 
 **Una singola implementazione produrrebbe una debolezza direttamente confrontabile con quella delle specie viventi aventi uniformità genetica**. Nel caso di una singola implementazione, sia gli aggiornamenti interni che esterni influenzano l'[economia](ch101-glossary.md#economia) rapidamente ed in profondità. L'impatto finanziario di una separazione è quindi più importante di quello causato da una implementazione meno adottata a grande scala. In uno scenario dove dieci implementazioni che supportano ciascuna la stessa frazione di economia, verrebbe messo a rischio al massimo il 10% dell'economia per ogni dato aggiornamento, mentre l'aggiornamento di una singola implementazione adottata universalmente raggiunge il massimo rischio di separazione del 50%. La teoria non è quindi solo invalida ma esprime esattamente il comportamento opposto di quanto accadrebbe in realtà.
 
----------
+---
+
 Titolo originale: [Genetic Purity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Genetic-Purity-Fallacy)
 
 [Indice](/README.md)

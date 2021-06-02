@@ -10,7 +10,8 @@ Vi è una teoria correlata secondo la quale la trasparenza di una _pool_ che imp
 
 Questa fallacia è simile alla [Fallacia della Propagazione](ch075-relay-fallacy.md) che sostiene che tutti i vantaggi finanziari dipendono da miner altrimenti indipendenti che affidano ad una singola [persona](ch101-glossary.md#persona) il controllo di quello specifico vantaggio.
 
----------
+---
+
 Titolo originale: [Decoupled Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Decoupled-Mining-Fallacy)
 
 [Indice](/README.md)

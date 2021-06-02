@@ -14,7 +14,8 @@ Tuttavia, Bitcoin è specificamente progettato per operare senza il permesso di 
 
 Questa azione può essere intrapresa [più efficientemente](ch039-pooling-pressure-risk.md) da una singola entità geografica. In questo scenario gli stati canaglia non offrono alcuna difesa, non solo perché essi stanno rinunciando beneficio derivante dalla tassazione delle loro monete, ma perché stanno donando i rispettivi proventi per resistere alla censura. **Non si può assumere che gli stati canaglia possano sopraffare l'autorità censurante e inoltre, ogni dipendenza da essi riduce Bitcoin ad una moneta resa sicura dalla politica**. Per questa ragione la teoria è invalida.
 
----------
+---
+
 Titolo originale: [Jurisdictional Arbitrage Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Jurisdictional-Arbitrage-Fallacy)
 
 [Indice](/README.md)

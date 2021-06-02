@@ -10,7 +10,8 @@ Un incremento può essere descritto solamente se riferito a qualche livello base
 
 La teoria implica che un numero minori di scambi effettuati con la moneta produca un maggiore sicurezza. Ciò è il contrario di quanto avviene in realtà. Come mostrato nel [Modello di Sicurrezza Qualitativo](ch035-qualitative-security-model.md), l'applicazione delle regole di consenso richiede degli scambi continui. Il [prezzo](ch101-glossary.md#prezzo) di un'unità della moneta [sotto forma di un altro bene](ch013-inflation-principle.md) o moneta è arbitrario, ma può salire temporaneamente se gli individui sono indotti a perseguire nella fallacia. Il beneficio di questo aumento va a favore dei proprietari già esistenti. La teoria secondo la quale il prezzo possa solamente salire è collegata ad un errore di tipo [speculativo](ch101-glossary.md#speculare) affrontato nella [Fallacia Lunare](ch065-lunar-fallacy.md). Anche un dimostrabile e perpetuo aumento generale del prezzo non porterebbe a confermare questa teoria, in quanto essa è collegata solamente ad un fenomeno di aumento relativo e temporaneo causato da decisioni finanziarie individuali sub-ottimali. 
 
----------
+---
+
 Titolo originale: [Hoarding Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Hoarding-Fallacy)
 
 [Indice](/README.md)

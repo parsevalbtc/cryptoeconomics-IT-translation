@@ -16,7 +16,8 @@ Il raggruppamento di [hash power](ch101-glossary.md#hash-power) porta a ridurre 
 
 Lo stato è un attore economicamente razionale. L'[inflazione](ch101-glossary.md#inflazione) è profittevole per l'autorità emittente della valuta. L'uso diffuso di Bitcoin impedirebbe agli stati di riscuotere efficacemente [la tassa dell'inflazione](https://it.wikipedia.org/wiki/Signoraggio). Gli attacchi condotti dallo stato rappresentano quindi un fenomeno atteso, e attacchi di tipo analogo sono di fatto [ordinari](https://en.wikipedia.org/wiki/Foreign_exchange_controls). E' praticamente inevitabile che lo stato vada a sussidiare questi attacchi, ma anche la sola possibilità di tale circostanza porta ad invalidare la teoria. 
 
----------
+---
+
 Titolo originale: [Impotent Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Impotent-Mining-Fallacy)
 
 [Indice](/README.md)

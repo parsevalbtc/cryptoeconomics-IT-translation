@@ -15,7 +15,8 @@ L'accumulo è un fenomeno di natura puramente speculativa, con tutti i ritorni c
 
 La teoria non incorpora la [Proprietà di Stabilità](ch030-stability-property.md) di Bitcoin ed è perciò invalida.
 
--------
+---
+
 Titolo originale: [Lunar Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Lunar-Fallacy)
 
 [Indice](/README.md)

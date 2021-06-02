@@ -22,7 +22,8 @@ Poiché il [costo marginale](https://it.wikipedia.org/wiki/Costo_marginale) di i
 
 Nonostante un certo miner possa considerare vantaggioso minare blocchi vuoti, è nel [potere](ch101-glossary.md#potere) di qualsiasi altra persona fare altrimenti. E' la facoltà di [esercitare questa opportunità](ch016-risk-sharing-principle.md) che rende sicura la moneta, anche contro attacchi _reali_. **Criticare queste azioni dettate dal proprio interesse è del tutto inefficace e controproducente**. 
 
----------
+---
+
 Titolo originale: [Empty Block Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Empty-Block-Fallacy)
 
 [Indice](/README.md)

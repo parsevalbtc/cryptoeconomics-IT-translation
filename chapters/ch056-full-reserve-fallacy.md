@@ -24,7 +24,7 @@ Nella misura in cui i certificati della banca centrale abbiano mai rappresentato
 
 **La teoria proposta da Rothbard non si limita a condannare la frode nell'attività bancaria di deposito (la cassetta di sicurezza), essa si estende in generale anche all'onesta attività di prestito dei depositi delle banche che include i depositi a vista, i depositi di risparmio e spesso anche i depositi a termine**. Per come presentata la teoria è invalida. Inoltre, essa implica una condanna all'attività di prestito e di investimento in generale. E, come [fa notare](https://mises.org/library/man-economy-and-state-power-and-market/html/p/996) lo stesso Rothbard, l'attività di prestito non è distinta da quella di investimento:
 
->Che il capitale risparmiato sia investito attraverso azioni o prestiti, ciò non ha importanza. La sola differenza sta nei tecnicismi di tipo legale. Infatti, anche la differenza legale tra creditore e proprietario (n.d.t. ovvero tra chi impresta capitale ad una società o chi ne detiene delle quote) è trascurabile .
+> Che il capitale risparmiato sia investito attraverso azioni o prestiti, ciò non ha importanza. La sola differenza sta nei tecnicismi di tipo legale. Infatti, anche la differenza legale tra creditore e proprietario (n.d.t. ovvero tra chi impresta capitale ad una società o chi ne detiene delle quote) è trascurabile.
 
 Tutte le forme di prestito hanno origine dal capitale accumulato da una persona, che esso sia depositato in banca o sotto altra forma. Nell'attività di prestito non vi è altra origine dei fondi al di fuori dei risparmi depositati. Vi è una [teoria collegata](https://en.wikipedia.org/wiki/Jes%C3%BAs_Huerta_de_Soto#Austrian_business_cycle_and_full_reserve_banking) secondo la quale le persone sono troppo stupide per comprendere i termini contrattuali del deposito.
 
@@ -56,7 +56,8 @@ Un'ulteriore teoria collegata afferma che il [_free banking_](https://en.wikiped
 
 Infine, accade spesso che le persone che sostengono l'imprestare denaro a riserva intera sono le stesse persone che sostengono una più bassa preferenza temporale. Questa è una contraddizione diretta, in quanto il primo punto che essi sostengono (n.d.t. la riserva intera) implica una preferenza temporale infinita.
 
----------
+---
+
 Titolo originale: [Full Reserve Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Full-Reserve-Fallacy)
 
 [Indice](/README.md)

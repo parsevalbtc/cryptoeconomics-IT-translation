@@ -14,7 +14,8 @@ Bitcoin richiede il consumo di risorse impiegate in maniera diffusa come caratte
 
 Così, data la riduzione di prezzo, la produzione tende ad espandersi di conseguenza (facendo accrescere il capitale e rendendo quindi le [persone](ch101-glossary.md#persona) complessivamente più ricche). La [stabilità di prezzo](ch030-stability-property.md) è una caratteristica generale di tutte le _commodity_. **Per quando qui presentato, non è possibile assumere una riduzione nel consumo complessivo di energia derivante dall'utilizzo di un sottoprodotto nel il mining**, invalidando di conseguenza la teoria.
 
----------
+---
+
 Titolo originale: [Byproduct Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Byproduct-Mining-Fallacy)
 
 [Indice](/README.md)

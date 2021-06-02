@@ -12,7 +12,8 @@ Assumendo generalmente un ritorno medio a [mercato](ch101-glossary.md#mercato) s
 
 E' possibile affermare che i miner convergano ad un ritorno sul capitale a mercato anticipando i più alti valori delle [_fee_](ch101-glossary.md#commissioni-di-transazione-fee). Ma i commercianti, in maniera simile, convergono ad un ritorno sul capitale a mercato dei miner ricercando il più basso valore delle _fee_. Ciò nonostante, i miner devono anticipare i commercianti e rischiare nell'attività del mining prima che venga creata alcuna utilità. Così nella misura in cui vi è una asimmetria, il mining precede l'attività di [effettuare transazioni](ch101-glossary.md#transazione), così come ogni produzione deve precedere il consumo. Fare assunzioni differenti è un fraintendimento tra la direzione che prende il mercato con il modo in cui avviene questo processo.
 
----------
+---
+
 Titolo originale: [Causation Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Causation-Fallacy)
 
 [Indice](/README.md)

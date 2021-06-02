@@ -36,7 +36,8 @@ Una regressione infinita di diritti [non può esistere](https://it.wikipedia.org
 
 Nonostante il titolo non rappresenti sé stesso, la sua regressione è infinita. Un diritto può essere reclamato a fronte di un numero finito di altri titoli rappresentanti diritti. In ogni caso, ogni strumento di questo genere non è un titolo e può essere scambiato solo come moneta.
 
----------
+---
+
 Titolo originale: [Debt Loop Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Debt-Loop-Fallacy)
 
 [Indice](/README.md)
