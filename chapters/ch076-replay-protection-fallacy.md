@@ -12,9 +12,10 @@ Si tratta di una sorprendente quanto errata percezione quella di credere che una
 
 E' possibile assumere che la mancanza di protezione renda meno probabile per un possessore spendere sulla catena non protetta, limitando di conseguenza l'offerta e aumentando il [prezzo](ch101-glossary.md#prezzo) di [scambio](ch101-glossary.md#scambio-di-unità). Tuttavia questo presuppone che la domanda non sia influenzata da quello che si concretizza come un aumento dei costi di [scambio](ch101-glossary.md#scambio). Se il possessore non sta effettuando scambi in quanto vi è un incremento di costo nel farlo, allora l'utilità della moneta non aumenta ma bensì diminuisce.
 
-Il costo di proteggersi autonomamente consiste in un [demurrage](https://en.wikipedia.org/wiki/Demurrage_(currency)) _una tantum_ che rimane finché la protezione è applicata alle [unità]() non protette, in maniera intenzionale o altrimenti. Questo costo rappresenta uno [sconto](https://it.wikipedia.org/wiki/Valore_attuale_netto) sull'utilità di una catena non protetta se confrontata con la stessa ipotetica catena dotata di protezione. Questo implica una _maggiore_ utilità della catena protetta rispetto a quella non protetta - che si è formata a seguito della separazione - rispetto a quanto sarebbe avvenuto in condizioni differenti. Di conseguenza la teoria è invalida.
+Il costo di proteggersi autonomamente consiste in un [demurrage](https://en.wikipedia.org/wiki/Demurrage_(currency)) _una tantum_ che rimane finché la protezione è applicata alle [unità](ch101-glossary.md#unità) non protette, in maniera intenzionale o altrimenti. Questo costo rappresenta uno [sconto](https://it.wikipedia.org/wiki/Valore_attuale_netto) sull'utilità di una catena non protetta se confrontata con la stessa ipotetica catena dotata di protezione. Questo implica una _maggiore_ utilità della catena protetta rispetto a quella non protetta - che si è formata a seguito della separazione - rispetto a quanto sarebbe avvenuto in condizioni differenti. Di conseguenza la teoria è invalida.
 
----------
+---
+
 Titolo originale: [Replay Protection Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Replay-Protection-Fallacy)
 
 [Indice](/README.md)

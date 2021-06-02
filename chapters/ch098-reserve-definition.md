@@ -12,7 +12,8 @@ La riserva viene spesso confusa con la gestione delle maturità (_[maturity matc
 
 Ogni debito implica una mezzo di _settlement_. Come tale, anche nel caso vengano impiegati strumenti di debito come mezzo di _settlement_ intermedio, il mezzo stesso possiede, in ultima istanza, un capitale presente riservato. Altrimenti il ragionamento implicherebbe una [regressione infinita del debito](ch047-debt-loop-fallacy.md).
 
----------
+---
+
 Titolo originale: [Reserve Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Definition)
 
 [Indice](/README.md)

@@ -6,7 +6,8 @@
 
 Il Massimalismo si distingue dalla consapevolezza delle [_shitcoin_](ch100-shitcoin-definition.md) poiché è caratterizzato dalla promozione di un Bitcoin su tutti gli altri. I proponenti esprimono spesso la contraddittoria teoria  secondo la quale nessuna altra moneta possa competere con la loro moneta preferita. Se questo fosse il caso, non ci sarebbe ragione di sostenere una singola moneta.
 
----------
+---
+
 Titolo originale: [Maximalism Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Maximalism-Definition)
 
 [Indice](/README.md)

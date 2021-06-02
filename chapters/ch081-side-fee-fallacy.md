@@ -16,7 +16,8 @@ Inoltre, a meno che l'[_hash power_](ch101-glossary.md#hash-power) di un miner s
 
 Vi è una teoria collegata secondo la quale accordi sulle _fee_ a parte costituiscono una pressione al raggruppamento. Se le _fee_ pagate sono coerenti con il mercato non può esserci effetto di raggruppamento. Le _fee_ al di sopra del mercato sono un sussidio di [stato](ch101-glossary.md#stato), in quanto dobbiamo trattare il sussidio come un fenomeno non economicamente razionale. Le _fee_ al di sotto del mercato sono una tassa, in quanto dobbiamo trattarle come una perdita non volontaria. Queste sono [distorsioni](ch101-glossary.md#distorsione) come lo è qualsiasi tipo di sussidio/tassa di stato e [non sono quindi unicamente presenti](ch039-pooling-pressure-risk.md) nelle _fee_ a parte. L'esistenza delle _fee_ a parte non rappresenta una nuova pressione al raggruppamento in aggiunta a quelle già esistenti nelle _fee_ _on-chain_ e la teoria è quindi invalida. 
 
----------
+---
+
 Titolo originale: [Side Fee Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Side-Fee-Fallacy)
 
 [Indice](/README.md)

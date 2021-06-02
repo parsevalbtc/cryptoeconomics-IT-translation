@@ -20,7 +20,8 @@ Allo stesso modo, l'esistenza di un'unità valida di [moneta di monopolio](ch005
 
 Tutti i beni hanno costi di produzione reali. Il monopolio esiste per innalzare il prezzo al di sopra del costo. Benché Bitcoin sia [resistente alla censura](ch028-censorship-resistance-property.md), l'efficacia di tale resistenza [non è garantita](ch004-axiom-of-resistance.md).
 
----------
+---
+
 Titolo originale: [Proof of Cost Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Cost-Fallacy)
 
 [Indice](/README.md)

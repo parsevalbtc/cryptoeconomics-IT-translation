@@ -34,7 +34,7 @@ rapporto-di-interesse / rapporto-di-crescita  > 100%
 rapporto-di-interesse > rapporto-di-crescita
 ```
 
-La contrazione economica (diminuzione di ricchezza) implica un incremento del tasso di interesse, come implicato dalla [teoria dell'utilità marginale](), finché non viene ristabilita una crescita positiva. Come tale la contrazione è una condizione che porta ad una correzione automatica.
+La contrazione economica (diminuzione di ricchezza) implica un incremento del tasso di interesse, come implicato dalla [teoria dell'utilità marginale](https://en.wikipedia.org/wiki/Marginal_utility), finché non viene ristabilita una crescita positiva. Come tale la contrazione è una condizione che porta ad una correzione automatica.
 
 ```
 rapporto-di-svalutazione > rapporto-di-interesse > 100%
@@ -47,7 +47,8 @@ Si noti che in entrambi i casi di crescita e di contrazione, l'interesse deve ec
 
 Esiste una teoria secondo la quale è economicamente irrazionale dare in prestito una moneta deflazionaria. **Come è stato mostrato, è razionale imprestare qualsiasi tipo di moneta, inclusa una moneta che è deflazionaria, circostanza che invalida la teoria**. Ogni comportamento differente implica l'esercizio di una scelta puramente [speculativa](ch092-speculative-consumption.md) che non è supportata dal fatto che la moneta sia ad offerta fissa.
 
----------
+---
+
 Titolo originale: [Unlendable Money Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Unlendable-Money-Fallacy)
 
 [Indice](/README.md)

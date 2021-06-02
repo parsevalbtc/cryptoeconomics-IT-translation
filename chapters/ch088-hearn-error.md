@@ -23,7 +23,8 @@ Questa teoria è invalida in quanto è basata su osservazioni empiriche che tutt
 
 Questo errore può derivare dal non accettare l'[Assioma di Resistenza](ch004-axiom-of-resistance.md) pur continuando a lavorare  nell'ambito di Bitcoin. Questo probabilmente può dar luogo a [dissonanza cognitiva](https://it.wikipedia.org/wiki/Dissonanza_cognitiva). La successiva  ricerca di sollievo può portare a questo punto. Tuttavia, alla fine, l'errore diventa innegabile, cosa che può portare ad una [furiosa uscita di scena](https://en.wikipedia.org/wiki/Wikipedia:Rage_quit). 
 
----------
+---
+
 Titolo originale: [Hearn Error](https://github.com/libbitcoin/libbitcoin-system/wiki/Hearn-Error)
 
 [Indice](/README.md)

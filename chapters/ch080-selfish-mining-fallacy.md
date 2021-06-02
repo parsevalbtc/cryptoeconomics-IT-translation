@@ -20,7 +20,8 @@ Questa è l'origine della fallacia. Non si tratta dell'attacco alla convinzione 
 
 **Le ottimizzazioni non sono attacchi**. Il raggruppamento aumenta l'_opportunità_ degli attacchi, ma la sola opportunità non dovrebbe essere confusa con l'azione vera e propria. Il termine "attacco" implica il furto. Ad esempio il [whitepaper di Bitcoin](https://bitcoin.org/bitcoin.pdf) usa questo termine solo per descrivere i tentativi di [doppia spesa](ch101-glossary.md#doppia-spesa).
 
----------
+---
+
 Titolo originale: [Selfish Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Selfish-Mining-Fallacy)
 
 [Indice](/README.md)

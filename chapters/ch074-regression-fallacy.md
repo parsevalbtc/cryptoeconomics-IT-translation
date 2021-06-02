@@ -24,7 +24,8 @@ Uno dei molti problemi che affliggono l'economia empirica e che le nuove osserva
 
 L'idea alla base del teorema rappresenta una ragionevole teoria empirica dell'evoluzione del concetto di moneta, ma tale idea è tuttavia invalida come teorema razionale per distinguere la moneta da ciò che non è moneta. La moneta si distingue da certi comportamenti espressi dalle persone. Concludere che qualcosa è moneta consiste nell'osservare questi comportamenti, un metodo strettamente empirico. 
 
----------
+---
+
 Titolo originale: [Regression Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Regression-Fallacy)
 
 [Indice](/README.md)

@@ -14,7 +14,8 @@ Sotto le ipotesi formulate per il [Principio di Consolidamento](ch020-consolidat
 
 In conclusione dovrebbe essere sottolineato che entrambe le catene potrebbero fallire qualora il valore si spostasse su una catena indipendente, su una commodity o su una moneta di [stato](ch101-glossary.md#stato). Questo capitolo si propone solamente di fornire un quadro di decisione razionale basato su assunzioni che tuttavia potrebbero non verificarsi.
 
----------
+---
+
 Titolo originale: [Split Speculator Dilemma](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Speculator-Dilemma)
 
 [Indice](/README.md)

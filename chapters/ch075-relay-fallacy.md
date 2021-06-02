@@ -18,7 +18,8 @@ I propagatori sono aggregazioni di miner e i miner sono a loro volta aggregazion
 
 Una teoria sostiene che i propagatori riducano la pressione al raggruppamento. Si tratta di una fallacia in quanto **ogni riduzione al raggruppamento causata da un propagatore non scompare ma è _trasferita_ al propagatore stesso come raggruppamento aggiuntivo**. Le statistiche del propagatore non sono mai mostrate affianco alle statistiche del mining, mascherando questo trasferimento di potere tra i due strumenti. Questo porta le persone a credere che il mining sia molto meno raggruppato di quanto non sia in realtà. La conseguenza di ciò è la mancata percezione dell'insicurezza causata dal reale livello di raggruppamento del mining.
 
----------
+---
+
 Titolo originale: [Relay Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Relay-Fallacy)
 
 

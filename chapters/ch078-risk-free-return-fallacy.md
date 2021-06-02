@@ -18,7 +18,8 @@ Sebbene lo scenario economico finale di quanto appena proposto sia economicament
 
 Ciò nonostante, un rendimento può essere teoricamente ricavato sull'affitto di una unità, fino al limite economico imposto dal tasso di interesse (e.g. circa 7.2 anni al 10%). Tuttavia le _fee_ richieste dall'operazione, per essere economicamente razionale, dovrebbero essere di 0 unità, in quanto è richiesta una transazione che dia avvio al prestito, cosa che non avviene quando vengono usate le proprie unità per fini di tracciamento. Così nel caso la domanda di transazione ecceda l'offerta fissa di [conferma](ch101-glossary.md#conferma), questo scenario non è economicamente razionale. Questa relazione è valida per ogni valore del livello minimo (_dust limit_) maggiore di 0 ma che rappresenti anche una _fee_ insufficiente per finanziare la conferma.
 
----------
+---
+
 Titolo originale: [Risk Free Return Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Free-Return-Fallacy)
 
 [Indice](/README.md)

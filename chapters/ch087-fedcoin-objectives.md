@@ -10,7 +10,8 @@ I due aspetti che differenziano la Fedcoin rispetto a Bitcoin consentono allo st
 
 **Impedire allo stato di obbligare l'implementazione di questi _fork_ è lo scopo principale della sicurezza di sistema di Bitcoin**. L'[economia](ch101-glossary.md#economia) garantisce la protezione dall'hard fork e i [miner](ch101-glossary.md#miner) garantiscono la protezione dal soft fork. I [rischi](ch016-risk-sharing-principle.md) che vengono affrontati da queste [persone](ch101-glossary.md#persona) garantiscono il [valore](ch101-glossary.md#valore) della moneta in contrapposizione alle alternative controllate dallo stato.
 
----------
+---
+
 Titolo originale: [Fedcoin Objectives](https://github.com/libbitcoin/libbitcoin-system/wiki/Fedcoin-Objectives)
 
 [Indice](/README.md)

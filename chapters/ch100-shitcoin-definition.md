@@ -8,7 +8,8 @@ Si presuppone che le _shitcoin_ siano delle truffe, sebbene sia sempre possibile
 
 Nonostante possano esserci implementazioni di Bitcoin più sicure di altre, queste sono questioni di valutazioni reciproche. Non può essere dimostrato che Bitcoin sia un sistema [sicuro in senso assoluto](ch004-axiom-of-resistance.md). Come tale, il termine non è ragionevolmente applicato a nessun sistema Bitcoin. Ad esempio, le tecnologie basate su [_proof-of-memory_](ch070-proof-of-memory-fallacy.md) potrebbero non essere delle _shitcoin_ (sebbene non riescano a raggiungere i loro obiettivi fondamentali).
 
----------
+---
+
 Titolo originale: [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition)
 
 [Indice](/README.md)

@@ -20,7 +20,8 @@ La teoria, inoltre, **non riconosce che i commercianti necessitano del mining**.
 
 Infine, la teoria **non sa riconoscere le sue conseguenze reali**. Sulla base della precedente perdita di capitale sofferta da tutti i miner di una data moneta, tutti i miner della moneta sostitutiva si assicurerebbero contro la possibilità di un simile evento in futuro. Si potrebbero assicurare in autonomia, ma l'incremento di costo sarebbe inevitabile. Questo ridurrebbe _l'hash rate_ a parità di _fee_ finché la possibilità di un tale evento non venisse ritenuta trascurabile. Così l'economia innalza le sue stesse _fee_ e si ritrova con gli stessi miner e maggiore raggruppamento. Ciò rappresenta una riduzione della sicurezza su due livelli, senza alcun beneficio.
 
----------
+---
+
 Titolo originale: [Proof of Work Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Work-Fallacy)
 
 [Indice](/README.md)

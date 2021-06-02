@@ -14,7 +14,8 @@ Come mostrato nel [Principio della Condivisione del Rischio](ch016-risk-sharing-
 
 Bitcoin come moneta funziona senza custodia (è _non-custodial_). Le sue [unità](ch101-glossary.md#unità) non rappresentano un asset custodito da una terza parte fidata. La moneta è scambiata direttamente tra cliente e [commerciante](ch101-glossary.md#commerciante). In questo senso _tutti i commercianti_ sono i custodi del [valore](ch101-glossary.md#valore) di Bitcoin. **La fallacia della blockchain (n.d.t. che si identifica con la fallacia della prova di proprietà ndt), nasce da una concezione errata del modello di sicurezza di Bitcoin, che attribuisce la sua protezione alla tecnologia e non alla sua distribuzione tra i commercianti**. Il termine "tecnologia blockchain" rafforza questo errore poiché implica che sia principalmente la struttura dati di Bitcoin a renderlo sicuro.
 
----------
+---
+
 Titolo originale: [Proof of Ownership Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Ownership-Fallacy)
 
 [Indice](/README.md)

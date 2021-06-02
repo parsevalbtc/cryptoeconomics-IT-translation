@@ -20,7 +20,8 @@ Il postulato si avvantaggia della comune ambiguità che esiste sulla parola "com
 
 Il Teorema di Regressione usa la parola "commodity" per distinguere la moneta da qualcosa senza valore d'uso originale. Se con questo si intende che _ogni cosa_ può essere una commodity, ciò rappresenta una tautologia, o altrimenti tale postulato è una errata rappresentazione del teorema.
 
----------
+---
+
 Titolo originale: [Collectible Tautology](https://github.com/libbitcoin/libbitcoin-system/wiki/Collectible-Tautology)
 
 [Indice](/README.md)

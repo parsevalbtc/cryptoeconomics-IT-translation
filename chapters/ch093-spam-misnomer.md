@@ -8,7 +8,8 @@ Benché il processo di identificazione dello _spam_ sia un processo soggettivo, 
 
 L'invio di un elevato volume di transazioni ridondanti è un tipico problema di _denial of service_, che è indipendente dalle _fee_ di transazione e che può essere affrontato da qualunque [persona](ch101-glossary.md#persona), non solo da colui che effettua la [spesa](ch101-glossary.md#spesa). Transazioni non ridondanti, che incorporano delle spese in conflitto tra loro, non rappresentano un rischio di _denial of service_ in quanto esse vengono o rigettate come invalide o accettate grazie ad un sufficiente incremento delle _fee_.
 
----------
+---
+
 Titolo originale: [Spam Misnomer](https://github.com/libbitcoin/libbitcoin-system/wiki/Spam-Misnomer)
 
 [Indice](/README.md)

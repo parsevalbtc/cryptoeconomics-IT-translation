@@ -36,7 +36,8 @@ Tuttavia anche ipotizzando che tutte le monete di stato vengano esclusivamente u
 
 Questa stima non considera la [Proprietà di Stabilità](ch030-stability-property.md) di Bitcoin. E' inoltre possibile che per gli scambi in Bitcoin venga imposto l'utilizzo di [sostituti monetari](ch026-substitution-principle.md) prima che l'adozione futura attualmente prevista possa essere raggiunta.
 
----------
+---
+
 Titolo originale: [Price Estimation](https://github.com/libbitcoin/libbitcoin-system/wiki/Price-Estimation)
 
 [Indice](/README.md)

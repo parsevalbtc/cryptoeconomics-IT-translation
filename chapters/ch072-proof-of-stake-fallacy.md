@@ -10,7 +10,8 @@ La distinzione tra le due prove è basata sull'impiego del capitale sottostante.
 
 Ne il [Principio degli Altri Mezzi](ch014-other-means-principle.md) viene mostrato come la resistenza alla [censura](ch101-glossary.md#censura) dipenda dalle persone che pagano i miner per [sopraffare](ch101-glossary.md#potere) il potere del censore. **Vincere la censura non è possibile in un sistema PoS, in quanto il censore ha acquisito una partecipazione (_stake_) maggioritaria e non può essere deposto**. Per questa ragione i sistemi PoS non sono resistenti alla censura e la teoria è quindi invalida.
 
----------
+---
+
 Titolo originale: [Proof of Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
 
 [Indice](/README.md)

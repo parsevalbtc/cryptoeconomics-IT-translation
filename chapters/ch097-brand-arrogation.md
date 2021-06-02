@@ -6,7 +6,8 @@ Bitcoin è un insieme di [concetti fondamentali](ch027-cryptodynamic-principles.
 
 Ciò è coerente con la [dichiarazione di Bitcoin](https://bitcoin.org/bitcoin.pdf) che lega assieme un insieme di concetti, non un insieme di [regole](ch101-glossary.md#regole-di-consenso), [protocolli](ch101-glossary.md#protocollo) o [implementazioni](ch101-glossary.md#implementazione). Le persone che hanno investito del capitale hanno un intrinseco desiderio di associare ad esso un marchio, ma non esiste alcuna pretesa "legittima" per giustificare questa associazione.    
 
----------
+---
+
 Titolo originale: [Brand Arrogation](https://github.com/libbitcoin/libbitcoin-system/wiki/Brand-Arrogation)
 
 [Indice](/README.md)

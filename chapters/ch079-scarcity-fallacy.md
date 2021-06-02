@@ -18,7 +18,8 @@ Un'altra causa dell'errore sta nell'errata interpretazione del comportamento del
 
 La bassa diffusione (o numero di unità) non rappresenta una proprietà monetaria importante eccetto per quanto riguarda la portabilità. La scarsità è una funzione sia dell'offerta che della domanda e di conseguenza non può essere una caratteristica intrinseca di una moneta, anche nel caso essa sia dotata di offerta fissa. Sia la moneta merce che Bitcoin eliminano la tassa di inflazione, tuttavia la moneta merce è soggetta alla retroazione negativa data dall'inflazione (n.d.t. aumento dell'offerta dovuto a creazione/estrazione e.g. dell'oro) e Bitcoin è soggetto alla retroazione negativa data dall'incremento della _fee_.
 
----------
+---
+
 Titolo originale: [Scarcity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Scarcity-Fallacy)
 
 [Indice](/README.md)

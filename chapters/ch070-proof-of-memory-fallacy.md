@@ -10,7 +10,8 @@ Vale la pena analizzare il comportamento economico di un sistema teorico nel qua
 
 La _proof-of-memory_ è uguale alla _proof-of-work_ in termini del consumo di risorse e non vi è ragione di assumere alcuna riduzione della componente energetica in tale costo. L'hardware si comporta come una prova di immagazzinamento di energia (una batteria) che rappresenta l'energia che è stata spesa in maniera dimostrabile per la sua fabbricazione. Tutto ciò che è stato mostrato in questa fallacia è un argomento di facciata analogo a quello delle macchine elettriche con batteria "a zero emissioni".
 
----------
+---
+
 Titolo originale: [Proof of Memory Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Fallacy)
 
 [Indice](/README.md)

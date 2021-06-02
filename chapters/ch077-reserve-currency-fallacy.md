@@ -16,7 +16,8 @@ Inoltre, affinché Bitcoin sopravviva, deve esistere un reale economia [decentra
 
 Il [_layering_](ch101-glossary.md#layering) conserva i [principi criptodinamici](ch027-cryptodynamic-principles.md) della decentralizzazione, mentre la "copertura" rappresenta il fenomeno che dimostra il loro completo abbandono. Bitcoin non può essere sostenuto in uno scenario dove esso funge da moneta di copertura per i certificati di una banca centrale. Le persone devono effettuare degli scambi con esso per garantirne la sicurezza. E' certamente possibile che Bitcoin sia detenuto come patrimonio di stato, ma questo non offre alle persone alcuna scalabilità delle transazioni o vantaggi di altro tipo.
 
----------
+---
+
 Titolo originale: [Reserve Currency Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Currency-Fallacy)
 
 [Indice](/README.md)

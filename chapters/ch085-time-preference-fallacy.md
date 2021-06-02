@@ -35,7 +35,8 @@ Come nei [giochi di fortuna](https://en.wikipedia.org/wiki/Game_of_chance), ogni
 
 Vi è inoltre una teoria affine secondo la quale la preferenza temporale è espressa da un consumo differito - che ha luogo quando una persona accumula dei risparmi al posto di utilizzarli. Come mostrato ne il [Consumo Speculativo](ch092-speculative-consumption.md) questa assunzione rappresenta in modo errato il fatto che tutti i risparmi vengano necessariamente investiti.  Il risparmio è un termine generalizzato che include sia l'accumulo che l'investimento di una persona. Il risparmio è la _fonte_ di ogni investimento, ma solo il reale investimento è espressione della preferenza temporale. Un accumulo può sicuramente cambiare il suo valore di mercato. Ma considerare un maggiore accumulo una espressione di minore preferenza temporale rappresenta una assai diffusa ed errata interpretazione del significato economico del termine. Questa interpretazione porta a ribaltarne il significato e conduce alla conclusione secondo la quale un accumulo totale di tutta la ricchezza porterebbe ad una preferenza temporale nulla. Al contrario con un accumulo totale il tasso di interesse sarebbe infinito ed un tasso di interesse infinito riflette una preferenza temporale infinita. Questa evidente contraddizione mette in luce il fatto che il significato del termine preferenza temporale è stato invertito, rendendo quindi invalida la teoria.
 
----------
+---
+
 Titolo originale: [Time Preference Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Time-Preference-Fallacy)
 
 [Indice](/README.md)

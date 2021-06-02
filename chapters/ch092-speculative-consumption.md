@@ -38,7 +38,8 @@ L'idea che una persona sia contemporaneamente un consumatore ed un produttore so
 
 La speculazione è una conseguenza necessaria dell'errore che, a sua volta, è intrinseco sia al consumo che all'investimento. Accumulare è un'azione consuntiva mentre l'investire è un'azione produttiva. Il concetto economico della preferenza temporale è specificamente la distinzione tra l'accumulo e l'investimento. Ciò risulta evidente nella relazione tra preferenza temporale ed interesse economico. **Una più alta proporzione di accumulo rispetto all'investimento riflette una più elevata preferenza temporale ed implica una minore produzione**.
 
----------
+---
+
 Titolo originale: [Speculative Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Speculative-Consumption)
 
 [Indice](/README.md)

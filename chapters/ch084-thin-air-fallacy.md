@@ -193,7 +193,8 @@ In breve, è stato mostrato che:
 * Una riserva pari a zero preclude ogni possibilità di effettuare il *settlement* dei conti.
 * Non esiste alcuna distinzione tra la visione semplice e la visione pratica come teorie della creazione di moneta.
 
----------
+---
+
 Titolo originale: [Thin Air Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Thin-Air-Fallacy)
 
 [Indice](/README.md)

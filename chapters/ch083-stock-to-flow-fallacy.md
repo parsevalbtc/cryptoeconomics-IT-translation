@@ -14,7 +14,8 @@ La presenza delle leggi anti-contraffazione fa in modo che la competizione alla 
 
 **Poiché il rapporto stock-flusso di una moneta rappresenta il tasso di inflazione invertito della stessa, la sua relazione con l'inflazione monetaria è tautologica**. La relazione infatti non implica nulla sull'inflazione monetaria futura. Essa può essere usata per analizzare relazioni storiche e calcolare futuri stock basati su un _assunto_ flusso futuro, ma non può essere usata per _predire_ inflazione monetaria futura. Ogni dichiarazione relativa al fatto che un tipo di [speculazione](ch101-glossary.md#speculare) sarà più profittevole di un altro basato sull'andamento storico del rapporto stock flusso rappresenta un errore.
 
----------
+---
+
 Titolo originale: [Stock to Flow Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Stock-to-Flow-Fallacy)
 
 [Indice](/README.md)

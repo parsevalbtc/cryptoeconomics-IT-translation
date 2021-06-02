@@ -10,7 +10,8 @@ Il signoraggio è una tassa. Le [unità](ch101-glossary.md#unità) monetarie cre
 
 L'espansione del credito del mercato libero manifesta un aumento di capitale dato in prestito che si contrappone al suo [accumulo](ch101-glossary.md#accumulare). Un aumento della quantità di credito è conseguenza di una ridotta [preferenza temporale](https://en.wikipedia.org/wiki/Time_preference) e ciò porta a ridurre il costo del capitale. E' impossibile mostrare che un evento di separazione o la creazione di una nuova moneta (o in generale qualsiasi altra cosa) riduca la preferenza temporale. Per questa ragione è un errore assumere che queste forme di creazione di moneta incrementino la disponibilità di capitale o riducano il suo costo.
 
----------
+---
+
 Titolo originale: [Split Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Credit-Expansion-Fallacy)
 
 [Indice](/README.md)

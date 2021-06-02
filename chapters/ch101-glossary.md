@@ -925,7 +925,7 @@ La tendenza verso [Partizioni](#partizione) persistenti.
 
 L'abilità di [Tracciare](#tracciamento-taint) usando metodi statistici di analisi della [catena](#catena) (_chain analysis_).
 
-----------
+---
 
 Titolo originale: [Glossary](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary)
 
