@@ -12,7 +12,8 @@ La [pressione al raggruppamento](ch039-pooling-pressure-risk.md) basata sulla va
 
 La [difesa](ch004-axiom-of-resistance.md) che Bitcoin _intende_ innalzare è la difesa del mercato contro le forze anti-mercato. Per fare ciò è necessario distribuire l'[_hash power_](ch101-glossary.md#hash-power) in maniera estesa tra le persone in modo che esso sia difficile da [cooptare](ch101-glossary.md#cooptazione-co-option).  Tuttavia la pressione al raggruppamento intrinseca al [consenso]() lavora contro questo obiettivo. Questo è il motivo per il quale questa caratteristica è definita un difetto.
 
----------
+---
+
 Titolo originale: [Variance Discount Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Variance-Discount-Flaw)
 
 [Indice](/README.md)

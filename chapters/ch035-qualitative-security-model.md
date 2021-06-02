@@ -49,7 +49,9 @@ Queste relazioni non dicono nulla sulla assoluta efficacia rappresentata da cias
 
 Come mostrato ne il [Principio dei Dati Pubblici](ch023-public-data-principle.md), l'anonimità è uno strumento che aiuta a difendere la possibilità di ciascuno di commerciare e/o minare. Come tale, il livello di decentralizzazione non può essere mai misurato; il modello rappresenta un aiuto a livello concettuale. Come mostrato nella [Fallacia del Bilanciamento del Potere](ch042-balance-of-power-fallacy.md), la sicurezza che viene dedicata da ciascuno dei due sotto-gruppi è complementare ed indipendente da quella dell'altro. Mentre le persone possono decidere di commerciare e/o minare indipendentemente in futuro, la [Fallacia dello Scarafaggio](ch045-cockroach-fallacy.md) mostra che essi non stanno contribuendo alla sicurezza finché non lo fanno (n.d.t. in maniera attiva). Questo modello è rappresentativo della sicurezza finché essa è presente in un certo periodo tempo.
 
----------
+---
+
 Titolo originale: [Qualitative Security Model](https://github.com/libbitcoin/libbitcoin-system/wiki/Qualitative-Security-Model)
+
 [Indice](/README.md)
 

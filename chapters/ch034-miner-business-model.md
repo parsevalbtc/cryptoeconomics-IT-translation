@@ -12,11 +12,12 @@ Allora come fa un miner a conseguire dei ritorni elevati? Ciò non può essere o
 
 Tuttavia altri miner potrebbero ritirarsi dal business del mining in quanto il loro capitale andrebbe alla ricerca di ritorni a mercato. Questo lascerebbe un solo miner legato ai ritorni a mercato. In altre parole, conseguire ritorni più elevati del mercato richiede che vi sia qualcuno dal quale possano essere "catturati". Il più elevato ritorno che può essere sostenuto è funzione del più elevato costo opportunità che altri sono disponibili a sostenere. Questo è a sua volta funzione dell'utilità della ricompensa in termini differenziali così come discusso ne il [Paradosso del Livello di Minaccia](ch033-threat-level-paradox.md).
 
-Limitando i [dividendi](https://it.wikipedia.org/wiki/Dividendo_(economia)) ai tassi di ritorno a mercato e reinvestendo tutta la ricompensa rimanente, un miner può mantenere un _hash power_ costante e quindi ottenere ritorni a mercato su una base proporzionale alla [capitalizzazione]() di Bitcoin. I [dispositivi di mining](ch101-glossary.md#dispositivo-di-mining-grind) vengono liquidati spegnendoli ogni qual volta ciascuno di essi va in perdita netta oppure [scontando](https://it.wikipedia.org/wiki/Valore_attuale) i ritorni futuri attraverso la vendita del dispositivo stesso.
+Limitando i [dividendi](https://it.wikipedia.org/wiki/Dividendo_(economia)) ai tassi di ritorno a mercato e reinvestendo tutta la ricompensa rimanente, un miner può mantenere un _hash power_ costante e quindi ottenere ritorni a mercato su una base proporzionale alla [capitalizzazione](ch101-glossary.md#capitalizzazione) di Bitcoin. I [dispositivi di mining](ch101-glossary.md#dispositivo-di-mining-grind) vengono liquidati spegnendoli ogni qual volta ciascuno di essi va in perdita netta oppure [scontando](https://it.wikipedia.org/wiki/Valore_attuale) i ritorni futuri attraverso la vendita del dispositivo stesso.
 
 **Il tasso di ritorno del miner sul capitale dipende solamente dalla preferenza temporale**. La relazione tra l'economia ed i miner viene sviluppata ulteriormente ne la [Fallacia del Bilanciamento dei Poteri](ch042-balance-of-power-fallacy.md).
 
----------
+---
+
 Titolo originale: [Miner Business Model](https://github.com/libbitcoin/libbitcoin-system/wiki/Miner-Business-Model)
 
 [Indice](/README.md)

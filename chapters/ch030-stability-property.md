@@ -18,7 +18,8 @@ L'offerta di una moneta di monopolio viene incrementata arbitrariamente (quindi 
 
 L'offerta di Bitcoin è indipendente dal prezzo. Poiché il [sussidio](ch101-glossary.md#sussidio-subsidy) è una quantità prevedibile, esso viene capitalizzato e [non ha effetto](ch062-inflation-fallacy.md) sul prezzo nel corso del tempo. Il suo scopo è quello di distribuire razionalmente le unità e viene quindi poi progressivamente eliminato. Poiché le [_fee_](ch101-glossary.md#commissione-di-transazione-fee) crescono necessariamente con la domanda, la [soglia di utilità](ch031-utility-threshold-property.md) va ad eliminare la domanda di [transazioni](ch101-glossary.md#transazione) aventi valore al di sotto di tale soglia. Più in generale, il livello delle _fee_ cresce al punto per il quale i [sostituti](ch026-substitution-principle.md) monetari sono più economici per una dato valore della transazione. **Quindi la stabilità deriva dal limitare direttamente la domanda al posto di affidarsi ad un incremento di offerta per ottenerla**. La stabilità implica che il prezzo viene limitato ma esso può salire all'aumentare [della capacità di sostenere più transazioni](ch018-scalability-priciple.md) da parte della [moneta](ch101-glossary.md#) e con un incremento di [utilità](ch101-glossary.md#utilità) rispetto ai sostituti.
 
----------
+---
+
 Titolo originale: [Stability Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Stability-Property)
 
 [Indice](/README.md)

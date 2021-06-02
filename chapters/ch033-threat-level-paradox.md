@@ -12,8 +12,10 @@ Quindi per godere dei benefici di una moneta robusta, sembrerebbe che le [person
 
 La conseguenza attesa di questo fenomeno è che Bitcoin non sarà ben _preparato_ agli [attacchi](ch101-glossary.md#attacco) in quanto la preparazione delle difese è finanziariamente svantaggiosa per le [persone](ch101-glossary.md#persona) che vivono in un ambiente caratterizzato da un basso livello di minaccia.  
 
----------
-Titolo originale: [Threat Level Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Threat-Level-Paradox)
+---
+
+Titolo originale: 
+
 [Indice](/README.md)
 
 

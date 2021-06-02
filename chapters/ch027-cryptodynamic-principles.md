@@ -32,7 +32,8 @@ Data l'esistenza di queste tre forze, [non si può assumere](ch004-axiom-of-resi
 
 La possibilità di protezione permessa da queste forze si definisce "sicurezza criptodinamica". Così, ad esempio, una "blockchain _permissioned_" viola il principio di condivisione dei rischi, una tecnologia basata strettamente su proof-of-stake (PoS) viola il principio di dissipazione dell'energia e una moneta che si affida interamente alla componente di [sussidio](ch101-glossary.md#sussidio) per ricompensare la [conferma](ch101-glossary.md#conferma) delle transazioni viola il principio di bilanciamento del potere. Nessuno di questi esempi e criptodinamicamente sicuro.
 
----------
+---
+
 Titolo originale: [Cryptodynamic Principles](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptodynamic-Principles)
 [Indice](/README.md)
 

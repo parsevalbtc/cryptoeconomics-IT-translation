@@ -16,11 +16,12 @@ Ci sono numerose manifestazioni del fenomeno del raggruppamento. Una è di natur
 
 **Mantenendo una continua pressione al raggruppamento la selezione delle [transazioni](ch101-glossary.md#transazione) si ridurrà, alla fine, al controllo di una sola [persona](ch101-glossary.md#persona)**. E' possibile che ciò stia già avvenendo. Il rischio per Bitcoin è che una singola persona rappresenti la [sola difesa](ch016-risk-sharing-principle.md) della sua [utilità](ch101-glossary.md#utilità), rendendo inevitabile il successo nella [cooptazione](ch101-glossary.md#cooptazione-co-option). Questo rischio [non può essere mitigato](ch042-balance-of-power-fallacy.md) all'intero dell'[economia](ch101-glossary.md#economia) stessa.
 
-La pressione all'aggregazione è l'equivalente in Bitcoin del Sistema della Riserva Federale degli Stati Uniti. Il sistema era stato progettato in modo da facilitare la tassazione attraverso la [svalutazione]() di una moneta debole. Esso offriva il [supporto dello stato]() ad una [delega monetaria]() in [cambio]() di moneta solida. Questa combinazione era disegnata per creare una _pressione_ alla raccolta di moneta solida presso l'autorità centrale. Una volta che la raccolta fu sufficiente, lo stato eliminò del tutto il pretesto e [sequestrò la rimanente moneta solida](). Tutti gli stati hanno sistemi simili e [cooperano]() per difenderli.
+La pressione all'aggregazione è l'equivalente in Bitcoin del Sistema della _Federal Reserve_ degli Stati Uniti. Il sistema era stato progettato in modo da facilitare la tassazione attraverso la [svalutazione](https://en.wikipedia.org/wiki/Debasement) di una moneta debole. Esso offriva il [supporto dello stato](https://en.wikipedia.org/wiki/Legal_tender) ad una [delega monetaria](https://en.wikipedia.org/wiki/Federal_Reserve_Note) in [cambio](ch101-glossary.md#scambio) di moneta solida. Questa combinazione era disegnata per creare una _pressione_ alla raccolta di moneta solida presso l'autorità centrale. Una volta che la raccolta fu sufficiente, lo stato eliminò del tutto il pretesto e [sequestrò la rimanente moneta solida](https://it.wikipedia.org/wiki/Ordine_esecutivo_6102). Tutti gli stati hanno sistemi simili e [cooperano](https://it.wikipedia.org/wiki/Fondo_Monetario_Internazionale) per difenderli.
 
 Questo fatto non implica che il mining vada contro Bitcoin. Seguendo la stessa analogia, il [_free banking_](https://it.wikipedia.org/wiki/Free_banking) non si oppone all'uso dell'oro. Il mining rappresenta una parte _necessaria_ di Bitcoin. Il raggruppamento rappresenta un rischio a dispetto del fatto che la pressione che lo caratterizza non sia creata dai miner, ma dovuta ai difetti di Bitcoin stesso.
 
----------
+---
+
 Titolo originale: [Pooling Pressure Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Pooling-Pressure-Risk)
 
 [Indice](/README.md)

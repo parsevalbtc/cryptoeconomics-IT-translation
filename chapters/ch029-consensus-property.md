@@ -6,7 +6,8 @@ Generalmente le [persone](ch101-glossary.md#persona) pensano al [consenso](ch101
 
 Un consenso può [frammentarsi](ch021-fragmentation-principle.md) o [consolidarsi](ch020-consolidation-principle.md). Generalmente un consenso più esteso porta ad una maggiore [utilità](ch101-glossary.md#utilità) e ad una maggiore sicurezza data da una maggiore [condivisione del rischio](ch016-risk-sharing-principle.md). 
 
----------
+---
+
 Titolo originale: [Consensus Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Consensus-Property)
 [Indice](/README.md)
 

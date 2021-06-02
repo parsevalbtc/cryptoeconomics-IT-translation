@@ -12,7 +12,8 @@ La [pressione al raggruppamento](ch039-pooling-pressure-risk.md) basata sulla pr
 
 La [difesa](ch004-axiom-of-resistance.md) che Bitcoin _intende_ sollevare è la difesa del mercato contro le forze anti-mercato. Per fare ciò è necessario distribuire [hash power](ch101-glossary.md#hash-power) tra le persone in maniera diffusa in modo che sia difficile da [cooptare](ch101-glossary.md#cooptazione-co-option).  Tuttavia la pressione al raggruppamento intrinseca al [consenso](ch101-glossary.md#consenso) lavora contro questo obiettivo. Questo è il motivo per il quale questa caratteristica è definita un difetto.
 
----------
+---
+
 Titolo originale: [Proximity Premium Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Proximity-Premium-Flaw)
 
 [Indice](/README.md)

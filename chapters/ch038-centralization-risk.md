@@ -22,9 +22,10 @@ La centralizzazione di manifesta sotto forma di:
 * _Wallet di tipo web_ e di intermediari fiduciari.
 * _Hosted [API](https://it.wikipedia.org/wiki/Application_programming_interface)_ per monitorare la catena. 
 
- In un ambiente a [basso livello di minaccia](ch033-threat-level-paradox.md) il commerciante ha un ridotto incentivo finanziario a sussidiare la sicurezza di Bitcoin. Quando il [costo delle alternative](https://en.wikipedia.org/wiki/Foreign_exchange_controls) aumenta lo sconto diventa inevitabile. A quel punto, o il cliente decide di pagare un prezzo più elevato oppure il commerciante chiude la sua attività in quanto il suo capitale va alla ricerca di tassi di ritorno a livello di [mercato](ch101-glossary.md#mercato). 
+In un ambiente a [basso livello di minaccia](ch033-threat-level-paradox.md) il commerciante ha un ridotto incentivo finanziario a sussidiare la sicurezza di Bitcoin. Quando il [costo delle alternative](https://en.wikipedia.org/wiki/Foreign_exchange_controls) aumenta lo sconto diventa inevitabile. A quel punto, o il cliente decide di pagare un prezzo più elevato oppure il commerciante chiude la sua attività in quanto il suo capitale va alla ricerca di tassi di ritorno a livello di [mercato](ch101-glossary.md#mercato). 
 
----------
+---
+
 Titolo originale: [Centralization Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Centralization-Risk)
 
 [Indice](/README.md)

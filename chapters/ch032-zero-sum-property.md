@@ -21,6 +21,8 @@ Una tassa sul mining ha l'effetto di muovere tutto l'_hash power_ verso i centri
 
 Le conseguenze del gioco a somma zero nel mining combinate con l'intrinseca pressione al raggruppamento (pooling) vengono approfondite ne il [Paradosso del Livello di Minaccia]().
 
----------
+---
+
 Titolo originale: [Zero Sum Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Zero-Sum-Property)
+
 [Indice](/README.md)

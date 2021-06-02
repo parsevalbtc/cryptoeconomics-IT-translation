@@ -12,7 +12,8 @@ Non vi è nulla che possa impedire tale evoluzione in molte monete simili. E' po
 
 Vi è una teoria secondo la quale, poiché la creazione di una moneta non costa nulla, il principio di sostituzione implichi che Bitcoin debba diventare senza valore a causa della sua illimitata offerta gratuita. Questa teoria ignora il fatto che Bitcoin richieda che le persone paghino per usarlo. Questo è valido per una seconda moneta così come lo è per la prima. Tuttavia l'aumento di offerta riduce la domanda. Ad un certo punto la domanda non è sufficiente per produrre/proteggere un ulteriore quantitativo di offerta e per ciò la teoria è invalida. Questa è la stessa relazione che vale per la monete commodity e di fatto per ogni prodotto. 
 
----------
+---
+
 Titolo originale: [Substitution Priciple](https://github.com/libbitcoin/libbitcoin-system/wiki/Substitution-Principle)
 [Indice](/README.md)
 
