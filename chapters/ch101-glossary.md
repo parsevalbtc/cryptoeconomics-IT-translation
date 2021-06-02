@@ -65,7 +65,7 @@ Il Processo volto a determinare la [Validità](#validità).
 
 
 
-  #### Applicazione delle Regole (Enforcement)
+#### Applicazione delle Regole (Enforcement)
 
 L'atto di rigettare dati [Invalidi](#validità).
 
