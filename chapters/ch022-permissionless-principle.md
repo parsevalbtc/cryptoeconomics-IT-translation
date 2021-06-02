@@ -10,7 +10,8 @@ Per una semplice questione di definizione, le operazioni in Bitcoin non possono 
 
 La sicurezza di Bitcoin non si estende quindi ai sistemi che operano nel mercato legale. **Ogni sistema dipendente dalla _value proposition_ di Bitcoin deve anche essere un mercato nero**.
 
----------
+---
+
 Titolo originale: [Permissionless Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Permissionless-Principle)
 
 [Indice](/README.md)
