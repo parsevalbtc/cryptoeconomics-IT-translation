@@ -38,8 +38,8 @@ Il risultato per una mutua adozione del Dollaro  (**P**unizione):
 
 | Brasile/Irlanda | Bitcoin | Dollaro |
 | --------------- | ------- | ------- |
-| Bitcoin         | R\R     | S\T     |
-| Dollaro         | T\S     | P\P     |
+| Bitcoin         | R/R     | S/T     |
+| Dollaro         | T/S     | P/P     |
 
 Per essere considerato un dilemma del prigioniero deve valere la relazione `T > R > P > S` dove:
 
@@ -56,8 +56,8 @@ Per determinare se valgano rispettivamente `R > P` e `T > R` risulta necessario 
 
 | Brasile/Irlanda | Bitcoin | Dollaro |
 | --------------- | ------- | ------- |
-| Bitcoin         | Rr\Rc   | Sr\Tc   |
-| Dollaro         | Tr\Sc   | Pr\Pc   |
+| Bitcoin         | Rr/Rc   | Sr/Tc   |
+| Dollaro         | Tr/Sc   | Pr/Pc   |
 
 Per essere considerato un dilemma del prigioniero deve valere la relazione `Ti > Ri > Pi > Si` dove:
 
