@@ -11,4 +11,3 @@ Il [mining](ch101-glossary.md#centro-di-mining-mine) di Bitcoin, nel suo comples
 Titolo originale: [Efficiency Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Efficiency-Paradox)
 
 [Indice](/README.md)
-
