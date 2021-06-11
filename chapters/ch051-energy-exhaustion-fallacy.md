@@ -2,7 +2,7 @@
 
 
 
-Esiste una teoria secondo la quale la [_proof_of_work_](ch101-glossary.md#prova) (PoW) potrebbe esaurire tutta l'energia disponibile per le persone. La PoW converte l'energia in una barriera contro la [doppia spesa](ch101-glossary.md#doppia-spesa) che [crescente monotonamente](https://it.wikipedia.org/wiki/Funzione_monotona) per ogni data [transazione](). Questo è confrontabile con l'energia spesa nel rendere sicura qualsiasi moneta dalla contraffazione (dal suo stesso ente emittente o in altra forma).
+Esiste una teoria secondo la quale la [_proof-of-work_](ch101-glossary.md#prova) (PoW) potrebbe esaurire tutta l'energia disponibile per le persone. La PoW converte l'energia in una barriera contro la [doppia spesa](ch101-glossary.md#doppia-spesa) che [crescente monotonamente](https://it.wikipedia.org/wiki/Funzione_monotona) per ogni data [transazione](ch101-glossary.md#transazione). Questo è confrontabile con l'energia spesa nel rendere sicura qualsiasi moneta dalla contraffazione (dal suo stesso ente emittente o in altra forma).
 
 Lo scopo di ogni misura di sicurezza è quello di creare un costo necessario a superare tale misura; i.e. una barriera finanziaria. Bitcoin crea la sua barriera alla doppia spesa obbligando l'[attaccante](ch101-glossary.md#attacco) a sostituire il [ramo](ch101-glossary.md#ramo-branch) della transazione bersaglio con un ramo avente probabilisticamente maggior [lavoro](ch101-glossary.md#lavoro). Curiosamente, se la sostituzione ha successo la barriera per i successivi attaccanti viene elevata in misura ancora maggiore. **L'energia spesa non è un fattore importante indipendentemente dal processo, la barriera eretta è l'onere _finanziario_ che l'attaccante deve necessariamente affrontare**.
 
