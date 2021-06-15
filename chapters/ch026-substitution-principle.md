@@ -2,7 +2,7 @@
 
 
 
-Un [bene succedaneo](https://it.wikipedia.org/wiki/Bene_succedaneo) è un bene che può essere utilizzato al posto di un altro. Quando il [prezzo](ch101-glossary.md#prezzo) di un prodotto cresce, ad un certo punto le [persone]() si muovono verso dei beni sostituti o cessano del tutto l'uso del primo bene.
+Un [bene succedaneo](https://it.wikipedia.org/wiki/Bene_succedaneo) è un bene che può essere utilizzato al posto di un altro. Quando il [prezzo](ch101-glossary.md#prezzo) di un prodotto cresce, ad un certo punto le [persone](ch101-glossary.md#persona) si muovono verso dei beni sostituti o cessano del tutto l'uso del primo bene.
 
 Mentre un bene succedaneo avente lo stesso prezzo del prodotto originale potrebbe essere meno desiderabile, il suo prezzo più basso compensa questa preferenza. In questo modo la presenza dei beni succedanei riduce la domanda del bene originale. I sostituti competono con l'originale nello stesso modo di un incremento di [offerta](ch101-glossary.md#offerta) del bene originale.
 
