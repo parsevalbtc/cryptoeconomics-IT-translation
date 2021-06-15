@@ -44,7 +44,7 @@ I tassi di svalutazione possono essere derivati dai tassi di interesse e di cres
 
 > La crescita globale nel 2019 è diminuita al 2.6 percento, [...] cosa che riflette scambi commerciali internazionali ed investimenti più deboli del previsto all'inizio dell'anno. Si prevede che la crescita salga gradualmente al 2.8 percento entro il 2021.
 >
-> World Bank:  [Global Economic Prospects](https://www.worldbank.org/en/publication/global-economic-prospects)
+> World Bank: [Global Economic Prospects](https://www.worldbank.org/en/publication/global-economic-prospects)
 
  In questo caso un tasso di interesse del 10.2% è controbilanciato dal 7.6% di svalutazione che porta al 2.6% di crescita. 
 
@@ -66,7 +66,7 @@ tasso-di-crescita-moneta-pura = tasso-di-interesse - tasso-di-interesse
 0% = 9% - 9%
 ```
 
-Il valore di tutte le monete _presenti_ subiscono anche una svalutazione dovuta al [demurrage](https://it.wikipedia.org/wiki/Demurrage_(moneta)).
+Il valore di tutte le monete _presenti_ subisce anche una svalutazione dovuta al [demurrage](https://it.wikipedia.org/wiki/Demurrage_(moneta)).
 
 ```
 tasso-di-crescita-moneta-merce = tasso-di-crescita-moneta-pura - demurrage
