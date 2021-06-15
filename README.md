@@ -60,7 +60,7 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 | 34 | [Modello di Business del Miner](chapters/ch034-miner-business-model.md) | [Miner Business Model](https://github.com/libbitcoin/libbitcoin-system/wiki/Miner-Business-Model) |
 | 35 | [Modello di Sicurezza Qualitativo](chapters/ch035-qualitative-security-model.md) | [Qualitative Security Model](https://github.com/libbitcoin/libbitcoin-system/wiki/Qualitative-Security-Model) |
 | 36 | [Difetto del Premio di Prossimità](chapters/ch036-proximity-premium-flaw.md) |[Proximity Premium Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Proximity-Premium-Flaw) |
-| 37 | [Difetto dello Sconto della Varianza](chapters/ch037-variance-discount-flaw.md) | [Variance Discount Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Variance-Discount-Flaw) |
+| 37 | [Difetto dello Sconto di Varianza](chapters/ch037-variance-discount-flaw.md) | [Variance Discount Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Variance-Discount-Flaw) |
 | 38 | [Rischio di Centralizzazione](chapters/ch038-centralization-risk.md) | [Centralization Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Centralization-Risk) |
 | 39 | [Rischio della Pressione al Raggruppamento](chapters/ch039-pooling-pressure-risk.md) | [Pooling Pressure Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Pooling-Pressure-Risk) |
 | 40 | [Fallacia del Monopolio degli ASIC](chapters/ch040-asic-monopoly-fallacy.md) | [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy) |
