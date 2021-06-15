@@ -59,21 +59,21 @@ Questo dato è consistente con le stime di svalutazione del capitale. Mentre gli
 >
 > OECD: [Estimating Depreciation Rates](https://www.oecd.org/sdd/productivity-stats/35409605.pdf)
 
-Nella misura in cui il denaro manifesta [valore d'uso](https://en.wikipedia.org/wiki/Use_value), essa si deprezza come ogni [bene](). Si presume che la moneta fiat, come il Bitcoin o il Dollaro Statunitense, non abbia valore d'uso. Una moneta _pura_ non manifesta alcuna crescita a causa del [costo opportunità](https://it.wikipedia.org/wiki/Costo_opportunit%C3%A0) dell'interesse a cui si rinuncia. In altre parole, l'interesse rappresenta la cattura del valore del tempo ed il deprezzamento della moneta incorpora la mancata cattura di quel valore.
+Nella misura in cui il denaro manifesta [valore d'uso](https://en.wikipedia.org/wiki/Use_value), essa si deprezza come ogni [bene](https://en.wikipedia.org/wiki/Goods). Si presume che la moneta fiat, come il Bitcoin o il Dollaro Statunitense, non abbia valore d'uso. Una moneta _pura_ non manifesta alcuna crescita a causa del [costo opportunità](https://it.wikipedia.org/wiki/Costo_opportunit%C3%A0) dell'interesse a cui si rinuncia. In altre parole, l'interesse rappresenta la cattura del valore del tempo ed il deprezzamento della moneta incorpora la mancata cattura di quel valore.
 
 ```
 tasso-di-crescita-moneta-pura = tasso-di-interesse - tasso-di-interesse
 0% = 9% - 9%
 ```
 
-Il valore di tutte le monete _presenti_ subisce anche una svalutazione dovuta al [demurrage](https://it.wikipedia.org/wiki/Demurrage_(moneta)).
+Il valore di tutte le monete _presenti_ subiscono anche una svalutazione dovuta al [demurrage](https://it.wikipedia.org/wiki/Demurrage_(moneta)).
 
 ```
 tasso-di-crescita-moneta-merce = tasso-di-crescita-moneta-pura - demurrage
 -1% = 0% - 1%
 ```
 
-I tassi di crescita delle monete [inflazionarie]() e deflazionarie sono discussi nella [Fallacia della Moneta non Prestabile](ch086-unlendable-money-fallacy.md).
+I tassi di crescita delle monete [inflazionarie](https://en.wikipedia.org/wiki/Monetary_inflation) e deflazionarie sono discussi nella [Fallacia della Moneta non Prestabile](ch086-unlendable-money-fallacy.md).
 
 ---
 
