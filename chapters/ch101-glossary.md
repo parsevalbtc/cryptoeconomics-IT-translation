@@ -132,7 +132,7 @@ Dichiarazione atomica (univoca) di intenti.
 
 #### Endorsement
 
-Uno [Script](#script) che soddisfa un [Contratto](contratto).
+Uno [Script](#script) che soddisfa un [Contratto](#contratto).
 
 >Signature Script (ScriptSig) è una formulazione anacronistica per questo termine.
 
@@ -146,7 +146,7 @@ Riferimento ad un [Output](#output) o ad un [Input](#input).
 
 #### Output
 
-Un [Trasferimento](#trasferimento) esplicito collegato ad un [Contratto]().
+Un [Trasferimento](#trasferimento) esplicito collegato ad un [Contratto](#contratto).
 
 
 
@@ -187,7 +187,7 @@ Una dichiarazione relativa al tempo di produzione di un [Blocco](#blocco).
 
 #### Tempo Mediano Trascorso 
 
-Una media dei [_Timestamp_](#marcatura-temporale-timestamp) dei precedenti [Blocchi]().
+Una media dei [_Timestamp_](#marcatura-temporale-timestamp) dei precedenti [Blocchi](#blocco).
 
 
 
@@ -199,11 +199,11 @@ Una dimostrazione probabilistica della quantità di [Lavoro](#lavoro) svolta.
 
 #### Ramo (Branch)
 
-Una sequenza [Valida](#validità) di [Blocchi](#blocchi).
+Una sequenza [Valida](#validità) di [Blocchi](#blocco).
 
 
 
-#### Ramo debole (eak Branch)
+#### Ramo Debole (Weak Branch)
 
 Un [Ramo](#ramo-branch) avente meno [Prova](#prova) cumulata rispetto ad un altro.
 
@@ -211,7 +211,7 @@ Un [Ramo](#ramo-branch) avente meno [Prova](#prova) cumulata rispetto ad un altr
 
 
 
-#### Ramo forte (Strong Branch)
+#### Ramo Forte (Strong Branch)
 
 Un [Ramo](#ramo-branch) avente maggiore [Prova](#prova) cumulata rispetto ad un altro.
 
@@ -309,7 +309,7 @@ La prima pubblicazione di una [Transazione](#transazione).
 
 #### Doppia Spesa
 
-_[Endorsment](#endorsment)_ dello stesso [Output](#output) in due [Spese](#spesa) distinte.
+[_Endorsment_](#endorsment) dello stesso [Output](#output) in due [Spese](#spesa) distinte.
 
 
 
@@ -463,9 +463,9 @@ Il tasso relativo all'aumento di [Utilità](#utilità) nel [Dare in prestito](#d
 
 #### Profitto
 
-Il ritorno (economico) derivante dalla [Speculazione](#speculare)
+Il ritorno (economico) derivante dalla [Speculazione](#speculare).
 
->Ciò esclude l'interesse
+> Ciò esclude l'interesse.
 
 
 
@@ -847,7 +847,7 @@ Ricorso all'aggressione al fine di indurre una [Attivazione](#attivazione).
 
 #### Distorsione
 
-Aggressione al [Mercato](#mercatop) che altera il costo del [Mining]().
+Aggressione al [Mercato](#mercatop) che altera il costo del [Mining](#centro-di-mining-mine).
 
 
 
