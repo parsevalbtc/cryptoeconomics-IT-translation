@@ -16,9 +16,9 @@ La moneta è creata dai [miner](ch101-glossary.md#miner) ad un costo reale, vien
 
 I sostituti monetari vengono creati dalle banche, senza sostenere alcun costo reale e come conseguenza della riserva frazionaria. L'offerta di questi sostituti si espande ad ogni prestito e si contrae quando il prestito si [estingue](https://it.wikipedia.org/wiki/Compensazione_(finanza)). Poiché non viene posto alcun vincolo all'espansione del credito, il debito complessivo cresce senza limiti creando una perdurante inflazione dei prezzi.
 
-In un libero mercato le persone possono svolgere le stesse operazioni delle banche, senza necessariamente chiamarsi banche. Di conseguenza, la distinzione tra queste due possibilità deve basarsi sul modo con cui viene celata una supposta frode. La teoria sostiene che questo occultamento è raggiunto usando un trucco contabile che non viene compreso dalle persone su larga scala. Proponiamoci allora di analizzare in profondità tale aspetto. Ogni tipo di moneta risulterà sufficiente per condurre questa ricerca sui [sostituti monetari](https://wiki.mises.org/wiki/Money_substitutes) creati sopra ad essa, e che includono Oro, Bitcoin o [moneta di monopolio](ch005-money-taxonomy.md).
+In un libero mercato le persone possono svolgere le stesse operazioni delle banche, senza necessariamente chiamarsi banche. Di conseguenza, la distinzione tra queste due possibilità deve basarsi sul modo con cui viene celata una supposta frode. La teoria sostiene che questo occultamento è raggiunto usando un trucco contabile che non viene compreso dalle persone su larga scala. Proponiamoci allora di analizzare in profondità tale aspetto. Ogni tipo di moneta risulterà sufficiente per condurre questa ricerca sui [sostituti monetari](https://wiki.mises.org/wiki/Money_substitutes) creati al di sopra di essa, e che includono Oro, Bitcoin o [moneta di monopolio](ch005-money-taxonomy.md).
 
-Nella visione semplice, il potenziale prestatore ha risparmiato sia la liquidità necessaria per il suo consumo personale (accumulo) e l'ammontare destinato per ricavare un [interesse](ch101-glossary.md#interesse) (investimento). In questo scenario tutta l'attività di prestito deriva dai risparmi, come ad esempio l'oro accumulato (n.d.t. ad esempio) dopo averlo trovato passando la [bateia](https://it.wikipedia.org/wiki/Bateia). I risparmi sono costituiti dalla somma del denaro accumulato (moneta) ed del quantitativo di crediti in eccesso sui debiti: ` risparmi = moneta + (credito - debito)` . La moneta è l'oro ed i crediti sono sostituti monetari:
+Nella visione semplice, il potenziale prestatore ha risparmiato sia la liquidità necessaria per il suo consumo personale (accumulo) sia l'ammontare destinato a ricavare un [interesse](ch101-glossary.md#interesse) (investimento). In questo scenario tutta l'attività di prestito deriva dai risparmi, come ad esempio l'oro accumulato (n.d.t. ad esempio) dopo averlo trovato passando la [bateia](https://it.wikipedia.org/wiki/Bateia). I risparmi sono costituiti dalla somma del denaro accumulato (moneta) ed del quantitativo di crediti in eccesso sui debiti: ` risparmi = moneta + (credito - debito)` . La moneta è l'oro ed i crediti sono sostituti monetari:
 
 |         | risparmi | moneta | credito | debito |
 | ------- | -------- | ------ | ------- | ------ |
@@ -31,15 +31,15 @@ Secondo questa visione del prestito personale, la Persona cede 81 once d'oro (oz
 | Persona  | 100 oz   | 19 oz  | 81 oz   |        |
 | Debitore |          | 81 oz  |         | 81 oz  |
 
-La Persona, in realtà, ha dato in prestito alla sua stessa attività (e.g. un'attività di prestito) una frazione dei suo risparmi, di cui è tenuto conto di seguito. Assumiamo che che la Persona tenga da parte (accumuli) il 10% dei suo risparmi per far fronte alla liquidità necessaria ai consumi di breve termine e che l'Attività accumuli il 10% per lo stesso motivo:
+La Persona, in realtà, ha dato in prestito alla sua stessa Impresa (e.g. un'attività di prestito) una frazione dei suo risparmi, di cui è tenuto conto di seguito. Assumiamo che la Persona tenga da parte (accumuli) il 10% dei suo risparmi per far fronte alla liquidità necessaria ai consumi di breve termine e che l'Impresa accumuli il 10% per lo stesso motivo:
 
 |          | risparmi | moneta | credito | debito |
 | -------- | -------- | ------ | ------- | ------ |
 | Persona  | 100 oz   | 10 oz  | 90 oz   |        |
-| Attività |          | 9 oz   | 81 oz   | 90 oz  |
+| Impresa  |          | 9 oz   | 81 oz   | 90 oz  |
 | Debitore |          | 81 oz  |         | 81 oz  |
 
-L'Attività della persona sta operando con una riserva del 10% in quanto il 90% dei suoi risparmi è diventato capitale di rischio. Applicare questo schema alla visione semplice del sistema bancario richiede solamente si sostituire "Prestatore" (n.d.t. la Persona) con "Depositante" e "Attività" con "Banca". Non vi è necessità di assumere che questi siano due individui distinti:
+L'Impresa della persona sta operando con una riserva del 10% in quanto il 90% dei suoi risparmi è diventato capitale di rischio. Applicare questo schema alla visione semplice del sistema bancario richiede solamente di sostituire il termine "Prestatore" (n.d.t. la Persona) con il termine "Depositante" e "Impresa" con "Banca". Non vi è necessità di assumere che questi siano due individui distinti:
 
 |             | risparmi | moneta | credito | debito |
 | ----------- | -------- | ------ | ------- | ------ |
@@ -52,7 +52,7 @@ Rappresentando correttamente la Persona come un soggetto avente capitale di risc
 Sia `r`il livello uniforme delle riserve individuali e `m` la quantità di moneta, l'ammontare totale del credito `c` per ogni dato numero di prestiti `n` è dato dalla seguente [somma parziale](https://www.wolframalpha.com/input/?i=sum+of+m+*+(1-r)%5En+as+n+goes+from+1+to+infinity) (n.d.t. si tratta di una [serie geometrica](https://it.wikipedia.org/wiki/Serie_geometrica)):
 
 ```
-c = ∑(n=1..n)[m * (1 - r)^n] =
+c = Somma(n=1..n)[m * (1 - r)^n] =
 (m * (r - 1)*((1 - r)^n - 1))/r =
 (100 oz * (10% - 1) ((1 - 10%)^43 - 1))/10% = 890.3 oz
 ```
@@ -119,19 +119,19 @@ Il [moltiplicatore monetario](https://en.wikipedia.org/wiki/Money_multiplier) è
 
 Si noti che, in condizione di espansione completa, affinché una persona spenda il proprio denaro accumulato mantenendo la propria preferenza temporale, un prestito deve essere estinto in modo da compensare la spesa. Il processo di estinzione [finalizzazione] del prestito muove il denaro dal primo debitore al suo creditore, e da luogo alla cancellazione della nota di debito. La persona che riceverà le monete derivanti dalla spesa le darà necessariamente in prestito per soddisfare la sua preferenza temporale e così via.
 
-Non è possibile alcuna ulteriore espansione senza l'incremento della quantità di moneta o di una riduzione complessiva della preferenza temporale. Un incremento della moneta incrementa il quantitativo assoluto di credito disponibile e una riduzione della preferenza temporale incrementa la proporzione di credito rispetto alla moneta. Poiché moneta e credito evolvono assieme, non vi è mai un incremento reale di sostituti monetari tranne che derivante da questi cambiamenti.
+Non è possibile alcuna ulteriore espansione senza l'incremento della quantità di moneta o di una riduzione complessiva della preferenza temporale. Un incremento della moneta incrementa il quantitativo assoluto di credito disponibile e una riduzione della preferenza temporale incrementa la proporzione di credito rispetto alla moneta. Poiché moneta e credito evolvono assieme, non vi è mai un incremento reale dei sostituti monetari se non derivante da questi cambiamenti.
 
-Nella tipica pratica della contabilità bancaria la Banca non cede il denaro. Al suo posto essa crea delle voci contabili in un processo noto con il nome di "creazione del credito". Il processo crea delle voci di [libro contabile](https://it.wikipedia.org/wiki/Libro_mastro) che si compensano tra i ricavi e i prestiti del Depositante ("credito" e "debito") e delle voci che si compensano con lo [stato patrimoniale](https://en.wikipedia.org/wiki/Balance_sheet) della banca stessa ("attività" (_asset_) e "passività" (_liability_)). All'emissione del prestito, i conti appaiono come indicato di seguito:
+Nella tipica pratica della contabilità bancaria la Banca non cede il denaro. Al suo posto essa crea delle voci contabili in un processo noto con il nome di "creazione del credito". Il processo crea delle voci di [libro contabile](https://it.wikipedia.org/wiki/Libro_mastro) che si compensano tra i ricavi e i prestiti del Depositante ("credito" e "debito") e delle voci che si compensano con lo [stato patrimoniale](https://en.wikipedia.org/wiki/Balance_sheet) della banca stessa ("attività" (_assets_) e "passività" (_liabilities_)). All'emissione del prestito, i conti appaiono come indicato di seguito:
 
-|             | risparmi | moneta | credito | debito | attività (_asset_) | passività (_liability_) |
-| ----------- | -------- | ------ | ------- | ------ | ------------------ | ----------------------- |
-| Depositante | 100 oz   | 10 oz  | 90 oz   |        | 100 oz             |                         |
-| Banca       |          | 90 oz  | 81 oz   | 171 oz | 171 oz             | 171 oz                  |
-| Debitore    |          |        | 81 oz   | 81 oz  | 81 oz              | 81 oz                   |
+|             | risparmi | moneta | credito | debito | attività (_assets_) | passività (_liabilities_) |
+| ----------- | -------- | ------ | ------- | ------ | ------------------- | --------------------------|
+| Depositante | 100 oz   | 10 oz  | 90 oz   |        | 100 oz              |                           |
+| Banca       |          | 90 oz  | 81 oz   | 171 oz | 171 oz              | 171 oz                    |
+| Debitore    |          |        | 81 oz   | 81 oz  | 81 oz               | 81 oz                     |
 
 A questo punto [le spiegazioni che è in grado di fornire la teoria](https://www.sciencedirect.com/science/article/pii/S1057521915001477) tendono ad esaurirsi. Le partite di compensazione sia della Banca che del Debitore si controbilanciano, ma il Debitore ha a disposizione 81 once d'oro da spendere e la Banca non ha avuto necessità di cedere alcuna oncia d'oro al Debitore. Ci sono sempre 100 once in moneta, ma il Debitore ha 81 once di sostituto monetario e la Banca ha 81 once d'oro in più di attività. La teoria afferma che quindi la Banca ha creato non solo credito, ma anche _moneta_. Si noti che tutto il quadro contabile è ancora bilanciato e tutti i conti possono essere finalizzati, e ciò sembrerebbe dare ragione alla teoria per come esposta da Lord Turner:
 
->"...esse creano il credito e la moneta _ex nihilo_ - accendendo il prestito e contemporaneamente accreditando moneta sul conto del debitore."
+> "...esse creano il credito e la moneta _ex nihilo_ - accendendo il prestito e contemporaneamente accreditando moneta sul conto del debitore."
 
 Questo tuttavia dimostra che nessuna spesa reale è stata ancora effettuata a partire dal credito del prestito o dall'asset della banca. Spingiamoci ancora leggermente oltre nel ragionamento assumendo che il Debitore proceda al _clearing_ del suo conto e di conseguenza finalizzi le corrispondenti attività e passività della Banca.
 
@@ -141,13 +141,13 @@ Questo tuttavia dimostra che nessuna spesa reale è stata ancora effettuata a pa
 | Banca       |          | 90 oz  | 81 oz   | 90 oz  | 90 oz              | 90 oz                   |
 | Debitore    |          | 81 oz  |         | 81 oz  | 81 oz              | 81 oz                   |
 
-Si noti che questo è un esito identico a quello della visione semplice. **Non vi è quindi distinzione tra queste due visioni apparentemente in competizione sulla creazione di moneta**, e ciò rende invalida la teoria. Questo fatto porta a risolve la [questione di durata secolare](https://en.wikipedia.org/wiki/Credit_theory_of_money#Scholarship), cominciata apparentemente tra [Platone](https://it.wikipedia.org/wiki/Platone) e [Aristotele](https://it.wikipedia.org/wiki/Aristotele) che si domandavano se la moneta fosse basata sull'attività estrattiva o sul credito. Le teorie sono identiche, in quanto la moneta ed il credito sono [duali](https://www.treccani.it/vocabolario/dualita/).
+Si noti che questo è un esito identico a quello della visione semplice. **Non vi è quindi distinzione tra queste due visioni apparentemente in competizione sulla creazione di moneta**, e ciò rende invalida la teoria. Questo fatto porta a risolve la [secolare questione](https://en.wikipedia.org/wiki/Credit_theory_of_money#Scholarship), cominciata apparentemente tra [Platone](https://it.wikipedia.org/wiki/Platone) e [Aristotele](https://it.wikipedia.org/wiki/Aristotele) che si domandavano se la moneta fosse basata sull'attività estrattiva o sul credito. Le teorie sono identiche, in quanto la moneta ed il credito sono [duali](https://www.treccani.it/vocabolario/dualita/).
 
 > Secondo Joseph Schumpeter, il primo seguace conosciuto della teoria del credito fu Platone. Schumpeter descrive il metallismo come l'altra teoria "delle due fondamentali teorie della moneta", aggiungendo che il primo seguace della teoria del metallismo fu Aristotele.
 
 I seguaci delle due teorie stanno parlando semplicemente della [stessa cosa](https://en.wikipedia.org/wiki/Talking_past_each_other). Bitcoin, in qualità di moneta fiat (i.e. una moneta che non ha [valore d'uso](https://en.wikipedia.org/wiki/Use_value)) che opera in [assenza del supporto dello stato](ch003-value-proposition.md), ha finalmente reso evidente sia gli errori logici del [metallismo](https://en.wikipedia.org/wiki/Metallism), che [provò a mostrare](ch074-regression-fallacy.md) la necessità di una moneta con valore d'uso, che quelli del [cartalismo](https://en.wikipedia.org/wiki/Chartalism) che [provò a mostrare](ch047-debt-loop-fallacy.md) la necessità del supporto dello stato alla moneta fiat.
 
-Si deve ricordare che ogni prestito ha una riserva del 10%, così la banca può dare in prestito fino a 8.903 volte l'ammontare di moneta a riserva, ovvero 890.30 once di sostituti monetari contro le 100 once di moneta a riserva. Se la Banca avesse una riserva del 0% per ogni prestito, l'espansione del credito sarebbe infinita. Tuttavia questo implica una preferenza temporale pari a zero, equivalente all'idea che il tempo non abbia valore, cosa che implica che tutto il denaro viene imprestato indefinitamente. Nel caso della Banca, lo 0% in riserva implica che non vi sia alcuna liquidità per soddisfare alcun prelievo (i.e. la bancarotta immediata). Tuttavia, assumendo una preferenza temporale nulla, non potrebbe mai esservi alcun prelievo e ciò rende lo scenario non rilevante ai fini pratici. L'espansione del credito è necessariamente finita.
+Si deve ricordare che ogni prestito ha una riserva del 10%, così la banca può dare in prestito fino a 8.903 volte l'ammontare di moneta a riserva, ovvero 890.30 once di sostituti monetari contro le 100 once di moneta a riserva. Se la Banca avesse una riserva del 0% per ogni prestito, l'espansione del credito sarebbe infinita. Tuttavia questo implica una preferenza temporale pari a zero, equivalente all'idea che il tempo non abbia valore, cosa che implica che tutto il denaro venga imprestato indefinitamente. Nel caso della Banca, lo 0% in riserva implica che non vi sia alcuna liquidità per soddisfare alcun prelievo (i.e. la bancarotta immediata). Tuttavia, assumendo una preferenza temporale nulla, non potrebbe mai esservi alcun prelievo e ciò rende lo scenario non rilevante ai fini pratici. L'espansione del credito è necessariamente finita.
 
 Torniamo ora ad analizzare lo scenario nel quale la Banca crea del credito con una riserva negativa (i.e dal nulla), considerando questa volta una spesa. Ad esempio, su un deposito di 0 once la Banca ha intenzione di accendere un prestito di 1000 once. Al posto di basarsi sulla moneta a riserva per riuscire alla fine a finalizzare il prestito, la Banca "crea moneta" sul suo stato patrimoniale. La banca quindi procede a creare i conti di credito e debito intestati al debitore che rappresentano rispettivamente la moneta presa a prestito e l'obbligo di ripagare il prestito:
 
@@ -180,7 +180,7 @@ La mancata comprensione di questi principi deriva probabilmente dalla [mancata c
 
 Le voci contabili di attività e passività e relativa compensazione serve solamente per tenere conto dei prestiti emessi ed in sospeso, cosa che sta alla base dello stato patrimoniale della Banca. In maniera simile, la Banca non ha creato la voci di credito e debito, e loro relativa compensazione, per occultare la creazione fraudolenta di moneta. La Banca ha creato queste voci per due ragioni:
 
-*  Precludere la possibilità del trasferimento fisico solo per ri-depositare il denaro nella Banca
+* Precludere la possibilità del trasferimento fisico solo per ri-depositare il denaro nella Banca
 * Incoraggiare il ri-deposito nella Banca a discapito dei concorrenti (o dell'accumulo da parte del Debitore).
 
 Quando la Banca non ha riserve sufficienti per soddisfare i prelievi, dovuti a prestiti in default o ad una [corsa agli sportelli](https://it.wikipedia.org/wiki/Panico_bancario), ha solo due opzioni: andare in fallimento oppure chiedere un prestito. Per impedire il verificarsi della prima opzione è stato creato il [sistema bancario centrale](https://it.wikipedia.org/wiki/Banca_centrale) atto a fornire la seconda opzione. Questo è il significato del termine "[prestatore di ultima istanza](https://it.wikipedia.org/wiki/Prestatore_di_ultima_istanza)". Il [Principio della Banca di Stato](ch025-state-banking-principle.md) fornisce una dettagliata spiegazione relativa alla reale fonte dell'[inflazione monetaria](https://en.wikipedia.org/wiki/Monetary_inflation).
