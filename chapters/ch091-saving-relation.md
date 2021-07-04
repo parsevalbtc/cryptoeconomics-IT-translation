@@ -27,7 +27,7 @@ valore-non-consumato = valore-accumulato * tasso-di-svalutazione
 Riarrangiando e sostituendo l'espressione del valore non consumato al valore accumulato, si ottiene la relazione tra beni accumulati che si stanno svalutando e beni investiti che non si stanno deprezzando. I beni futuri non esistono finché non diventano beni presenti e di conseguenza non si deprezzano.
 
   ```
-tasso-di-interesse = (valore-accumulato * tasso-di-svalutazione)/ valore-investito
+tasso-di-interesse = (valore-accumulato * tasso-di-svalutazione) / valore-investito
   ```
 Il rapporto di capitale è il rapporto tra il capitale accumulato (riservato) ed il capitale investito. Il _tasso_ di interesse è il _rapporto_ di capitale. Entrambi rappresentano lo stesso riflesso della preferenza temporale. **Il tasso di interesse è il rapporto tra il capitale consumato ed il capitale investito**.
 
