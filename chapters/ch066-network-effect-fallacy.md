@@ -2,7 +2,7 @@
 
 
 
-Esiste una teoria secondo la quale l'[utilità](ch101-glossary.md#) creata da un'[economia](ch101-glossary.md#economia) vari con il quadrato del numero dei [commercianti](ch101-glossary.md#commerciante) appartenenti ad essa, sotto l'assunzione che ciascuno dei commercianti offra lo stesso valore di beni o servizi per mezzo di una sola [moneta](ch101-glossary.md#moneta). La teoria rappresenta un'applicazione della [Legge di Metcalfe](https://en.wikipedia.org/wiki/Metcalfe%27s_law).
+Esiste una teoria secondo la quale l'[utilità](ch101-glossary.md#utilità) creata da un'[economia](ch101-glossary.md#economia) vari con il quadrato del numero dei [commercianti](ch101-glossary.md#commerciante) appartenenti ad essa, sotto l'assunzione che ciascuno dei commercianti offra lo stesso valore di beni o servizi per mezzo di una sola [moneta](ch101-glossary.md#moneta). La teoria rappresenta un'applicazione della [Legge di Metcalfe](https://en.wikipedia.org/wiki/Metcalfe%27s_law).
 
 Questo implica che una [separazione](ch101-glossary.md#separazione-split) in parti uguali dell'economia riduca l'utilità combinata della stessa della metà. Ad esempio, se 20 commercianti hanno un'utilità pari a 400 allora 2 reti costituite da 10 commercianti ciascuna hanno un'utilità di 200.
 
