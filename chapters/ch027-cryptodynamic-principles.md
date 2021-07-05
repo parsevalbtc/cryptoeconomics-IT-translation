@@ -26,14 +26,15 @@ La forza della sicurezza è interamente umana in natura. Le [persone ](ch101-glo
 * [Dissipazione di Energia](ch072-proof-of-stake-fallacy.md)
 * [Bilanciamento del Potere](ch028-censorship-resistance-property.md)
 
-Tali forze dipendono, in quest'ordine, l'una dall'altra. Senza condivisione dei rischi, l'energia non può essere spesa nel sistema per bilanciare il [potere](ch101-glossary.md#potere) di un entità [censurante](ch101-glossary.md#censura). Se queste tre forze rimangono integre Bitcoin può essere protetto. In mancanza di una sola di esse una tecnologia non può essere definita Bitcoin.
+Tali forze dipendono, in quest'ordine, l'una dall'altra. Senza condivisione dei rischi, l'energia non può essere spesa nel sistema per bilanciare il [potere](ch101-glossary.md#potere) di un'entità [censurante](ch101-glossary.md#censura). Se queste tre forze rimangono integre Bitcoin può essere protetto. In mancanza di una sola di esse una tecnologia non può essere definita Bitcoin.
 
-Data l'esistenza di queste tre forze, [non si può assumere](ch004-axiom-of-resistance.md) che una implementazione di Bitcoin possa essere protetta in senso assoluto. Inoltre, una implementazione potrebbe essere più sicura di un'altra. **L'unico criterio di distinzione è quello secondo cui una tecnologia è Bitcoin se include queste forze mentre non è Bitcoin se non le include**.
+Data l'esistenza di queste tre forze, [non si può assumere](ch004-axiom-of-resistance.md) che una implementazione di Bitcoin possa essere protetta in senso assoluto. Inoltre, una implementazione potrebbe essere più sicura di un'altra. **L'unico criterio di distinzione è quello secondo il quale una tecnologia è Bitcoin se include queste forze, mentre non è Bitcoin se non le include**.
 
 La possibilità di protezione permessa da queste forze si definisce "sicurezza criptodinamica". Così, ad esempio, una "blockchain _permissioned_" viola il principio di condivisione dei rischi, una tecnologia basata strettamente su proof-of-stake (PoS) viola il principio di dissipazione dell'energia e una moneta che si affida interamente alla componente di [sussidio](ch101-glossary.md#sussidio) per ricompensare la [conferma](ch101-glossary.md#conferma) delle transazioni viola il principio di bilanciamento del potere. Nessuno di questi esempi e criptodinamicamente sicuro.
 
 ---
 
 Titolo originale: [Cryptodynamic Principles](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptodynamic-Principles)
+
 [Indice](/README.md)
 
