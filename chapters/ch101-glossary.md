@@ -31,13 +31,15 @@ L'insieme di principi che proteggono una [Moneta](#moneta) dallo [Stato](#stato)
 
 Un accordo tra [Persone](#persona). 
 
-> Indica anche l'insieme di persone che partecipano in un accordo.
+> Indica anche l'insieme di persone che partecipano ad un accordo.
 
 
 
 #### Moneta
 
 Un [Consenso](#consenso) che riguarda un mezzo di [Scambio](#scambio) mutuamente accettato.
+
+> BTC è una Moneta
 
 
 
