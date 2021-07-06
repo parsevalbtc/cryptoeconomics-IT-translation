@@ -2,9 +2,9 @@
 
 
 
-Criptodinamica è un termine definito in questa raccolta con lo scopo di riferirsi facilmente ai principi fondamentali di [Bitcoin](ch101-glossary.md#bitcoin). Ciò è fatto con l'intento sia di sia di aiutare nella comprensione di Bitcoin sia di differenziarlo da altre tecnologie. Questi principi rappresentano il sottoinsieme minimo di principi _criptoeconomici_ necessari per raggiungere questo obiettivo.
+Criptodinamica è un termine definito in questa raccolta con lo scopo di riferirsi facilmente ai principi fondamentali di [Bitcoin](ch101-glossary.md#bitcoin). Ciò è fatto con l'intento sia di aiutare nella comprensione di Bitcoin sia di differenziarlo da altre tecnologie. Questi principi rappresentano il sottoinsieme minimo di principi _criptoeconomici_ necessari per raggiungere questo obiettivo.
 
-Benché la scelta del nome non sia essenziale il razionale sottostante è fornito di seguito.
+Benché la scelta del nome non sia essenziale, il razionale sottostante viene sviluppato di seguito.
 
 ### Cripto
 
