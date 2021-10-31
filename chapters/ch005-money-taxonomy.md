@@ -39,7 +39,7 @@ Sia le monete che i sostituti monetari costituiscono una [valuta](https://it.wik
       * [**Bitcoin**](https://bitcoin.org/bitcoin.pdf)
   * [Sostituto Monetario](https://wiki.mises.org/wiki/Money_substitutes) [futuro]
     * [elettronico](https://www.investopedia.com/terms/e/electronic-money.asp) [intangibile]
-      *  conto
+      * conto
         * **Visa**   
     * [rappresentativo](https://en.wikipedia.org/wiki/Representative_money) [tangibile]
       * [Banconota](https://it.wikipedia.org/wiki/Banconota) 
