@@ -43,7 +43,7 @@ Sia le monete che i sostituti monetari costituiscono una [valuta](https://it.wik
         * **Visa**   
     * [rappresentativo](https://en.wikipedia.org/wiki/Representative_money) [tangibile]
       * [Banconota](https://it.wikipedia.org/wiki/Banconota) 
-        * [**Silver Certificate_ Statunitense**](https://en.wikipedia.org/wiki/Silver_certificate_(United_States))
+        * [**Silver Certificate Statunitense**](https://en.wikipedia.org/wiki/Silver_certificate_(United_States))
 
 
 ------
