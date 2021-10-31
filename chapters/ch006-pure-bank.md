@@ -84,19 +84,23 @@ rapporto-di-risparmio = investito / riservato
 La banca pura non ha fonti di indebitamento (passività) ma solamente capitale sociale apportato dagli azionisti.
 
 | Asset della banca - Attività | Capitale Sociale - Passività |
-| :--------------------------: | :--------------------------: |
+| ---------------------------- | ---------------------------- |
 |    investito + riservato     |      preso-in-prestito       |
 
 
 ##### Tasso di Rendimento
 
-Il tasso di rendimento del creditore è, in aggiunta, una funzione del tasso di interesse. Il tasso di rendimento del creditore è inferiore al tasso di interesse del debitore a causa del _cash drag_, la spesa necessaria per sostenere la domanda di prelievo. Per ridurre queste spese sono tipicamente inclusi dei vincoli temporali nei [contratti delle banche reali](https://www.chase.com/content/dam/chasecom/en/checking/documents/deposit_account_agreement.pdf). Ad esempio, per legge ogni prelievo da un conto corrente con interesse degli Stati Uniti può essere ritardato di 7 giorni. Il creditore può eliminare il _cash drag_ tenendo il debito in un fondo di investimento (i.e. senza assicurazioni sul _settlement_) rispetto a tenerlo in una banca.
+Il tasso di rendimento del creditore è, in aggiunta, una funzione del tasso di interesse. Il tasso di rendimento del creditore è inferiore al tasso di interesse del debitore a causa del _cash drag_, la spesa necessaria per sostenere la domanda di prelievo. Per ridurre queste spese sono tipicamente inclusi dei vincoli temporali nei [contratti delle banche reali](https://www.chase.com/content/dam/chasecom/en/checking/documents/deposit_account_agreement.pdf). Ad esempio, per legge ogni prelievo da un conto corrente con interesse degli Stati Uniti può essere ritardato di 7 giorni. Il creditore può eliminare il _cash drag_ tenendo il debito in un fondo di investimento (i.e. senza assicurazioni sul _settlement_).
 
 ```
 tasso-di-rendimento = tasso-di-interesse * (investito / preso-in-prestito)
 ```
 
-Come mostrato ne la [Relazione del Risparmio](ch091-saving-relation.md) il rapporto di capitale è il tasso di interesse (n.d.t. la relazione è stata modificata e non ha un tale livello di generalità: questo paragrafo ha subito concordemente delle modifiche - si veda il commento nel capitolo relativo. Ai fini della presente versione l'applicazione della relazione segue la specifica assunzione che il capitale accumulato si deprezzi interamente e venga interamente sostituito dall'interesse ottenuto dall'investimento). Il rapporto di capitale include il deprezzamento dei beni presenti, che nel caso della moneta è il _demurrage_. Il _demurrage_ della banca pura è 1, e quindi questo termine scompare dall'espressione. Sostituendo il rapporto di capitale nella formula si ottiene il tasso di rendimento espresso nei termini del capitale preso a prestito ed investito.
+Come mostrato ne la [Relazione del Risparmio](ch091-saving-relation.md) il rapporto di capitale individuale determina completamente il tasso di interesse del mercato. Quando si considera che ogni persona operi come una banca pura, risulta chiaro che che il rapporto di capitale determina il tasso di interesse. Un rapporto di capitale dello 0% per tutte le persone implica che il capitale è gratuito e non ha rendimento. Con rapporti di capitale via via crescenti il tasso di interesse cresce in maniera concorde. Con un accumulo totale il costo del capitale è "infinito" - nessuna parte di esso può essere impiegata nella produzione.
+
+L'assunzione della [relazione monetaria](ch013-inflation-principle.md) è che il prezzo sia proporzionale al rapporto della domanda rispetto all'offerta. Tuttavia, come mostrato ne la Relazione del Risparmio, offerta e domanda di capitale esistono in una relazione a somma zero. Un'incremento nell'[accumulo](ch101-glossary.md#accumulare) implica una corrispondente diminuzione nel dare in prestito e l'opposto implica un aumento. Per questa ragionr né il rapporto di capitale né il tasso di interesse sono grandezze lineari in rapporto alle variazioni dell'ammontare accumulato (o dato in prestito). Questo fenomeno ha portato alla ricerca di un "[rapporto aureo](https://en.wikipedia.org/wiki/Golden_Rule_savings_rate)" per queste grandezze. Tuttavia, data la soggettività del valore, ciò si rivela sostanzialmente un esercizio inutile.
+
+Eppure, i rapporti di capitale determinano il tasso di interesse. Poiché tutte le persone, individualmente, provano ad ottenere un rapporto aureo basato sulle loro preferenze, il tasso di interesse del mercato deriva da queste ultime. Sostituendo il rapporto di capitale al tasso di interesse viene dimostrato l'effetto della riserva sulla Banca Pura, sotto l'ulteriore assunzione che ognuno operi come una Banca Pura e con lo stesso rapporto di capitale. Il rapporto di capitale include la svalutazione dei bene presenti, che nel caso della moneta è rappresentata dal *demurrage*. Il rapporto di *demurrage* della Banca Pura è pari a 1, così tale termine si semplifica.
 
 ```
 tasso-di-rendimento = (riservato * demurrage / investito) * (investito / preso-in-prestito)
@@ -104,12 +108,12 @@ tasso-di-rendimento = (riservato * demurrage / investito) * (investito / preso-i
 		    = riservato / presto-in-prestito
 ```
 
- **Il tasso di rendimento di una banca pura è il rapporto di riserva.**
+Il tasso di ritorno sull'investimento per una Banca Pura diventa così il rappporto di riserva. Ciò non implica che una singola Banca Pura possa fissare il suo ritorno fissando il suo rapporto di capitale. Ciò riflette semplicemente il fatto che il rapporto di mercato del capitale determina il ritorno sul capitale. Se *tutti i prestatori* raddoppiassero il loro attuale rapporto di capitale il loro ritorno raddoppierebbe necessariamente, poiché il costo per il capitale, e quindi il suo rendimento, raddoppierebbe. 
 
 
 ##### Le Banche Reali
 
-I rapporti di capitale stabiliti indipendentemente dalle persone, basati sulla preferenza temporale, determinano il tasso di interesse di [mercato](ch101-glossary.md#mercato). La sostituzione apportata qui sopra per il rapporto di capitale proprio della banca come tasso di interesse, implica che la banca stia fissando il tasso di interesse. Tuttavia, questo è connaturato al concetto di preferenza temporale. Una banca può fissare il tasso di interesse che preferisce. Non vi è assunzione che il mercato possa imporre un tasso alle banche reali, di conseguenza vengono assunti l'interesse e quindi il rendimento di mercato. 
+I rapporti di capitale stabiliti indipendentemente dalle persone, basati sulla preferenza temporale, determinano il tasso di interesse di [mercato](ch101-glossary.md#mercato). La sostituzione apportata qui sopra per il rapporto di capitale proprio della banca come tasso di interesse, sembra implicare che la banca stia fissando il tasso di interesse. Tuttavia, questo è connaturato al concetto di preferenza temporale. Una banca può fissare il tasso di interesse che preferisce. Non vi è alcuna assunzione che il mercato possa imporre su questo aspetto, di conseguenza vengono assunti l'interesse e quindi il rendimento di mercato. 
 
 ```
 tasso-di-rendimento-di-mercato = tasso-di-interesse-di-mercato * (investito / preso-in-prestito)
@@ -136,7 +140,7 @@ tasso-di-rendimento-banca-centrale = tasso-di-rendimento-reale * rapporto-di-sus
 
 Ove la tassa includa il signoraggio sulla moneta impiegata dalla banca è necessario utilizzare l'[Equazione di Fisher](https://it.wikipedia.org/wiki/Equazione_di_Fisher_(economia)) sulle relazioni precedenti per tradurre il tasso di interesse da una tasso nominale ad un tasso reale. Non vi è implicato nessun altro cambiamento oltre alla tassa che è già inclusa nell'esempio della banca reale riportato sopra. Questa tassa è in generale la fonte del sussidio, che è già incluso nell'esempio della banca centrale riportato sopra.
 
-Ogni [persona](ch101-glossary.md#persona), o società di persone, è una banca reale e lo [stato](ch101-glossary.md#stato) è una banca centrale. Una banca reale garantisce il servizio di fornire liquidità agli investimenti, un bene economico. Il costo di produzione è la svalutazione delle sue riserve. Questo rappresenta il modello di tutta la produzione.
+Ogni [persona](ch101-glossary.md#persona), o società di persone, è una banca reale e lo [stato](ch101-glossary.md#stato) è una banca centrale. Una banca reale garantisce il servizio di fornire liquidità agli investimenti, un [bene economico](https://en.wikipedia.org/wiki/Goods). Il costo di produzione è la svalutazione delle sue riserve. Questo rappresenta il modello di tutta la produzione.
 
 -----------
 
