@@ -2,7 +2,7 @@
 
 
 
-Lavoro e tempo libero sono [azioni umane](https://en.wikipedia.org/wiki/Action_axiom) complementari che si riferiscono alla [produzione e al consumo](ch007-production-and-consumption.md) di [beni economici](https://it.wikipedia.org/wiki/Bene_(economia)). Il lavoro è il processo di consumo che porta a produrre un bene economico (produzione). Il tempo libero è il processo di consumo che non produce un bene economico. Il consumo senza [utilità](ch101-glossary.md#utilità) rappresenta il processo di [spreco](https://it.wikipedia.org/wiki/Rifiuto). Secondo [Murray Rothbard](https://it.wikipedia.org/wiki/Murray_Rothbard) ne suo [*Man, Economy and State*](https://mises.org/library/man-economy-and-state-power-and-market/html/p/926):
+Lavoro e tempo libero sono [azioni umane](https://en.wikipedia.org/wiki/Action_axiom) complementari che si riferiscono alla [produzione e al consumo](ch007-production-and-consumption.md) di [beni economici](https://it.wikipedia.org/wiki/Bene_(economia)). Il lavoro è il processo di consumo che porta a produrre un bene economico (produzione). Il tempo libero è il processo di consumo che non produce un bene economico. Il consumo senza [utilità](ch101-glossary.md#utilità) rappresenta il processo di [spreco](https://it.wikipedia.org/wiki/Rifiuto). Secondo [Murray Rothbard](https://it.wikipedia.org/wiki/Murray_Rothbard) nel suo [*Man, Economy and State*](https://mises.org/library/man-economy-and-state-power-and-market/html/p/926):
 
 > Il lavoro coinvolge la rinuncia al tempo libero, un bene desiderabile.
 >
