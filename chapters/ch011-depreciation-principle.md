@@ -2,9 +2,9 @@
 
 
 
-La proprietà di un prodotto si trasferisce dal produttore al consumatore (o ad un altro produttore), tuttavia né la [produzione né il consumo](ch007-production-and-consumption.md) sono avvenuti in quel momento (n.d.t. il momento dello scambio). Il Produttore tiene da parte il prodotto prima dello [scambio](ch101-glossary.md#scambio) e il consumatore lo conserva  dopo che esso è avvenuto. Il prodotto esiste e viene infine scambiato tra le persone. I termini "produttore" e "consumatore" sono nomi che definiscono gli _obiettivi_ ([produzione e tempo libero](https://mises.org/library/man-economy-and-state-power-and-market/html/p/926)) dei due principali attori economici. Il produttore _vuole_ creare (apprezzare) il capitale, mentre il consumatore vuole distruggerlo (svalutarlo). Un produttore che [possiede](ch101-glossary.md#proprietario) in maniera esclusiva non produce e un consumatore che non possiede non consuma. Ma la riserva del produttore (il suo inventario) svaluta il prodotto così come lo svaluta il consumatore.
+La proprietà di un prodotto si trasferisce dal produttore al consumatore (o ad un altro produttore), tuttavia né la [produzione né il consumo](ch007-production-and-consumption.md) sono avvenuti in quel momento (n.d.t. il momento dello scambio). Il Produttore tiene da parte il prodotto prima dello [scambio](ch101-glossary.md#scambio) e il consumatore lo conserva  dopo che esso è avvenuto. Il prodotto esiste e viene infine scambiato tra le persone. I termini "produttore" e "consumatore" sono nomi che definiscono gli _obiettivi_ (produzione e tempo libero) dei due principali attori economici. Il produttore _vuole_ creare (apprezzare) il capitale, mentre il consumatore vuole distruggerlo (svalutarlo). Un produttore che [possiede](ch101-glossary.md#proprietario) in maniera esclusiva non produce e un consumatore che non possiede non consuma. Ma la riserva del produttore (il suo inventario) svaluta il prodotto così come lo svaluta il consumatore.
 
-[L'utilizzo comune](https://it.wikipedia.org/wiki/Consumo) del termine "consumo" confonde [l'interesse](https://it.wikipedia.org/wiki/Interesse) con la [svalutazione](https://en.wikipedia.org/wiki/Depreciation_(economics)). Il realizzarsi della _vendita_ di un prodotto rappresenta un interesse per [l'investitore](https://en.wikipedia.org/wiki/Depreciation_(economics)), non una svalutazione del prodotto stesso. La svalutazione di un prodotto è consumo _attuale_ e può rappresentare per il suo possessore [un servizio](https://mises.org/library/man-economy-and-state-power-and-market/html/p/974) ([utilità](ch101-glossary.md#utilità)) o uno [spreco](https://it.wikipedia.org/wiki/Rifiuto). Lo spreco è una svalutazione sulla quale il possessore non attribuisce alcun valore. Solo la distruzione riflette il consumo presente così come solo la creazione riflette la produzione presente. Solo l'_azione_ possiede un significato economico, il nome attribuito ad uno specifico ruolo non ne possiede alcuno. Il ricavo netto di una vendita che va dal produttore al consumatore è l'interesse, anche se esso viene capitalizzato attraverso il reinvestimento.
+L'utilizzo comune del termine "consumo" confonde [l'interesse](https://it.wikipedia.org/wiki/Interesse) con la [svalutazione](https://en.wikipedia.org/wiki/Depreciation_(economics)). Il realizzarsi della _vendita_ di un prodotto rappresenta un interesse per l'investitore, non una svalutazione del prodotto stesso. La svalutazione di un prodotto è consumo _attuale_ e rappresenta per il suo possessore [un servizio](https://mises.org/library/man-economy-and-state-power-and-market/html/p/974) ([utilità](ch101-glossary.md#utilità)) oppure uno [spreco](https://it.wikipedia.org/wiki/Rifiuto). Lo spreco è una svalutazione sulla quale il possessore non attribuisce alcun valore. Solo la distruzione riflette il consumo presente così come solo la creazione riflette la produzione presente. Solo l'_azione_ possiede un significato economico, il nome attribuito ad uno specifico ruolo non ne possiede alcuno. Il ricavo netto di una vendita che va dal produttore al consumatore è l'interesse, anche se esso viene capitalizzato attraverso il reinvestimento.
 
 La ricchezza, definita come capitale accumulato, è la somma dei prodotti. Tutti i prodotti sono accumulati e subiscono svalutazione. La produzione crea prodotti, mentre l'interesse rappresenta sia il costo che il ritorno economico nel fare ciò. Il prezzo di un prodotto è la somma del suo interesse sul ritorno dell'investimento ed il costo di tutti i prodotti consumati nella sua produzione. Ogni prodotto incorporato come componente di un nuovo prodotto è svalutato interamente come prodotto indipendente ed apprezzato nel nuovo prodotto. Poiché la somma dei costi di produzione  equivale [al principale dell'investimento](https://en.wikipedia.org/wiki/Bond_(finance)#Principal), l'incremento netto nei prodotti è semplicemente l'interesse.
 
@@ -59,21 +59,21 @@ Questo dato è consistente con le stime di svalutazione del capitale. Mentre gli
 >
 > OECD: [Estimating Depreciation Rates](https://www.oecd.org/sdd/productivity-stats/35409605.pdf)
 
-Nella misura in cui il denaro manifesta [valore d'uso](https://en.wikipedia.org/wiki/Use_value), essa si deprezza come ogni [bene](https://en.wikipedia.org/wiki/Goods). Si presume che la moneta fiat, come il Bitcoin o il Dollaro Statunitense, non abbia valore d'uso. Una moneta _pura_ non manifesta alcuna crescita a causa del [costo opportunità](https://it.wikipedia.org/wiki/Costo_opportunit%C3%A0) dell'interesse a cui si rinuncia. In altre parole, l'interesse rappresenta la cattura del valore del tempo ed il deprezzamento della moneta incorpora la mancata cattura di quel valore.
+Nella misura in cui la [moneta](ch005-money-taxonomy.md) manifesta [valore d'uso](https://en.wikipedia.org/wiki/Use_value), essa si deprezza come ogni [bene](https://en.wikipedia.org/wiki/Goods). Si presume che la moneta fiat, come il Bitcoin o il Dollaro Statunitense, non abbia valore d'uso. Una moneta pura non manifesta alcuna crescita a causa del [costo opportunità](https://it.wikipedia.org/wiki/Costo_opportunit%C3%A0) dell'interesse a cui si rinuncia. In altre parole, l'interesse rappresenta la cattura del valore del tempo ed il deprezzamento della moneta incorpora la mancata cattura di quel valore.
 
 ```
 tasso-di-crescita-moneta-pura = tasso-di-interesse - tasso-di-interesse
 0% = 9% - 9%
 ```
 
-Il valore di tutte le monete _presenti_ subisce anche una svalutazione dovuta al [demurrage](https://it.wikipedia.org/wiki/Demurrage_(moneta)).
+Il valore di tutta le moneta presente subisce anche una svalutazione dovuta al [demurrage](https://it.wikipedia.org/wiki/Demurrage_(moneta)).
 
 ```
 tasso-di-crescita-moneta-merce = tasso-di-crescita-moneta-pura - demurrage
 -1% = 0% - 1%
 ```
 
-I tassi di crescita delle monete [inflazionarie](https://en.wikipedia.org/wiki/Monetary_inflation) e deflazionarie sono discussi nella [Fallacia della Moneta non Prestabile](ch086-unlendable-money-fallacy.md).
+I tassi di crescita della moneta [inflazionaria](https://en.wikipedia.org/wiki/Monetary_inflation) e deflazionaria sono discussi nella [Fallacia della Moneta non Prestabile](ch086-unlendable-money-fallacy.md).
 
 ---
 
