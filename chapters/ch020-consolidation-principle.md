@@ -6,7 +6,9 @@ La necessità di [scambiare](ch101-glossary.md#scambio-di-unità) una moneta con
 
 Possiamo ragionevolmente supporre che due [monete](ch005-money-taxonomy.md) distinte non possano avere perennemente la stessa utilità. La [Legge di Thiers](https://en.wikipedia.org/wiki/Gresham%27s_law#Reverse_of_Gresham.27s_Law_.28Thiers.27_Law.29) mette in evidenza le conseguenze legate alla migliore moneta in assenza del controllo dello [stato](ch101-glossary.md#stato). Da questo concludiamo necessariamente che, in assenza del controllo dello stato, **la migliore tra le due monete, alla fine, rimpiazzerà l'altra** . Quando ciò avviene, l'utilità si concentra sulla moneta che sopravvive seguendo una dinamica opposta rispetto a quanto dettagliato ne il [Principio di Frammentazione](ch021-fragmentation-principle.md).
 
-Il principio non implica che (altre) nuove monete non possano essere create o esistere durante un significativo lasso di tempo.  Esso implica semplicemente che vi è una pressione di [mercato](ch101-glossary.md#mercato) che indirizza verso una singola moneta. La migliore moneta in una situazione, può non essere affatto una buona moneta o addirittura una moneta utile in un'altra situazione. Per esempio, l'oro non è una moneta utile per il trasferimento elettronico e bitcoin non è molto utile in assenza di una rete. Una moneta rimpiazza un'altra negli scenari nei quali essa è migliore.
+Il principio non implica che nuove monete non possano essere create o esistere durante un significativo lasso di tempo.  Esso implica semplicemente che vi è una pressione di [mercato](ch101-glossary.md#mercato) che indirizza verso una singola moneta. La migliore moneta in una situazione, può non essere affatto una buona moneta o addirittura una moneta utile in un'altra situazione. 
+
+Per esempio, l'oro non è una moneta utile per il trasferimento elettronico e bitcoin non è molto utile in assenza di una rete. Una moneta rimpiazza un'altra negli scenari nei quali essa è migliore.
 
 ---
 
