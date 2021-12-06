@@ -6,7 +6,7 @@ A differenza del copyright, il brevetto è una forza anti-mercato. Un vero contr
 
 Il processo di [mining](centro-di-mining-mine) è altamente competitivo. La protezione di monopolio nell'uso di un [algoritmo di mining efficiente](https://www.asicboost.com/patent) rappresenta una forte pressione di aggregazione anti-mercato. Bitcoin è reso sicuro dalle [persone](ch101-glossary.md#persona) che [resistono](ch004-axiom-of-resistance.md) alle forze anti-mercato. La resistenza affronta un [rischio](ch016-risk-sharing-principle.md) maggiore quando i [miner](ch101-glossary.md#miner) sono fortemente raggruppati e/o [non anonimi](ch023-public-data-principle.md).
 
-Se le persone non oppongono resistenza a queste forze non vi è [sicurezza](ch035-qualitative-security-model.md) nella moneta. Quando il [livello di minaccia](ch033-threat-level-paradox.md) aumenta le conseguenze della violazione di brevetto diventano un rischio di livello pari a quello dello stesso mining. Per questa ragione l'impatto dei brevetti non è irrilevante poiché riguarda la sicurezza della moneta.
+Se le persone non oppongono resistenza a queste forze non vi è [sicurezza](ch035-qualitative-security-model.md) nella moneta. Quando il [livello di minaccia](ch033-threat-level-paradox.md) aumenta le conseguenze della violazione di brevetto diventano un rischio di livello pari a quello dello stesso mining. **Per questa ragione l'impatto dei brevetti non è rilevante poiché riguarda la sicurezza della moneta**.
 
 ---
 
