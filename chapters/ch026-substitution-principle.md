@@ -10,7 +10,9 @@ Data una moneta con una offerta fissa, viene comunemente assunto che nessun incr
 
 Non vi è nulla che possa impedire tale evoluzione in molte monete simili. E' possibile che esse esibiscano proprietà monetarie praticamente indistinguibili, minimizzando il _trade-off_ della loro sostituzione. Come mostrato ne il [Principio di Consolidamento](ch020-consolidation-principle.md), vi è sempre una pressione verso una singola moneta in quanto essa elimina i costi di [scambio](ch101-glossary.md#scambio-di-unità). Tuttavia, questa pressione contrasta con i costi crescenti e, ad un certo livello d'uso, essa deve lasciare il posto alla sostituzione (o all'abbandono).
 
-Vi è una teoria secondo la quale, poiché la creazione di una moneta non costa nulla, il principio di sostituzione implichi che Bitcoin debba diventare senza valore a causa della sua illimitata offerta gratuita. Questa teoria ignora il fatto che Bitcoin richieda che le persone paghino per usarlo. Questo è valido per una seconda moneta così come lo è per la prima. Tuttavia l'aumento di offerta riduce la domanda. Ad un certo punto la domanda non è sufficiente per produrre/proteggere un ulteriore quantitativo di offerta e per ciò la teoria è invalida. Questa è la stessa relazione che vale per la monete commodity e, di fatto, per ogni prodotto. 
+Vi è una teoria secondo la quale, poiché la creazione di una moneta non costa nulla, il principio di sostituzione implichi che Bitcoin debba diventare senza valore a causa della sua illimitata offerta gratuita. Questa teoria ignora il fatto che Bitcoin richieda che le persone paghino per usarlo. Questo è valido per una seconda moneta così come lo è per la prima. 
+
+E l'aumento di offerta mitiga la domanda. Ad un certo punto la domanda non è sufficiente per produrre/garantire un ulteriore quantitativo di offerta e per ciò la teoria è invalida. Questa è la stessa relazione che vale per la monete commodity e, di fatto, per ogni prodotto. 
 
 ---
 
