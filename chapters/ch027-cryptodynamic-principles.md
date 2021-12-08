@@ -4,15 +4,15 @@
 
 Criptodinamica è un termine definito in questa raccolta con lo scopo di riferirsi facilmente ai principi fondamentali di [Bitcoin](ch101-glossary.md#bitcoin). Ciò è fatto con l'intento sia di aiutare nella comprensione di Bitcoin sia di differenziarlo da altre tecnologie. Questi principi rappresentano il sottoinsieme minimo di principi _criptoeconomici_ necessari per raggiungere questo obiettivo.
 
-Benché la scelta del nome non sia essenziale, il razionale sottostante viene sviluppato di seguito.
+Benché la scelta del nome non sia troppo importante, il razionale sottostante viene sviluppato di seguito.
 
 ### Cripto
 
-"Una criptovaluta è una [moneta] che impiega crittografia robusta per proteggere transazioni finanziarie, controllare la creazione di unità addizionali, e verificare il trasferimento [di unità]." - [Wikipedia](https://en.m.wikipedia.org/wiki/Cryptocurrency)
+"Una criptovaluta è una [moneta] che impiega crittografia robusta per proteggere transazioni finanziarie, controllare la creazione di unità addizionali, e verificare il trasferimento [di unità]." - [_Wikipedia_](https://en.m.wikipedia.org/wiki/Cryptocurrency)
 
 ### Dinamica
 
-"La dinamica è quella branca della matematica applicata [...] che si occupa dello studio delle forze [...] e del loro effetto sul moto." - [Wikipedia](https://en.wikipedia.org/wiki/Dynamics_(mechanics))
+"La dinamica è quella branca della matematica applicata [...] che si occupa dello studio delle forze [...] e del loro effetto sul moto." - [_Wikipedia_](https://en.wikipedia.org/wiki/Dynamics_(mechanics))
 
 ### Cripto + Dinamica
 
