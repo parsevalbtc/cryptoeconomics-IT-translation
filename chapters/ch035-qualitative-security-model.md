@@ -6,7 +6,7 @@
 
 Ne il [Principio del Social Network](ch024-social-network-principle.md) è stato mostrato come Bitcoin sia una rete di relazioni [umane](ch101-glossary.md#persona). Questa rete può essere modellizzata come un [grafo diretto](https://it.wikipedia.org/wiki/Grafo) dove ogni vertice rappresenta un [commerciante](ch101-glossary.md#commerciante) e ogni lato rappresenta uno [scambio](ch101-glossary.md#scambio) che coinvolge bitcoin. I lati indicano la direzione verso cui si muove la moneta e ne viene data quantificazione attraverso il numero di [unità](ch101-glossary.md#unità) scambiate. Si presume che tutti i [possessori](ch101-glossary.md#proprietario) siano stati commercianti quando la moneta è stata ricevuta, anche in qualità di [miner](ch101-glossary.md#miner) (che vendono [conferme](ch101-glossary.md#conferma)) e come percettori di beneficenza (che vendono [valore intangibile](https://it.wikipedia.org/wiki/Avviamento_d%27azienda)).
 
-Se una persona non accetta personalmente la moneta o non [valida](ch101-glossary.md#validazione) di persona la moneta accettata, questa persona non può rigettare le moneta invalida (n.d.t. falsa). La persona in questione sta affidando questo compito ad una autorità [centralizzata](ch101-glossary.md#centralizzazione). Tutte le persone che usano la stessa entità delegata vengono ridotte al solo vertice che la rappresenta.
+Se una persona non accetta personalmente la moneta o non [valida](ch101-glossary.md#validazione) di persona la moneta accettata, questa persona non può rigettare le moneta invalida (n.d.t. falsa). La persona in questione sta affidando questo compito ad una autorità [centralizzata](ch101-glossary.md#centralizzazione). **Tutte le persone che usano la stessa entità delegata vengono ridotte al solo vertice che la rappresenta.**
 
 Per ciascun periodo di tempo la sicurezza [economica](ch101-glossary.md#economia) è funzione del numero dei commercianti e della somiglianza degli importi transati. L'economia più forte verrebbe ottenuta se tutte le persone del mondo si scambiassero lo stesso quantitativo di unità in un determinato periodo, una situazione ideale che può essere chiamata un'economia "distribuita" (o completamente decentralizzata). L'economia più debole si avrebbe se una sola entità delegata accettasse tutte le unità in scambio in un determinato periodo, che risulterebbe essere una economia "centralizzata". 
 
@@ -30,7 +30,7 @@ decentralizzazione-nella-conferma = distribuzione(hash-powe) * miner
 
 ##### Modello di Sicurezza
 
-La sola decentralizzazione non è sinonimo di sicurezza. **La sicurezza è il prodotto dell'attività (n.d.t. dell'azione umana), della distribuzione di tale attività e della frazione di umanità che vi partecipa.**
+La sola [decentralizzazione](ch101-glossary.md#decentralizzazione) non è sinonimo di sicurezza. La sicurezza è il prodotto dell'attività (n.d.t. dell'azione umana), della distribuzione di tale attività e della frazione di umanità che vi partecipa.
 
 ```
 sicurezza = attività * distribuzione * partecipazione
