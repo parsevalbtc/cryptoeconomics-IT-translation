@@ -1,4 +1,4 @@
-# Fallacia della Prova di Proprietà
+# Fallacia della Blockchain
 
 
 
@@ -10,15 +10,14 @@ La teoria afferma che un registro immutabile dei titoli fornisce protezione cont
 
 Conservare un riferimento solido al titolo può ridurre la dimensione, e quindi il costo, della sua inalterabile conservazione. Il titolo può essere costruito nella forma di un contratto in forma leggibile dalle [persone](ch101-glossary.md#persona) o da una [macchina](ch101-glossary.md#macchina), e referenziato attraverso un [hash non invertibile](https://it.wikipedia.org/wiki/Funzione_crittografica_di_hash). In ogni caso, è richiesta la [validazione](ch101-glossary.md#validazione) e l'esecuzione del contratto al fine di trasferire la proprietà dal custode. Di conseguenza un contratto referenziato sopperisce al rischio di perdita con dati addizionali, ovvero con il contratto stesso.
 
-Come mostrato nel [Principio della Condivisione del Rischio](ch016-risk-sharing-principle.md), alla base della sicurezza ci sono sempre le persone. Le persone possono agire collettivamente per proteggere l'immutabilità di una moneta e di conseguenza possono anche proteggere i dati di titolarità associati al controllo della moneta. Tuttavia, il custode è una terza parte fidata. Titoli di tipo immutabile non mitigano in nessun modo attacchi diretti compiuti contro il custode, o dal custode stesso. Quando il custode è lo [stato](ch101-glossary.md#stato) o un'entità assoggettata al suo controllo, il titolo non offre [alcuna sicurezza](https://it.wikipedia.org/wiki/Ordine_esecutivo_6102) contro la sostituzione dell'autorità dello stato a qualsiasi prova di titolarità. La teoria è quindi anche invalida sotto il profilo del fallimento del custode.
+Come mostrato nel [Principio della Condivisione del Rischio](ch016-risk-sharing-principle.md), alla base della sicurezza ci sono sempre le persone. Le persone possono agire collettivamente per proteggere l'immutabilità di una moneta e di conseguenza possono anche proteggere i dati di titolarità associati al controllo della moneta. 
 
-Bitcoin come moneta funziona senza custodia (è _non-custodial_). Le sue [unità](ch101-glossary.md#unità) non rappresentano un asset custodito da una terza parte fidata. La moneta è scambiata direttamente tra cliente e [commerciante](ch101-glossary.md#commerciante). In questo senso _tutti i commercianti_ sono i custodi del [valore](ch101-glossary.md#valore) di Bitcoin. **La fallacia della blockchain (n.d.t. che si identifica con la fallacia della prova di proprietà ndt), nasce da una concezione errata del modello di sicurezza di Bitcoin, che attribuisce la sua protezione alla tecnologia e non alla sua distribuzione tra i commercianti**. Il termine "tecnologia blockchain" rafforza questo errore poiché implica che sia principalmente la struttura dati di Bitcoin a renderlo sicuro.
+Tuttavia, il custode è una terza parte fidata. Titoli di tipo immutabile non mitigano in nessun modo attacchi diretti compiuti contro il custode, o dal custode stesso. Quando il custode è lo [stato](ch101-glossary.md#stato) o un'entità assoggettata al suo controllo, il titolo non offre [alcuna sicurezza](https://it.wikipedia.org/wiki/Ordine_esecutivo_6102) contro la sostituzione dell'autorità dello stato a qualsiasi prova di titolarità. La teoria è quindi anche invalida sotto il profilo del fallimento del custode.
+
+Bitcoin come moneta funziona senza custodia (è _non-custodial_). Le sue [unità](ch101-glossary.md#unità) non rappresentano un asset custodito da una terza parte fidata. La moneta è scambiata direttamente tra cliente e [commerciante](ch101-glossary.md#commerciante). In questo senso _tutti i commercianti_ sono i custodi del [valore](ch101-glossary.md#valore) di Bitcoin. **La fallacia della blockchain nasce da una concezione errata del modello di sicurezza di Bitcoin, che attribuisce la sua protezione alla tecnologia e non alla sua distribuzione tra i commercianti**. Il termine "tecnologia blockchain" rafforza questo errore poiché implica che sia principalmente la struttura dati di Bitcoin a renderlo sicuro.
 
 ---
 
 Titolo originale: [Proof of Ownership Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Ownership-Fallacy)
 
 [Indice](/README.md)
-
-
-
