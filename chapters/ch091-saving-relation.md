@@ -2,34 +2,160 @@
 
 
 
-La [preferenza temporale](ch085-time-preference-fallacy.md) è l'assunzione di natura [catallattica](https://en.wikipedia.org/wiki/Catallactics) per la quale gli individui hanno preferenza dei beni presenti rispetto ai beni futuri. E' ormai un fatto ben assodato che la preferenza temporale si rifletta nel [tasso di interesse](ch101-glossary.md#interesse). Viene qui dimostrato che il [rapporto di capitale](https://en.wikipedia.org/wiki/Capital_requirement) ha lo stesso significato e valore.
+La [preferenza temporale](ch085-time-preference-fallacy.md) è l'assunzione di natura [catallattica](https://en.wikipedia.org/wiki/Catallactics) per la quale gli individui hanno preferenza dei beni presenti rispetto ai beni futuri. E' ormai un fatto ben assodato che la preferenza temporale si rifletta nel tasso di [interesse](ch101-glossary.md#interesse). Secondo [Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard), nel suo [*Man, Economy and State*](https://mises.org/library/man-economy-and-state-power-and-market/html/p/989):
 
 > Il livello del puro tasso di interesse è determinato dal mercato in relazione allo scambio di beni presenti rispetto ai beni futuri, un mercato che, come vedremo, permea notevolmente differenti parti del sistema economico. [...] Se, quindi, nel mercato temporale, 100 once d'oro vengono scambiate nella prospettiva di ottenere 105 once d'oro di qui ad un anno, allora il tasso di interesse è approssimativamente del 5% all'anno. Questo è il tasso di sconto temporale della moneta futura rispetto a quella presente. [...] Il puro tasso di interesse sarà quindi il corrente tasso di sconto del tempo, il rapporto di prezzo tra i beni presenti rispetto ai beni futuri.
 >
-> Rothbard: [Man, Economy and State](https://mises.org/library/man-economy-and-state-power-and-market/html/p/989).
+> *Murray Rothbard: Man, Economy and State*
 
-Un accumulo (una forma di [consumo](ch092-speculative-consumption.md)) rappresenta l'opportunità di [investire](ch101-glossary.md#dare-in-prestito---investire) così come un investimento è l'opportunità di consumare. Uno è [scambiato per l'altro](https://mises.org/library/man-economy-and-state-power-and-market/html/p/990) finché non vi è alcun ulteriore un incremento di [utilità](ch101-glossary.md#utilità) nel fare ciò.
+Tuttavia, è [rapporto di capitale](https://en.wikipedia.org/wiki/Capital_requirement) individuale a _determinare_ il tasso di interesse. Il rapporto di interesse è quello tra il prezzo futuro ed il prezzo presente del bene. E' il premio sul [prezzo](ch101-glossary.md#prezzo) a [mercato](ch101-glossary.md#prezzo) richiesto per compensare un [proprietario](ch101-glossary.md#proprietario) per il tempo passato senza il suo bene - ovvero il prezzo del tempo. Come per tutti i prezzi, esso è determinato interamente dalle preferenze individuali, in questo caso dalla preferenza temporale, [espressa](ch012-expression-principle.md) sotto forma di [scambi](ch101-glossary.md#scambio) individuali.
 
-Intraprendendo un investimento, un individuo valuta maggiormente il quantitativo di [interesse](ch101-glossary.md#interesse) futuro rispetto al quantitativo non investito. Non investendo, un individuo valuta maggiormente l'ammontare presente non investito rispetto all'interesse futuro: se così non fosse, avrebbe luogo rispettivamente un più basso ed un più elevato livello di investimento. L'avvenuto [scambio](ch101-glossary.md#scambio) rende la preferenza temporale una manifestazione oggettiva. Il tasso di interesse viene usato per mettere in relazione l'accumulo presente rispetto all'interesse futuro.
+La preferenza temporale di un individuo può essere rappresentata come il rapporto tra il prezzo del suo [accumulo](ch101-glossary.md#accumulare) e quello del suo [investimento](ch101-glossary.md#dare-in-prestito---investire). Queste due quantità sommate assieme rappresentano il suo risparmio. Scambiando una frazione del suo accumulo per il suo valore futuro, un individuo esprime che il suo ammontare futuro vale di più, per lui, rispetto a quello presente. Al contrario, non effettaundo l'azione, un individuo esprime la valutazione opposta.
+
+Un accumulo rappresenta l'opportunità di investire (dare in prestito) e un investimento rappresenta l'opportunità di cosumare. Uno e scambiato per l'altro finché non vi è ulteriore incremento di valore ottenuto nel fare ciò. Investendo, un individuo valuta l'ammontare futuro di più dell'ammontare nel presente non investito. Non investendo, un individuo valuta l'ammontare presente non investito di più dell'ammontare futuro. Se così non fosse stato, ci sarebbe verificato rispettivamente un più basso e un più elevato livello di investimento. Questa valutazione, manifestata attraverso uno scambio, rappresenta l'espressione della preferenza temporale di un individuo. 
+
+> Forse sono state commesse il maggior numero di fallacie nelle discussioni riguardanti il tasso di interesse rispetto a qualsiasi altro aspetto dell'economia. E' stato impiegato diverso tempo per capire l'importanza cruciale della preferenza temporale nella determinazione del puro tasso di interesse; ed è stato impiegato ancora più tempo dagli economisti realizzare che la preferenza temporale sia l'unico fattore determinante. La riluttanza nell'accettare un'iterpretazione monistica e causale ha afflitto l'economia fino ai giorni nostri.
+
+L'_individuo_ non controlla il tasso di interesse del mercato. L'individuo controlla il suo rapporto di capitale in funzione del tasso di interesse del mercato. Il rapporto di capitale è il modo in cui la preferenza temporale individuale viene _espressa_. Il tasso di interesse è il modo in cui quelle preferenze vengono _prezzate_ dal mercato.
+
+Il seguente grafico a barre riporta un esempio del risparmio di un individuo.
+```
+           Rapporto di Capitale Individuale (preferenza temporale)
+   
+ V         |
+ A         |
+ L 21 [
+ O 20 [ A  |
+ R 19 [ AA |
+ E ---[----+--------------------- Tasso di Interesse di Mercato (prezzo del tempo)
+   18 [ AAA|TTTTTTTTTTTTTTTTT
+ U 17 [ AAA|PTTTTTTTTTTTTTTTT
+ N 16 [ AAA|PPTTTTTTTTTTTTTTT
+ I 15 [ AAA|PPPTTTTTTTTTTTTTT
+ T 14 [ AAA|PPPPTTTTTTTTTTTTT
+ A 13 [ AAA|PPPPPTTTTTTTTTTTT
+ R 12 [ AAA|PPPPPPTTTTTTTTTTT
+ I 11 [ AAA|PPPPPPPTTTTTTTTTT
+ O 10 [ AAA|PPPPPPPPTTTTTTTTT
+    9 [ AAA|PPPPPPPPPTTTTTTTT
+ O  8 [ AAA|PPPPPPPPPPTTTTTTT
+ R  7 [ AAA|PPPPPPPPPPPTTTTTT
+ D  6 [ AAA|PPPPPPPPPPPPTTTTT
+ I  5 [ AAA|PPPPPPPPPPPPPTTTT
+ N  4 [ AAA|PPPPPPPPPPPPPPTTT
+ A  3 [ AAA|PPPPPPPPPPPPPPPTT
+ L  2 [ AAA|PPPPPPPPPPPPPPPPT
+ E  1 [ AAA|PPPPPPPPPPPPPPPPP
+      =======================
+        abc|defghijklmnopqrst
+ UNITA' PER VALORE MARGINALE DECRESCENTE
+```
+Ciascun incremento ordinale rappresenta un incremento marginale di valore. I simboli A, P, e T rappresentano rispettivamenti gli incrementi di valore dell'Accumulo, Presente e del Tempo. Il valore dell'Accumulo è il valore presente di un'unità non data in prestito. Il valore Presente è quello di un'unità non data in prestito. Il valore del Tempo è il valore netto atteso (principale + interesse) di un'unità data in prestito per un certo lasso di tempo al tasso di interesse di mercato per quel periodo.
+
+Ciascuna barra sull'asse orizzontale rappresenta un'unità di moneta, tuttavia ciascuna unità ha un differente valore marginale per il suo [possessore](ch101-glossary.md#proprietario) a causa dell'[utilità marignale](https://en.wikipedia.org/wiki/Marginal_utility). Questo valore è espresso sull'asse verticale sotto forma di altezza della barra. Risulta necessario non confondere il [valore](ch101-glossary.md#valore] con il [prezzo](ch101-glossary.md#prezzo). Il valore di ciascuna unità posseduta aumenta al diminuire dell'accumulo, e di conseguenza il valore netto dello stesso tasso di interesse (il prezzo per la [moneta](ch005-money-taxonomy)), decresce al diminuire dell'accumulo finché esso diventa negativo (quando non viene investito più nulla).
+
+La preferenza temporale individuale viene dimostrata dalla valutazione effettuata tra le unità marginali "c" (la prossima unità ad essere potenzialmente imprestata) e "d" (l'ultima unità ad essere stata data in prestito). Il [valore attuale](https://en.wikipedia.org/wiki/Present_value) della prima unità menzionata è più elevato di quello che può essere compensato dal suo potenziale [valore temporale](https://en.wikipedia.org/wiki/Time_value_of_money), e così essa non viene data in prestito. Per il valore attuale della seconda unità accade il contrario, e perciò essa è data in prestito. Se il tasso di interesse del mercato sale abbastanza da far sì che l'incremento di rendimento ottenuto dando in prestito l'unità "c" ecceda l'incremento di valore cardinale di "b" (i.e. la cella "b19" del grafico), allora l'unità "c" verrà data in prestito. Se il tasso di interesse diminuisce abbastanza da far sì che la diminuzione del rendimento dell'unità "d" ecceda quello nella cella "c18" allora il prestito di "d" verrà liquidato.
+
+Il risparmio totale è pari a 20 unità (unità dalla "a" alla "t"). L'accumulo totale è di 3 unità (dalla "a" alla "c"). Il quantatito totale dato in prestito è di 17 unità (dalla "d" alla "t"). Il rapporto di capitale individuale è quindi 3/17 (~17.65%), rappresentato sul grafico come una linea verticale tra le unità "c" e "d". Il [costo opportunità](https://en.wikipedia.org/wiki/Opportunity_cost) dell'accumulo è 3 unità x il tasso di interesse di mercato. Il ritorno sul prestito è 17 unità x il tasso di interesse di mercato.
+
+E' importante notare che, poiché [il valore è soggettivo](https://en.wikipedia.org/wiki/Subjective_theory_of_value), solo la valutazione individuale del quantitativo di interesse ha significato in questo contesto. Il tasso di interesse di mercato porta la valutazione ordinale dell'individuo sulle unità date in prestito tra "18" e "19". Il grafico rappresenta quindi il tasso di interesse di mercato come una linea orizzontale tra questi due incrementi.
+
+Solo la scelta tra dare in prestito e non dare in prestito esprime la preferenza temporale. La svalutazione si verifica in ciò che è accumulato non in ciò che è dato in prestito. Come mostrato ne il [Principio di Svalutazione](ch011-depreciation-principle.md) l'accumulare rappresenta un consumo. La comune intuizione che uno scambio tra "produttore" e "consumatore" costituisca un consumo è un errore evidente. Una persona può diminuire il suo tasso di svalutazione e far durare di più il suo accumulo, **ma per cambiare la propria preferenza temporale un individuo deve cambiare il suo tasso di investimento** 
+
+Si noti inoltre che, relativamente al grafico precedente, una diminuzione del tasso di interesse al di sotto del 18-esimo incremento ordinale implica che un'unità in meno viene data in prestito.
 
 ```
-valore-accumulato = valore-investito * tasso-interesse
+            Rapporto di Capitale Individuale (preferenza temporale)
+ V          |
+ A          |
+ L 21 [
+ O 20 [ A   |
+ R 19 [ AA  |
+ E 18 [ AAA |TTTTTTTTTTTTTTTT
+   ---[-----+-------------------- Tasso di Interesse di Mercato (prezzo del tempo)
+ U 17 [ AAAA|TTTTTTTTTTTTTTTT
+ N 16 [ AAAA|PTTTTTTTTTTTTTTT
+ I 15 [ AAAA|PPTTTTTTTTTTTTTT
+ T 14 [ AAAA|PPPTTTTTTTTTTTTT
+ A 13 [ AAAA|PPPPTTTTTTTTTTTT
+ R 12 [ AAAA|PPPPPTTTTTTTTTTT
+ I 11 [ AAAA|PPPPPPTTTTTTTTTT
+ O 10 [ AAAA|PPPPPPPTTTTTTTTT
+    9 [ AAAA|PPPPPPPPTTTTTTTT
+ O  8 [ AAAA|PPPPPPPPPTTTTTTT
+ R  7 [ AAAA|PPPPPPPPPPTTTTTT
+ D  6 [ AAAA|PPPPPPPPPPPTTTTT
+ I  5 [ AAAA|PPPPPPPPPPPPTTTT
+ N  4 [ AAAA|PPPPPPPPPPPPPTTT
+ A  3 [ AAAA|PPPPPPPPPPPPPPTT
+ L  2 [ AAAA|PPPPPPPPPPPPPPPT
+ E  1 [ AAAA|PPPPPPPPPPPPPPPP
+      =======================
+        abcd|efghijklmnopqrst
+ UNITA' PER VALORE MARGINALE DECRESCENTE
 ```
-
-Come mostrato nel [Principio della Svalutazione](ch011-depreciation-principle.md), non avviene alcun consumo reale durante lo scambio di un prodotto tra produttore e consumatore. Ciò risulta evidente in quanto il prodotto può essere rivenduto al prezzo corrente recuperando il valore monetario della porzione non consumata. In modo analogo, ogni porzione non consumata del bene può essere consumata nel futuro compensando il prezzo corrente di acquistare una quantità maggiore dello stesso prodotto. Accumulare è un atto di consumo dove la frazione svalutata è stata consumata.
-
-I beni che rimangono non consumati rappresentano dei beni futuri in relazione all'accumulo originale dei beni stessi. Un tasso di svalutazione viene impiegato per ottenere la riduzione del valore futuro dell'accumulo.
-
+Ciò vale per ogni incremento fino al livello tale per cui l'individuo non dà più nulla in prestito.
 ```
-valore-non-consumato = valore-accumulato * tasso-di-svalutazione
+                            Rapporto di Capitale Individuale (preferenza temporale)
+ V                          |
+ A                          |
+ L 21 [                     |
+ O 20 [ A                   |
+ R 19 [ AA                  |
+ E 18 [ AAA                 |
+   17 [ AAAA                |
+ U 16 [ AAAAA               |
+ N 15 [ AAAAAA              |
+ I 14 [ AAAAAAA             |
+ T 13 [ AAAAAAAA            |
+ A 12 [ AAAAAAAAA           |
+ R 11 [ AAAAAAAAAA          |
+ I 10 [ AAAAAAAAAAA         |
+ O  9 [ AAAAAAAAAAAA        |
+    8 [ AAAAAAAAAAAAA       |
+ O  7 [ AAAAAAAAAAAAAA      |
+ R  6 [ AAAAAAAAAAAAAAA     |
+ D  5 [ AAAAAAAAAAAAAAAA    |
+ I  4 [ AAAAAAAAAAAAAAAAA   |
+ N  3 [ AAAAAAAAAAAAAAAAAA  |
+ A  2 [ AAAAAAAAAAAAAAAAAAA |
+ L  1 [ AAAAAAAAAAAAAAAAAAAA|
+ E ---[---------------------+---- Tasso di Interesse di Mercato (prezzo del tempo)
+      =======================
+        abcdefghijklmnopqrst|
+ UNITA' PER VALORE MARGINALE DECRESCENTE
 ```
-
-Riarrangiando e sostituendo l'espressione del valore non consumato al valore accumulato, si ottiene la relazione tra beni accumulati che si stanno svalutando e beni investiti che non si stanno deprezzando. I beni futuri non esistono finché non diventano beni presenti e di conseguenza non si deprezzano.
-
-  ```
-tasso-di-interesse = (valore-accumulato * tasso-di-svalutazione) / valore-investito
-  ```
-Il rapporto di capitale è il rapporto tra il capitale accumulato (riservato) ed il capitale investito. Il _tasso_ di interesse è il _rapporto_ di capitale. Entrambi rappresentano lo stesso riflesso della preferenza temporale. **Il tasso di interesse è il rapporto tra il capitale consumato ed il capitale investito**.
+In maniera simile, la relazione vale fino al punto in cui l'individuo dà in prestito tutto il suo capitale.
+```
+        Rapporto di Capitale Individuale (preferenza temporale)
+ V      |
+ A      |
+ L ---[-+------------------------ Tasso di Interesse di Mercato (prezzo del tempo) 
+ O 21 [ |TTTTTTTTTTTTTTTTTTTT
+ R 20 [ |PTTTTTTTTTTTTTTTTTTT
+ E 19 [ |PPTTTTTTTTTTTTTTTTTT
+   18 [ |PPPTTTTTTTTTTTTTTTTT
+ U 17 [ |PPPPTTTTTTTTTTTTTTTT
+ N 16 [ |PPPPPTTTTTTTTTTTTTTT
+ I 15 [ |PPPPPPTTTTTTTTTTTTTT
+ T 14 [ |PPPPPPPTTTTTTTTTTTTT
+ A 13 [ |PPPPPPPPTTTTTTTTTTTT
+ R 12 [ |PPPPPPPPPTTTTTTTTTTT
+ I 11 [ |PPPPPPPPPPTTTTTTTTTT
+ O 10 [ |PPPPPPPPPPPTTTTTTTTT
+    9 [ |PPPPPPPPPPPPTTTTTTTT
+ O  8 [ |PPPPPPPPPPPPPTTTTTTT
+ R  7 [ |PPPPPPPPPPPPPPTTTTTT
+ D  6 [ |PPPPPPPPPPPPPPPTTTTT
+ I  5 [ |PPPPPPPPPPPPPPPPTTTT
+ N  4 [ |PPPPPPPPPPPPPPPPPTTT
+ A  3 [ |PPPPPPPPPPPPPPPPPPTT
+ L  2 [ |PPPPPPPPPPPPPPPPPPPT
+ E  1 [ |PPPPPPPPPPPPPPPPPPPP
+     ========================
+        |abcdefghijklmnopqrst
+ UNITA' PER VALORE MARGINALE DECRESCENTE
+```
 
 ---
 
@@ -37,38 +163,7 @@ Titolo originale: [Savings Relation](https://github.com/libbitcoin/libbitcoin-sy
 
 [Indice](/README.md)
 
----
 
-### Commento
 
-A seguito di lungo e proficuo confronto con l'autore, è stato possibile accertare che il ragionamento sviluppato in questa versione della relazione del risparmio non ha validità generale nell'ambito dell'economia razionale. Per questa ragione, esso è stato modificato nella [seconda edizione di Cryptoeconomics](https://twitter.com/evoskuil/status/1356279556924080128) e verrà aggiornato anche nel repository originale e nella traduzione. Credo possa essere di utilità riportare la versione originale accompagnata da un commento, sia per ragioni di completezza, sia per dare contesto alle motivazioni della modifica.
 
-Ogni preferenza umana, inclusa la preferenza temporale, si manifesta attraverso [scale di valori individuali](https://mises.org/library/man-economy-and-state-power-and-market/html/p/990), e che mostrano, in questo specifico caso, le disponibilità degli individui a [scambiare](ch101-glossary.md#scambio) beni presenti per beni futuri. 
-
-Va notato innanzitutto che lo scambio dal punto di vista del creditore avviene tra la somma data in prestito (il principale) e la promessa di ricevere nel futuro tale somma in aggiunta [all'interesse](ch101-glossary.md#interesse). Il debitore avrà la posizione esattamente speculare. Va anche notato che il  "mercato temporale" si applica per semplicità alla moneta, ma teoricamente il ragionamento potrebbe applicarsi ad ogni bene capitale, al [lavoro](ch008-labor-and-leisure.md) e alla [produzione](ch007-production-and-consumption.md) in generale. Nella discussione più estesa con Eric Voskuil è sorto il problema di come quantificare, ai fini della relazione del risparmio, il capitale dell'individuo: se in forma aggregata - sommando tutto il capitale che un individuo possiede (incluso quindi tutto il tempo, i beni ed il denaro) - oppure separatamente per tipologia di bene capitale o servizio e che possiedono in generale differenti mercati (benché interconnessi tra loro) e differente grado di utilità ([serviceable utility](https://mises.org/library/man-economy-and-state-power-and-market/html/p/856)). La questione è rimasta tutt'ora aperta.
-
-Ritornando alla discussione principale, le disponibilità individuali, a loro volta, si manifestano nella dinamica di domanda e offerta, dove un tasso di interesse - rispettivamente minimo e massimo - viene implicitamente implicato per ogni [unità](ch101-glossary.md#unità) addizionale ceduta (dal creditore) e aggiunta (dal debitore) in uno scambio. In forza dell'utilità marginale decrescente, ogni unità aggiuntiva ceduta da un creditore richiederà un tasso di interesse più elevato mentre ogni unità aggiuntiva acquisita dal debitore richiederà un tasso di interesse inferiore dell'unità precedente. Le asimmetrie tra le preferenze portano - in un mercato libero ed efficiente - a stabilire un unico tasso di interesse che porta i creditori a cedere parte del loro capitale (investimento) e a trattenere parte di esso (accumulo) in funzione della scala di valori espressa e quindi a determinare un _rapporto di capitale_ individuale.
-
-Di conseguenza, il tasso di interesse è determinato dalle scale valori dei partecipanti al mercato e ciò, a sua volta, determina la suddivisione individuale tra capitale investito e capitale accumulato di ciascuno di essi. Si noti ad esempio, che per un dato un tasso di interesse di mercato, alcuni individui potrebbero non cedere nessuna unità del loro capitale, mentre altri potrebbero cederlo quasi interamente. Il rapporto di capitale rappresenta nello stesso tempo la causa individuale e la risposta del tasso di interesse a mercato, ed entrambi sono manifestazione della preferenza temporale, marginale ed individuale rispettivamente.
-
-[_Ceteris paribus_](https://it.wikipedia.org/wiki/Ceteris_paribus), per un dato tasso di interesse del mercato, un individuo con più elevata preferenza temporale esprimerà un più elevato rapporto di capitale (accumulerà di più rispetto ad investire) mentre un individuo con più bassa preferenza temporale esprimerà un rapporto di capitale relativamente più basso. Un aumento del tasso di interesse (causato da una variazione della preferenza temporale di uno o più partecipanti del mercato) porterà dunque a diminuire il rapporto di capitale di un singolo individuo (tenderà ad investire maggiormente per soddisfare la sua preferenza, ipotizzando sia rimasta la stessa delle precedenti interazioni di mercato) opponendosi al contempo a tale aumento. Allo stesso modo, una diminuzione del tasso di interesse porterà alcuni partecipanti di mercato ad accumulare una frazione maggiore di capitale (poiché il loro impiego non soddisferebbe le loro preferenze di investimento, anche qui ipotizzando sia rimasta la stessa dei precedenti interazioni) quindi opponendosi a tale diminuzione. 
-
-Sempre _ceteris paribus_ una maggiore ricchezza degli individui nella loro globalità (soggettivamente percepita) porterà ad una maggiore disponibilità di capitale e che tenderà ad abbassare il tasso di interesse a mercato poiché si assisterà necessariamente ad una maggiore competizione per soddisfare la domanda di prestiti. 
-
-La relazione del risparmio descritta nel presente capitolo: `tasso-interesse = valore-accumulato / valore-investito`  va implicitamente ad imporre una relazione di domanda di capitale costruita sull'offerta totale di capitale disponibile nel mercato. Secondo tale relazione, se tutto il capitale venisse dato in prestito il tasso di interesse sarebbe nullo, mentre se tutto il capitale fosse accumulato il tasso di interesse sarebbe infinito. Benché questi estremi mettano in evidenza dei comportamenti limite del tasso di interesse (legati anche alla necessità di tenere conto di tutte le forme di capitale nella loro globalità e non solo del mercato monetario, come riferito nella questione ancora aperta accennata sopra), nella realtà, gli individui possono domandare ed offrire capitale nelle quantità, al tasso e nel mercato che essi preferiscono in funzione delle più differenti ragioni e ciò porta anche a notevoli differenze tra il tasso di mercato e i rapporti di capitale individuale.
-
-E' interessante illustrare un'applicazione della relazione che fa tuttavia uso di ipotesi aggiuntive e che quindi pone la relazione al di fuori dei principi economici razionali di più generale applicazione. 
-
-Adottando la definizione di [risparmi individuali](ch092-speculative-consumption.md) come la somma del capitale accumulato (Hoard) e dell'investimento (Investment) `S = H + I`, ed ipotizzando:
-
-* un'uniformità della preferenza temporale degli individui con un rapporto di capitale di ogni individuo pari al tasso di interesse corrente `r = H/I` 
-* una completa ed uniforme svalutazione del capitale accumulato da ciascun individuo 
-
-La relazione del risparmio, nella sua forma originale qui presentata, garantisce che al termine del periodo di prestito _la frazione di capitale globale svalutata sia esattamente rimpiazzata dall'interesse ottenuto dall'investimento_. Ad esempio, con un livello uniforme del 10% di accumulo individuale sul totale dei risparmi (rapporto di capitale = 1/9) che si andrà totalmente a svalutare, la relazione sarà verificata a fronte di un interesse di mercato di 1/9 (~ 11,1%) sulla parte investita (90%). In altre parole, la quantità di capitale investito secondo la relazione garantisce il mantenimento della quantità di capitale precedente posseduta. Questa circostanza porta alla realizzazione di [un livello di crescita nullo](ch011-depreciation-principle.md) e stabilisce quindi, in assenza di ulteriori variazioni, un'ipotetica condizione di Economia Uniformemente Rotante ([Evenly Rotating Economy - ERE](https://wiki.mises.org/wiki/Equilibrium). A questo proposito si faccia riferimento anche alla più estesa trattazione dell'argomento magistralmente condotta da Von Mises ne [L'Azione Umana](https://mises.org/library/human-action-0/html/pp/796)). 
-
-Al contrario, un tasso di interesse realizzato indefinitamente sempre maggiore del tasso di svalutazione implicherebbe una [condizione di crescita](ch011-depreciation-principle.md) perpetua. A parità di altre condizioni, l'utilità marginale decrescente del nuovo capitale accumulato dalla crescita porterebbe ad una diminuzione del tasso di interesse: quindi *la crescita globale si arresterebbe solamente qualora il livello di capitale raggiunto subisse complessivamente e uniformemente una svalutazione pari al tasso di interesse stesso*. 
-
-Tuttavia, come già ricordato in precedenza, questa costruzione teorica può differire, anche significativamente, dalle condizioni che occorrono nella realtà e basate sulla valutazione soggettiva degli individui rispetto ai tassi di interesse, alla svalutazione, agli errori imprenditoriali, alla disponibilità di risorse, spazi, processi tecnologici e innumerevoli altri fattori ed eventi che avranno luogo nel futuro. Da un punto di vista storico è possibile osservare che la quantità di ricchezza è sempre generalmente aumentata dalla preistoria ai giorni nostri. Grazie alla incessante e onnipresente attività imprenditoriale e ad un mercato dei capitali sempre più aperto e ampiamente disponibile, i consumatori hanno potuto godere di una cornucopia di beni e servizi in misura via via crescente nel corso della storia. Sono personalmente incoraggiato a credere (mia valutazione soggettiva "speculativa" ancorché fortunatamente condivisa da molti altri) che tale stato di cose non potrà che proseguire nel futuro, grazie alle nuove frontiere della ricerca, della tecnologia e dell'industria (e.g. lo spazio) e della moneta (sic!), ma non vi è alcuna certezza di ciò. Qualunque cosa accada nel futuro, tuttavia, a differenza delle ipotesi e dei modelli, i principi economici razionali non smetteranno mai di trovare generale applicazione all'esistenza degli individui.
-
----
 
