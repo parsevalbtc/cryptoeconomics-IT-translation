@@ -25,7 +25,7 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 | Argomento | Titolo                                                       | Titolo Originale           |
 | -------- | ------------------------------------------------------------ | -------------------------- |
 | 1        | [Criptoeconomia](chapters/ch001-cryptoeconomics.md) | [Cryptoeconomics](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics) |
-| 2        | [Prefazione di Amir Taaki](chapters/ch002-foreword-by-amir-taaky.md) | [Foreword by Amir Taaki](https://github.com/libbitcoin/libbitcoin-system/wiki/Foreword-by-Amir-Taaki) |
+| 2        | [Premessa di Amir Taaki](chapters/ch002-foreword-by-amir-taaky.md) | [Foreword by Amir Taaki](https://github.com/libbitcoin/libbitcoin-system/wiki/Foreword-by-Amir-Taaki) |
 | 3        | [La _Value Proposition_](chapters/ch003-value-proposition.md) | [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition) |
 | 4        | [Assioma di Resistenza](chapters/ch004-axiom-of-resistance.md) | [Axiom of Resistance](https://github.com/libbitcoin/libbitcoin-system/wiki/Axiom-of-Resistance) |
 | 5        | [Tassonomia della Moneta](chapters/ch005-money-taxonomy.md)  | [Money Taxonomy](https://github.com/libbitcoin/libbitcoin-system/wiki/Money-Taxonomy) |
