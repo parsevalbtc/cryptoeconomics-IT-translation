@@ -9,7 +9,7 @@ La Tendenza alla ridotta partecipazione nel [Mining](centro-di-mining-mine) o ne
 #### Annuncio
 La prima comunicazione di un [Blocco](#blocco) ad un'altra [Persona](#persona).
 #### Hash Power Apparente
-Un frazione di [Blocchi](#blocco) in un [Segmento](#segmento) di [Catena](#catena). Le stime pubbliche dell'[#hash-power] di un miner[centro-di-mining-mine] sono basate su questa definizione.
+Un frazione di [Blocchi](#blocco) in un [Segmento](#segmento) di [Catena](#catena). Le stime pubbliche dell'[Hash Power](#hash-power) di un [miner](centro-di-mining-mine) sono basate su questa definizione.
 #### Attacco 
 Utilizzo di [Hash Power](#hash-power) al fine di realizzare una [Doppia Spesa](#doppia-spesa).
 #### Bitcoin
