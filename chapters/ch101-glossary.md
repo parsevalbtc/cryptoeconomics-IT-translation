@@ -19,7 +19,7 @@ Insieme [Valido](#validità) di [Transazioni](#transazione) dotate di [_Timestam
 #### Block Pool
 L'insieme dei [Blocchi](#blocco) [Deboli](#ramo-debole-weak-branch). Pool dei Blocchi Orfani è un nome fuorviante di questo termine.
 #### Prendere a Prestito
-[Scambiare](#scambio) tempo per [Unità](#unità) che garantiscono al [Prestatore](#dare-in-prestito---investire) maggiore [Utilità](#utilità) (nel futuro).
+[Scambiare](#scambio) tempo per [Unità](#unità) che garantiscono al Prestatore maggiore [Utilità](#utilità).
 #### Ramo (Branch)
 Una sequenza [Valida](#validità) di [Blocchi](#blocco).
 #### Candidato
