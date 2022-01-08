@@ -35,13 +35,13 @@ Prodotto del [Prezzo](#prezzo) per l'[Offerta](#offerta).
 #### Centralizzazione
 La tendenza verso l'esistenza di pochi [Commercianti](#commerciante). I Commercianti controllano direttamente la [validazione](#validazione). Si può riferire anche al [Raggruppamento](#raggruppamento-pooling).
 #### Ricorrente (Claimant)
-Una [Persona](#persona) che detiene un titolo di una proprietà sotto il controllo di un [Custode](#custode-custodian). Si riferisce anche ad un deterntore di ipoteca, un azionista, un [prestatore](#dare-in-prestito---investire), un depositante.
+Una [Persona](#persona) che detiene un titolo di una proprietà sotto il controllo di un [Custode](#custode-custodian). Si riferisce anche ad un detentore di ipoteca, un azionista, un [prestatore](#dare-in-prestito---investire), un depositante.
 #### Client-Server
 Un [Protocollo](#protocollo) asimmetrico.
 #### Coercizione
 Ricorso all'aggressione al fine di indurre una [Attivazione](#attivazione).
 #### Moneta
-Un [Consenso](#consenso) che riguarda un mezzo di [Scambio](#scambio) mutuamente accettato. BTC è una Moneta
+Un [Consenso](#consenso) che riguarda un mezzo di [Scambio](#scambio) mutuamente accettato. BTC è una [Moneta](#moneta).
 #### Coinbase 
 Una [Transazione](#transazione) che [trasferisce](#trasferimento) la [Ricompensa](#ricompensa-reward).
 #### Comunicazione
@@ -53,7 +53,7 @@ Un accordo tra [Persone](#persona). Indica anche l'insieme di persone che partec
 #### Regole di Consenso
 L'insieme dei vincoli che definisce una [Moneta](#moneta).
 #### Contratto
-[Script](#script) che esprime delle condizioni di [Trasferimento](#trasferimento). _Public Key Script_ è una formulazione anacronistica per questo termine.
+Uno [Script](#script) che esprime delle condizioni di [Trasferimento](#trasferimento). _Public Key Script_ è una formulazione anacronistica per questo termine.
 #### Cooptazione (Co-option)
 Ricorso all'aggressione al fine di controllare dell'[Hash Power](#hash-power).
 #### Correlazione
@@ -61,7 +61,7 @@ L'abilità di [Tracciare](#tracciamento-taint) usando metodi statistici di anali
 #### Custode (Custodian)
 Una [Persona](#persona) che controlla la proprietà di un'altra.
 #### Decentralizzazione
-La tendenza che si oppone alla [centralizzazione](#centralizzazione)
+La tendenza che si oppone alla [centralizzazione](#centralizzazione).
 #### Disaccoppiamento (Decouple)
 Un [Centro di Mining](#centro-di-mining-mine) che condivide la [Ricompensa](#ricompensa-reward) con un altro al fine di ridurre la [Varianza](#varianza).
 #### Delegazione
