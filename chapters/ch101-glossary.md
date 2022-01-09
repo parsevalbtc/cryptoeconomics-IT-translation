@@ -80,6 +80,8 @@ Aggressione al [Mercato](#mercatop) che altera il costo del [Mining](#centro-di-
 [_Endorsment_](#endorsment) dello stesso [Output](#output) in due [Spese](#spesa) distinte.
 #### Dust
 Un numero insufficiente di [Unità](#unità) necessarie per effettuare un [Trasferimento](#trasferimento) attraverso un [Output](#output). Le [Regole di Consenso](#regole-di-consenso) di BTC proibiscono il trasferimento di meno di un'unità.
+#### Potere Economico
+Una frazione di tutte le proprietà offerte in [Scambio](#scambio-di-unità).
 #### Economia
 L'insieme di tutti i [Commercianti](#commerciante).
 #### Endorsement
