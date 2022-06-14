@@ -29,4 +29,3 @@ Le singolari intuizioni di Eric sui concetti fondamentali ci forniscono un quadr
 Titolo originale: [Foreword by Amir Taaki](https://github.com/libbitcoin/libbitcoin-system/wiki/Foreword-by-Amir-Taaki)
 
 [Indice](/README.md)
-
