@@ -1,8 +1,8 @@
-# Premessa di Amir Taaky
+# Premessa di Amir Taaki
 
 
 
-La [cripto-anarchia](https://en.wikipedia.org/wiki/Crypto-anarchism) non è una strategia volta ad imporre una qualche egemonia politica o volta a screditare altre possibili attitudini o fini. E' semplicemente un insieme di concetti o idee che possono essere utilizzati tatticamente per realizzare modi alternativi di vivere. La Storia è il risultato della volontà e dell'azione umana, ma ciò ha luogo all'interno di una struttura di convinzioni, credenze e rappresentazione che apportano significato e orientamento per ogni obiettivo. In questo modo, la Cripto-anarchia cerca di dotare l'individuo di potenti strumenti concettuali che gli consentono di costruire le proprie visioni creative.
+La [cripto-anarchia](https://en.wikipedia.org/wiki/Crypto-anarchism) non è una strategia volta ad imporre una qualche egemonia politica o volta a screditare altre possibili attitudini o fini. E' semplicemente un insieme di concetti o idee che possono essere utilizzati tatticamente per realizzare modi alternativi di vivere. La Storia è il risultato della volontà e dell'azione umana, ma ciò ha luogo all'interno di una struttura di convinzioni, credenze e rappresentazione che apportano significato e orientamento per ogni obiettivo. In questo modo, la cripto-anarchia cerca di dotare l'individuo di potenti strumenti concettuali che gli consentono di costruire le proprie visioni creative.
 
 L'economia riveste un ruolo importante poiché essa è lo studio della meccanica fondamentale delle azioni umane e delle loro conseguenze. L'Economia Razionale analizza l'attività umana accettandone nello stesso tempo le limitazioni imposte dalla conoscenza. A partire da un semplice insieme di assunzioni che includono quelle secondo cui gli uomini [agiscono](https://en.wikipedia.org/wiki/Action_axiom) e [preferiscono avere le cose prima rispetto ad averle più tardi](https://en.wikipedia.org/wiki/Time_preference), i teoremi vengono derivati usando le [regole di inferenza](https://it.wikipedia.org/wiki/Regola_di_inferenza). Il risultato è molto potente in quanto esso è necessariamente vero se le assunzioni sono vere. Lo sviluppo di questi teoremi ci permette di dotarci di semplici costrutti che possiamo utilizzare per circoscrivere e analizzare fenomeni più complessi. 
 
@@ -22,7 +22,7 @@ L'attuale gruppo di cripto-società perirà abbastanza in fretta. Al suo posto e
 
 La mia esperienza con Eric risale al 2013 quanto cominciammo a lavorare su un [sistema software Bitcoin](https://github.com/libbitcoin) che fosse al contempo veloce e scalabile. Eric è uno sviluppatore di alto livello che da solo può svolgere il lavoro di un intero team per la creazione di software a livello produzione - un'abilità estremamente rara. Oltre a ciò, egli vanta un ampio spettro di esperienze di vita avendo volato con gli aerei della Marina degli Stati Uniti e fondato numerose società di successo. Egli combina una forte conoscenza pratica con un altrettanto forte supporto teorico corroborati da un profondo interesse e conoscenza di teoria politica ed economica.
 
-Le singolari intuizioni di Eric sui concetti fondamentali ci forniscono un quadro essenziale per guidare la futura direzione del campo della criptoeconomia. Egli applica rigorosamente la teoria economica razionale alle criptovalute e si avventura al di là del livello finanziario per spiegare come l'attività umana plasmi realmente il futuro a venire.
+Le singolari intuizioni di Eric sui concetti fondamentali ci forniscono un quadro essenziale per guidare la futura direzione del campo della criptoeconomia. Egli applica rigorosamente la teoria economica razionale alle criptovalute, e si avventura al di là del livello finanziario per spiegare come l'attività umana plasmi il futuro a venire.
 
 ---
 
