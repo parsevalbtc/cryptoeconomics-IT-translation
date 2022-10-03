@@ -1,4 +1,4 @@
-# Obiettivi di una _Fedcoin_
+# Obiettivi di una Fedcoin
 
 
 
