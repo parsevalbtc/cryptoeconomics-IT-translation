@@ -17,7 +17,6 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 [Introduzione](/INTRO-ITA.md)
 
 
-
 ## Indice
 
 
@@ -125,6 +124,11 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 |99 | [Definizione di Massimalismo](chapters/ch099-maximalism-definition.md) | [Maximalism Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Maximalism-Definition) |
 |100 | [Definizione di _Shitcoin_](chapters/ch100-shitcoin-definition.md) | [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition) |
 |101 | [Glossario](chapters/ch101-glossary.md) | [Glossary](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary) |
+
+## Donazioni
+
+LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0X9UX2VMP8PJRXVP48QUXGVMYXUURJXSYH5V
+
 
 
 
