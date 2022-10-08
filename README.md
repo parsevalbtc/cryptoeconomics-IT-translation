@@ -97,7 +97,7 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 |72 | [Fallacia della _Proof of Stake_](chapters/ch072-proof-of-stake-fallacy.md) | [Proof of Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy) |
 |73 | [Fallacia della _Proof of Work_](chapters/ch073-proof-of-work-fallacy.md) | [Proof of Work Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Work-Fallacy) |
 |74 | [Fallacia del Teorema di Regressione](chapters/ch074-regression-fallacy.md) | [Regression Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Regression-Fallacy) |
-|75 | [Fallacia della Propagazione](chapters/ch075-relay-fallacy.md) | [Relay Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Relay-Fallacy) |
+|75 | [Fallacia del Propagatore](chapters/ch075-relay-fallacy.md) | [Relay Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Relay-Fallacy) |
 |76 | [Fallacia della _Replay Protection_](chapters/ch076-replay-protection-fallacy.md) | [Replay Protection Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Replay-Protection-Fallacy) |
 |77 | [Fallacia della Valuta di Riserva](chapters/ch077-reserve-currency-fallacy.md) | [Reserve Currency Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Currency-Fallacy) |
 |78 | [Fallacia del Rendimento _Risk Free_](chapters/ch078-risk-free-return-fallacy.md) | [Risk Free Return Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Free-Return-Fallacy) |
