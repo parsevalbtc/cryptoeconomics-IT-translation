@@ -75,7 +75,7 @@ Una [Persona](#persona) che crea una [Implementazione](#implementazione).
 #### Difficoltà
 Il livello di [Prova](#prova) richiesto per la [Validità](#validità).
 #### Distorsione
-Aggressione al [Mercato](#mercatop) che altera il costo del [Mining](#centro-di-mining-mine).
+Aggressione al [Mercato](#mercato) che altera il costo del [Mining](#centro-di-mining-mine).
 #### Doppia Spesa
 [_Endorsment_](#endorsment) dello stesso [Output](#output) in due [Spese](#spesa) distinte.
 #### Dust
