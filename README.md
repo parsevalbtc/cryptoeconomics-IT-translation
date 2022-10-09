@@ -127,10 +127,4 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 
 ## Donazioni
 
-LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0X9UX2VMP8PJRXVP48QUXGVMYXUURJXSYH5V
-
-
-
-
-____
-
+parsevalbtc@ln.tips
