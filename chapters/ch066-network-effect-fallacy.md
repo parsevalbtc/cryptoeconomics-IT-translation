@@ -6,7 +6,7 @@ Esiste una teoria secondo la quale l'[utilità](ch101-glossary.md#utilità) crea
 
 Questo implica che una [separazione](ch101-glossary.md#separazione-split) in parti uguali dell'economia riduca l'utilità combinata della stessa della metà. Ad esempio, se 20 commercianti hanno un'utilità pari a 400 allora 2 reti costituite da 10 commercianti ciascuna hanno un'utilità di 200.
 
-Tuttavia l'abilità di [scambiare](ch101-glossary.md#scambio-di-unità) ciascuna [unità](ch101-glossary.md#unità) di una moneta con un'altra porta l'utilità delle due economie verso un'economia ibrida. A causa del [costo di conversione](ch020-consolidation-principle.md) **la situazione ibrida ha un'utilità minore di quella che avrebbe un'economia basata su una singola moneta, ma questo non può essere confrontabile con la perdita intera di una delle due economie, a meno che il costo di conversione non sia illimitato**. La teoria è quindi invalida.
+Tuttavia, l'abilità di [scambiare](ch101-glossary.md#scambio-di-unità) ciascuna [unità](ch101-glossary.md#unità) di una moneta con un'altra porta l'utilità delle due economie verso un'economia ibrida. A causa del [costo di conversione](ch020-consolidation-principle.md) **la situazione ibrida ha un'utilità minore di quella che avrebbe un'economia basata su una singola moneta, ma questo non può essere confrontabile con la perdita intera di una delle due economie, a meno che il costo di conversione non sia illimitato**. La teoria è quindi invalida.
 
 ---
 
