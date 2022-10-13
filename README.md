@@ -105,7 +105,7 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 |80 | [Fallacia del _Selfish Mining_](chapters/ch080-selfish-mining-fallacy.md) | [Selfish Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Selfish-Mining-Fallacy) |
 |81 | [Fallacia della Commissione a Parte](chapters/ch081-side-fee-fallacy.md) | [Side Fee Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Side-Fee-Fallacy) |
 |82| [Fallacia dell'Espansione del Credito da Separazione](chapters/ch082-split-credit-expansion-fallacy.md) | [Split Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Credit-Expansion-Fallacy) |
-|83 | [Fallacia del Rapporto Stock Flusso](chapters/ch083-stock-to-flow-fallacy.md) | [Stock to Flow Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Stock-to-Flow-Fallacy) |
+|83 | [Fallacia del Rapporto Stock-Flusso](chapters/ch083-stock-to-flow-fallacy.md) | [Stock to Flow Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Stock-to-Flow-Fallacy) |
 |84 | [Fallacia della Creazione dal Nulla](chapters/ch084-thin-air-fallacy.md) |[Thin Air Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Thin-Air-Fallacy)|
 |85 | [Fallacia della Preferenza Temporale](chapters/ch085-time-preference-fallacy.md) | [Time Preference Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Time-Preference-Fallacy) |
 |86 | [Fallacia della Moneta non Prestabile](chapters/ch086-unlendable-money-fallacy.md) | [Unlendable Money Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Unlendable-Money-Fallacy) |
