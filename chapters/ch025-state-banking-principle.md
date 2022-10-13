@@ -41,7 +41,7 @@ Quando l'attività di presa in prestito da parte delle banche associate viene ri
 >
 > Le rimesse annuali al Tesoro sono essenzialmente la rimanenza degli introiti della Fed al netto delle spese operative. Per legge, questo gettito addizionale deve essere girato al Tesoro.
 >
-> Il ricavo mandato al Tesoro ha avuto il picco di 97.7 miliardi di $ nel 2015 ed è costantemente calato da allora. Nel mese di Gennaio la Fed ha inviato al Tesoro 80.2 miliardi di $.
+> Il ricavo mandato al Tesoro ha avuto il picco di 97,7 miliardi di $ nel 2015 ed è costantemente calato da allora. Nel mese di Gennaio la Fed ha inviato al Tesoro 80,2 miliardi di $.
 >
 > *Federal Reserve Bank of St. Louis*
 
