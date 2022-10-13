@@ -52,7 +52,7 @@ Un'altra teoria collegata afferma che il prestito bancario crei [l'inflazione de
 
 Un'altra teoria collegata afferma che le banche possano legittimamente imprestare solamente il denaro "di loro proprietà". Tutto il capitale dato in prestito deriva dai risparmi di qualcuno. Se ogni persona può gestire una banca (i.e. prendere a prestito i propri risparmi e darli in prestito ad altri) allora questa è una distinzione solo in apparenza. Aggregare i risparmi con quelli di altre persone (e.g. attraverso depositi bancari) non da luogo ad alcuna significativa distinzione. Per queste ragioni la teoria è invalida.
 
-Un'altra teoria collegata afferma che le banche potrebbero legittimamente imprestare denaro solamente attraverso depositi a termine. Non vi è distinzione economica tra depositi a termine e depositi a vista, in quanto entrambi implicano riserva frazionaria. La natura del deposito, anche quello nelle cassette di sicurezza, implica che il tempo e altri tipi di vincolo (e.g. l'identificazione) sono richiesti per il ritiro del deposito stesso. Anche i conti correnti e di risparmio assicurati dai contribuenti sono effettivamente [depositi a termine](https://www.chase.com/content/dam/chasecom/en/checking/documents/deposit_account_agreement.pdf).
+Un'altra teoria collegata afferma che le banche potrebbero legittimamente imprestare denaro solamente attraverso depositi a termine. Non vi è distinzione economica tra depositi a termine e depositi a vista, in quanto entrambi implicano la riserva frazionaria. La natura del deposito, anche quello nelle cassette di sicurezza, implica che il tempo e altri tipi di vincolo (e.g. l'identificazione) sono richiesti per il ritiro del deposito stesso. Anche i conti correnti e di risparmio assicurati dai contribuenti sono effettivamente [depositi a termine](https://www.chase.com/content/dam/chasecom/en/checking/documents/deposit_account_agreement.pdf).
 
 > Per tutti i conti di risparmio e tutti i conti correnti personali con interesse, ci riserviamo il diritto di richiedere una domanda di ritiro in forma scritta con un anticipo di sette giorni sulla data del ritiro.
 >
@@ -71,12 +71,3 @@ Infine, accade spesso che le persone che sostengono "l'attività di prestito a r
 Titolo originale: [Full Reserve Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Full-Reserve-Fallacy)
 
 [Indice](/README.md)
-
-
-
-
-
-
-
-
-
