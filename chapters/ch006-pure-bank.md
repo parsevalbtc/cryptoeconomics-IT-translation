@@ -87,7 +87,7 @@ La Banca Pura non ha fonti di indebitamento ma solamente capitale sociale (_equi
 
 ##### Tasso di Rendimento
 
-Il tasso di rendimento del creditore (ritorno) è, in aggiunta, una funzione del tasso di interesse. Il tasso di rendimento del creditore è inferiore al tasso di interesse del debitore a causa del _cash drag_, la spesa necessaria per sostenere la domanda di prelievo. Per ridurre queste spese sono tipicamente inclusi dei vincoli temporali nei [contratti delle banche reali](https://www.chase.com/content/dam/chasecom/en/checking/documents/deposit_account_agreement.pdf). Ad esempio, per legge ogni prelievo da un conto corrente con interesse degli Stati Uniti può essere ritardato di 7 giorni. Il creditore può eliminare il [_cash drag_](https://www.investopedia.com/terms/p/performance_drag.asp) tenendo il debito in un fondo di investimento (i.e. senza assicurazioni sul _settlement_).
+Il tasso di rendimento del creditore (ritorno) è, in aggiunta, una funzione del tasso di interesse. Il tasso di rendimento del creditore è inferiore al tasso di interesse del debitore a causa del _cash drag_, la spesa necessaria per sostenere la domanda di prelievo. Per ridurre queste spese sono tipicamente inclusi dei vincoli temporali nei [contratti delle banche reali](https://www.chase.com/content/dam/chasecom/en/checking/documents/deposit_account_agreement.pdf). Ad esempio, per legge, ogni prelievo da un conto corrente con interesse degli Stati Uniti può essere ritardato di 7 giorni. Il creditore può eliminare il [_cash drag_](https://www.investopedia.com/terms/p/performance_drag.asp) tenendo il debito in un fondo di investimento (i.e. senza assicurazioni sul _settlement_).
 
 ```
 tasso-di-rendimento = tasso-di-interesse * (investito / preso-in-prestito)
