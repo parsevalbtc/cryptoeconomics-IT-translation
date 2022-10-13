@@ -18,7 +18,7 @@ Ne _L'azione Umana_, [Ludwig von Mises](https://it.wikipedia.org/wiki/Ludwig_von
 
 > Variazioni nell'offerta di moneta devono necessariamente modificare la disposizione di beni vendibili per come sono posseduti da vari individui e società. La quantità di moneta disponibile nell'intero sistema di mercato non può aumentare o diminuire senza che prima siano aumentate o diminuite le disponibilità di liquidità di certi individui.
 >
-> Ludvig Von Mises: L'Azione Umana
+> Ludwig Von Mises: L'Azione Umana
 
 Questa affermazione asserisce che la nuova moneta ha effetto dapprima sulle disponibilità di moneta esistenti. Tuttavia, ciò non si verifica con la moneta di mercato. La sua creazione _riduce_ allo stesso tempo le disponibilità di _beni_ e _incrementa_ le disponibilità di _moneta_. L'aumento di domanda di moneta è compensato simultaneamente e proporzionalmente dal suo stesso aumento di offerta. Questa riduzione di beni non può essere ignorata nella valutazione della relazione monetaria. L'affermazione confonde la moneta di mercato con la moneta di monopolio, poiché la seconda non consuma il suo valore in termini di beni attraverso la produzione. Nella misura in cui i beni sono consumati sostanzialmente nello stesso luogo e nello stesso momento in cui la moneta viene prodotta, non ha neanche luogo una distribuzione disomogenea della relazione monetaria. Questo errore persiste nonostante venga esplicitamente riconosciuto che l'attività estrattiva consumi, in termini di beni, il valore che produce come nuova moneta.
 
