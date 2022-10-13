@@ -6,7 +6,7 @@ Il [valore è soggettivo](https://en.wikipedia.org/wiki/Subjective_theory_of_val
 
 E' possibile classificare le monete in tre categorie di offerta:
 
-* Offerta di mercato ([moneta merce](https://it.wikipedia.org/wiki/Commodity) e Bitcoin delle prime fasi)
+* Offerta di mercato ([moneta merce](https://it.wikipedia.org/wiki/Commodity))
 * Offerta di monopolio ([monopolio](ch005-money-taxonomy.md))
 * Offerta fissa ([bitcoin](https://it.wikipedia.org/wiki/Bitcoin))
 
