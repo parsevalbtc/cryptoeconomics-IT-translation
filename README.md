@@ -17,7 +17,6 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 [Introduzione](/INTRO-ITA.md)
 
 
-
 ## Indice
 
 
@@ -25,7 +24,7 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 | Argomento | Titolo                                                       | Titolo Originale           |
 | -------- | ------------------------------------------------------------ | -------------------------- |
 | 1        | [Criptoeconomia](chapters/ch001-cryptoeconomics.md) | [Cryptoeconomics](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics) |
-| 2        | [Prefazione di Amir Taaki](chapters/ch002-foreword-by-amir-taaky.md) | [Foreword by Amir Taaki](https://github.com/libbitcoin/libbitcoin-system/wiki/Foreword-by-Amir-Taaki) |
+| 2        | [Premessa di Amir Taaki](chapters/ch002-foreword-by-amir-taaky.md) | [Foreword by Amir Taaki](https://github.com/libbitcoin/libbitcoin-system/wiki/Foreword-by-Amir-Taaki) |
 | 3        | [La _Value Proposition_](chapters/ch003-value-proposition.md) | [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition) |
 | 4        | [Assioma di Resistenza](chapters/ch004-axiom-of-resistance.md) | [Axiom of Resistance](https://github.com/libbitcoin/libbitcoin-system/wiki/Axiom-of-Resistance) |
 | 5        | [Tassonomia della Moneta](chapters/ch005-money-taxonomy.md)  | [Money Taxonomy](https://github.com/libbitcoin/libbitcoin-system/wiki/Money-Taxonomy) |
@@ -93,20 +92,20 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 |67 | [Fallacia del Dilemma del Prigioniero](chapters/ch067-prisoners-dilemma-fallacy.md) | [Prisoner's Dilemma Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Prisoner's-Dilemma-Fallacy) |
 |68 | [Fallacia della Chiave Privata](chapters/ch068-private-key-fallacy.md) | [Private Key Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Private-Key-Fallacy) |
 |69| [Fallacia della Prova di Costo](chapters/ch069-proof-of-cost-fallacy.md) | [Proof of Cost Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Cost-Fallacy) |
-|70 | [Fallacia della Prova di Memorizzazione](chapters/ch070-proof-of-memory-fallacy.md) | [Proof of Memory Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Fallacy) |
-|71 | [Fallacia della Prova di Proprietà](chapters/ch071-proof-of-ownership-fallacy.md) | [Proof of Ownership Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Ownership-Fallacy) |
+|70 | [L'Argomento di Facciata della Prova di Memorizzazione](chapters/ch070-proof-of-memory-fallacy.md) | [Proof of Memory Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Fallacy) |
+|71 | [Fallacia della Blockchain](chapters/ch071-proof-of-ownership-fallacy.md) | [Proof of Ownership Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Ownership-Fallacy) |
 |72 | [Fallacia della _Proof of Stake_](chapters/ch072-proof-of-stake-fallacy.md) | [Proof of Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy) |
 |73 | [Fallacia della _Proof of Work_](chapters/ch073-proof-of-work-fallacy.md) | [Proof of Work Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Work-Fallacy) |
 |74 | [Fallacia del Teorema di Regressione](chapters/ch074-regression-fallacy.md) | [Regression Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Regression-Fallacy) |
-|75 | [Fallacia della Propagazione](chapters/ch075-relay-fallacy.md) | [Relay Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Relay-Fallacy) |
+|75 | [Fallacia del Propagatore](chapters/ch075-relay-fallacy.md) | [Relay Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Relay-Fallacy) |
 |76 | [Fallacia della _Replay Protection_](chapters/ch076-replay-protection-fallacy.md) | [Replay Protection Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Replay-Protection-Fallacy) |
 |77 | [Fallacia della Valuta di Riserva](chapters/ch077-reserve-currency-fallacy.md) | [Reserve Currency Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Currency-Fallacy) |
 |78 | [Fallacia del Rendimento _Risk Free_](chapters/ch078-risk-free-return-fallacy.md) | [Risk Free Return Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Free-Return-Fallacy) |
 |79 | [Fallacia della Scarsità](chapters/ch079-scarcity-fallacy.md) | [Scarcity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Scarcity-Fallacy) |
 |80 | [Fallacia del _Selfish Mining_](chapters/ch080-selfish-mining-fallacy.md) | [Selfish Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Selfish-Mining-Fallacy) |
-|81 | [Fallacia delle _Fee_ a Parte](chapters/ch081-side-fee-fallacy.md) | [Side Fee Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Side-Fee-Fallacy) |
-|82| [Fallacia dell'Espansione Separata del Credito](chapters/ch082-split-credit-expansion-fallacy.md) | [Split Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Credit-Expansion-Fallacy) |
-|83 | [Fallacia del Rapporto Stock Flusso](chapters/ch083-stock-to-flow-fallacy.md) | [Stock to Flow Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Stock-to-Flow-Fallacy) |
+|81 | [Fallacia della Commissione a Parte](chapters/ch081-side-fee-fallacy.md) | [Side Fee Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Side-Fee-Fallacy) |
+|82| [Fallacia dell'Espansione del Credito da Separazione](chapters/ch082-split-credit-expansion-fallacy.md) | [Split Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Credit-Expansion-Fallacy) |
+|83 | [Fallacia del Rapporto Stock-Flusso](chapters/ch083-stock-to-flow-fallacy.md) | [Stock to Flow Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Stock-to-Flow-Fallacy) |
 |84 | [Fallacia della Creazione dal Nulla](chapters/ch084-thin-air-fallacy.md) |[Thin Air Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Thin-Air-Fallacy)|
 |85 | [Fallacia della Preferenza Temporale](chapters/ch085-time-preference-fallacy.md) | [Time Preference Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Time-Preference-Fallacy) |
 |86 | [Fallacia della Moneta non Prestabile](chapters/ch086-unlendable-money-fallacy.md) | [Unlendable Money Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Unlendable-Money-Fallacy) |
@@ -126,7 +125,6 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 |100 | [Definizione di _Shitcoin_](chapters/ch100-shitcoin-definition.md) | [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition) |
 |101 | [Glossario](chapters/ch101-glossary.md) | [Glossary](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary) |
 
+## Donazioni
 
-
-____
-
+parsevalbtc@ln.tips

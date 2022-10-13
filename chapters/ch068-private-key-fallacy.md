@@ -2,7 +2,7 @@
 
 
 
-Le chiavi private non rendono sicuro Bitcoin, esse garantiscono la sicurezza delle [unità](ch101-glossary.md#unità) di Bitcoin. **Il controllo della chiave privata si applica alla sicurezza individuale, non alla sicurezza del sistema**. Chiunque controlli le chiavi è il [proprietario](ch101-glossary.md#proprietario), e Bitcoin garantisce la sicurezza di quel proprietario anche qualora le chiavi gli venissero rubate (n.d.t. quindi anche quella del ladro). La [validazione](ch101-glossary.md#validazione) decentralizzata protegge il [consenso](ch101-glossary.md#consenso) e la [maggioranza dell'_hash power_](ch101-glossary.md#maggioranza-dellhash-power) protegge la [conferma](ch101-glossary.md#conferma), ma la sicurezza della chiave privata è un problema del solo proprietario.
+Le chiavi private non rendono sicuro Bitcoin, esse garantiscono la sicurezza delle [unità](ch101-glossary.md#unità) di Bitcoin. **Il controllo della chiave privata si applica alla sicurezza individuale, non alla sicurezza del sistema**. Chiunque controlli le chiavi è il [proprietario](ch101-glossary.md#proprietario), e Bitcoin garantisce la sicurezza di quel proprietario anche qualora le chiavi gli venissero rubate. La [validazione](ch101-glossary.md#validazione) decentralizzata protegge il [consenso](ch101-glossary.md#consenso) e la [maggioranza dell'_hash power_](ch101-glossary.md#maggioranza-dellhash-power) distribuita protegge la [conferma](ch101-glossary.md#conferma), ma la sicurezza della chiave privata è un problema del solo proprietario.
 
 ---
 
