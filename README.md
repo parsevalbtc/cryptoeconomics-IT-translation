@@ -76,7 +76,7 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 |51 | [Fallacia dell'Esaurimento dell'Energia](chapters/ch051-energy-exhaustion-fallacy.md) | [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy) |
 |52 | [Fallacia dello Stoccaggio di Energia](chapters/ch052-energy-store-fallacy.md) | [Energy Store Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Store-Fallacy) |
 |53 | [Fallacia dello Spreco di Energia](chapters/ch053-energy-waste-fallacy.md) | [Energy Waste Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Waste-Fallacy) |
-|54 | [Fallacia del Recupero della _Fee_](chapters/ch054-fee-recovery-fallacy.md) | [Fee Recovery Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Fee-Recovery-Fallacy) |
+|54 | [Fallacia del Recupero della Commissione](chapters/ch054-fee-recovery-fallacy.md) | [Fee Recovery Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Fee-Recovery-Fallacy) |
 |55 | [Fallacia della Purezza Genetica](chapters/ch055-genetic-purity-fallacy.md) | [Genetic Purity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Genetic-Purity-Fallacy) |
 |56 | [Fallacia della Riserva Intera](chapters/ch056-full-reserve-fallacy.md) | [Full Reserve Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Full-Reserve-Fallacy) |
 |57 | [Fallacia dell'_Halving_](chapters/ch057-halving-fallacy.md) | [Halving Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Halving-Fallacy) |
