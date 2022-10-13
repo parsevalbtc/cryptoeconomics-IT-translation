@@ -72,7 +72,7 @@ rr = m/c = 100 oz / 890,3 oz = ~11,23%
 Il [moltiplicatore monetario](https://en.wikipedia.org/wiki/Money_multiplier) è dato dall'inverso del rapporto di riserva:
 
 ```
-1/rr = 1/(100oz/890,3oz) = 8,903
+1/rr = 1 / (100 oz / 890,3 oz) = 8,903
 ```
 La serie è limitata a 43 iterazioni solamente perchè la singola oncia è stata considerata come la più piccola unità di moneta che può essere prestata. Una funzione continua (n.d.t. la [serie geometrica](https://it.wikipedia.org/wiki/Serie_geometrica) che da luogo ad un ammontare di credito paria a `m * (1-r)/r`) porta ad un moltiplicatore monetario di 9 con un livello di riserva del 10%.
 
