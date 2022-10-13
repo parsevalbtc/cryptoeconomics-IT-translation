@@ -38,7 +38,7 @@ sicurezza = attività * distribuzione * partecipazione
 
 Poiché non vi è limite al numero di esseri umani, al numero di scambi o al livello di computazione, il livello di sicurezza è illimitato in ciascun asse. La sicurezza è illimitata anche con una distribuzione perfetta (i.e. infinita decentralizzazione). Un livello minimo pari a zero viene raggiunto sia con una partecipazione nulla che con un’attività nulla. La sicurezza economica e della conferma possono essere quindi definite come:
 ```
-sicrezza-economica = pagamenti * distribuzione(pagamenti) * [commercianti / umanità]
+sicurezza-economica = pagamenti * distribuzione(pagamenti) * [commercianti / umanità]
 sicurezza-nella-conferma = hash-power * distribuzione(hash-power) * [miner / umanità]
 ```
 
