@@ -1,4 +1,4 @@
-# Fallacia del Rapporto Stock Flusso
+# Fallacia del Rapporto Stock-Flusso
 
 
 
