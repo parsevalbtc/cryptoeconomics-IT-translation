@@ -10,7 +10,9 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 
 [Licenza](LICENSE)
 
+[Edizione Cartacea e Kindle](https://www.amazon.it/Criptoeconomia-Principi-Fondamentali-Eric-Voskuil/dp/1735060887)
 
+Donazioni: parsevalbtc@ln.tips
 
 ## Introduzione alla Traduzione Italiana
 
@@ -125,6 +127,4 @@ Traduzione Italiana e Revisione: [Parsevalbtc](https://twitter.com/parsevalbtc)
 |100 | [Definizione di _Shitcoin_](chapters/ch100-shitcoin-definition.md) | [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition) |
 |101 | [Glossario](chapters/ch101-glossary.md) | [Glossary](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary) |
 
-## Donazioni
 
-parsevalbtc@ln.tips
