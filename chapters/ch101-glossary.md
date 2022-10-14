@@ -1,49 +1,69 @@
 # Glossario
 
-#### Attivazione
-Iniziare ad [Applicare](#applicazione-delle-regole-enforcement) una nuova [Regola](#regola).
+#### Accumulare
+[Possedere](#proprietario) per un uso futuro.
 #### Aggiustamento 
 Cambiamento nella [Difficoltà](#difficoltà).
 #### Aggregazione
-La Tendenza alla ridotta partecipazione nel [Mining](centro-di-mining-mine) o nella [Validazione](#validità).
+La tendenza alla ridotta partecipazione nel [Mining](centro-di-mining-mine) o nella [Validazione](#validità).
+#### Altezza (Height)
+Il numero di [blocchi](#blocco) precedenti contenuti in un [Ramo](#ramo).
 #### Annuncio
 La prima comunicazione di un [Blocco](#blocco) ad un'altra [Persona](#persona).
-#### Hash Power Apparente
-Un frazione di [Blocchi](#blocco) in un [Segmento](#segmento) di [Catena](#catena). Le stime pubbliche dell'[Hash Power](#hash-power) di un [miner](centro-di-mining-mine) sono basate su questa definizione.
+#### Applicazione delle Regole (Enforcement)
+L'atto di rigettare dati [Invalidi](#validità).
 #### Attacco 
 Utilizzo di [Hash Power](#hash-power) al fine di realizzare una [Doppia Spesa](#doppia-spesa).
+#### Attivazione
+Iniziare ad [Applicare](#applicazione-delle-regole-enforcement) una nuova [Regola](#regola).
 #### Bitcoin
 L'insieme di principi che proteggono una [Moneta](#moneta) dallo [Stato](#stato). Il termine ed i principi sono stati definiti da Satoshi in "Bitcoin: A Peer-to-Peer Electronic Cash System".
 #### Blocco
 Insieme [Valido](#validità) di [Transazioni](#transazione) dotate di [_Timestamp_](#marcatura-temporale-timestamp) e [Prova](#prova).
+#### Blocco Genesi
+Il primo [Blocco](#blocco) di tutti i [Rami](#ramo-branch) di una [Moneta](#moneta).
 #### Block Pool
 L'insieme dei [Blocchi](#blocco) [Deboli](#ramo-debole-weak-branch). Pool dei Blocchi Orfani è un nome fuorviante di questo termine.
-#### Prendere a Prestito
-[Scambiare](#scambio) tempo per [Unità](#unità) che garantiscono al Prestatore maggiore [Utilità](#utilità).
-#### Ramo (Branch)
-Una sequenza [Valida](#validità) di [Blocchi](#blocco).
 #### Candidato
 Un [Blocco](#blocco) potenziale con una [Prova](#prova) non definita.
-#### Limite (Cap)
-Il limite posto all'[Offerta](#offerta) nel tempo.
 #### Capitalizzazione
 Prodotto del [Prezzo](#prezzo) per l'[Offerta](#offerta).
-#### Censura
-[Conferma](#conferma) soggettiva.
 #### Catena
 [Ramo](#ramo-branch) avente la maggior [Prova](#prova) cumulata.
+#### Censura
+[Conferma](#conferma) soggettiva.
 #### Centralizzazione
 La tendenza verso l'esistenza di pochi [Commercianti](#commerciante). I Commercianti controllano direttamente la [validazione](#validazione). Si può riferire anche al [Raggruppamento](#raggruppamento-pooling).
-#### Ricorrente (Claimant)
-Una [Persona](#persona) che detiene un titolo di una proprietà sotto il controllo di un [Custode](#custode-custodian). Si riferisce anche ad un detentore di ipoteca, un azionista, un [prestatore](#dare-in-prestito---investire), un depositante.
+#### Centro di Mining (Mine)
+Uno [Strumento](#strumento-tool) che compie [Lavoro](#lavoro).
 #### Client-Server
 Un [Protocollo](#protocollo) asimmetrico.
 #### Coercizione
 Ricorso all'aggressione al fine di indurre una [Attivazione](#attivazione).
-#### Moneta
-Un [Consenso](#consenso) che riguarda un mezzo di [Scambio](#scambio) mutuamente accettato. BTC è una [Moneta](#moneta).
 #### Coinbase 
 Una [Transazione](#transazione) che [trasferisce](#trasferimento) la [Ricompensa](#ricompensa-reward).
+#### Commerciante
+Una [Persona](#persona) che accetta [Unità](unità) in uno [Scambio](#scambio). Utente è un sinonimo comune di questo termine.
+---
+
+#### Prendere a Prestito
+[Scambiare](#scambio) tempo per [Unità](#unità) che garantiscono al Prestatore maggiore [Utilità](#utilità).
+#### Ramo (Branch)
+Una sequenza [Valida](#validità) di [Blocchi](#blocco).
+
+#### Limite (Cap)
+Il limite posto all'[Offerta](#offerta) nel tempo.
+
+
+
+
+#### Ricorrente (Claimant)
+Una [Persona](#persona) che detiene un titolo di una proprietà sotto il controllo di un [Custode](#custode-custodian). Si riferisce anche ad un detentore di ipoteca, un azionista, un [prestatore](#dare-in-prestito---investire), un depositante.
+
+
+#### Moneta
+Un [Consenso](#consenso) che riguarda un mezzo di [Scambio](#scambio) mutuamente accettato. BTC è una [Moneta](#moneta).
+
 #### Comunicazione
 Trasmissione di dati tra due [Macchine](#macchina).
 #### Conferma
@@ -86,16 +106,13 @@ Una frazione di tutte le proprietà offerte in [Scambio](#scambio-di-unità).
 L'insieme di tutti i [Commercianti](#commerciante).
 #### Endorsement
 Uno [Script](#script) che soddisfa un [Contratto](#contratto). _Signature Script_ (_ScriptSig_) è una formulazione anacronistica per questo termine.
-#### Applicazione delle Regole (Enforcement)
-L'atto di rigettare dati [Invalidi](#validità).
 #### Scambio di Unità
 Lo [Scambio](#scambio) di [Unità](#unità) per altra proprietà.
 #### Commissione di Transazione (Fee)
 Un [Trasferimento](#trasferimento) implicito ad un [Miner](#miner).
 #### Fork
 Una divergenza nelle [Regole di Consenso](#regole-di-consenso).
-#### Blocco Genesi
-Il primo [Blocco](#blocco) di tutti i [Rami](#ramo-branch) di una [Moneta](#moneta).
+
 #### Dispositivo di Mining (Grind) 
 Uno [Strumento](#strumento-tool) che compie operazioni di [Hashing](#hash).
 #### Operatore di Dispositivo di Mining (Grinder)
@@ -108,12 +125,10 @@ Un [Fork](#fork) che implica una [Separazione](#separazione-split). Porta ad una
 Una singola computazione svolta per [Provare](#prova) la [Validità](#validità) di un blocco [Candidato](#candidato).
 #### Hash Power
 Una frazione dell'[Hash Rate](#hash-rate) di tutti i [Centri di Mining](#centro-di-mining-mine).
+#### Hash Power Apparente
+Un frazione di [Blocchi](#blocco) in un [Segmento](#segmento) di [Catena](#catena). Le stime pubbliche dell'[Hash Power](#hash-power) di un [miner](centro-di-mining-mine) sono basate su questa definizione.
 #### Hash Rate
 La quantità di [Hash](#hash) calcolati nell'unità di tempo.
-#### Altezza (Height)
-Il numero di [blocchi](#blocco) precedenti contenuti in un [Ramo](#ramo).
-#### Accumulare
-[Possedere](#proprietario) per un uso futuro.
 #### Onesto
 Un [Miner](#miner) che costruisce sui [Blocchi](#blocco) di altri.
 #### Identità
@@ -146,10 +161,8 @@ Lo [Scambio](#scambio) di certa proprietà.
 La [Profondità](#profondità-depth) alla quale un [Output](#output) della [Coinbase](#coinbase) diventa [Trasferibile](#trasferimento).
 #### Tempo Mediano Trascorso 
 Una media dei [_Timestamp_](#marcatura-temporale-timestamp) dei precedenti [Blocchi](#blocco).
-#### Commerciante
-Una [Persona](#persona) che accetta [Unità](unità) in uno [Scambio](#scambio). Utente è un sinonimo comune di questo termine.
-#### Centro di Mining (Mine)
-Uno [Strumento](#strumento-tool) che compie [Lavoro](#lavoro).
+
+
 #### Miner
 Una [Persona](#persona) che opera un [Centro di Mining](centro-di-mining-mine). 
 #### Nodo
