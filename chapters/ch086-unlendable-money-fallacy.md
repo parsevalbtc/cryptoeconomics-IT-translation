@@ -2,7 +2,7 @@
 
 
 
-L'[equazione di Fisher](https://en.wikipedia.org/wiki/Fisher_equation) viene usata per calcolare il tasso di crescita in una moneta soggetta ad [inflazione](https://en.wikipedia.org/wiki/Monetary_inflation), in quanto si deve tenere conto dell'effetto di svalutazione sulla moneta stessa nel futuro. Questo fenomeno porta ad aggiustare il tasso di interesse nominale al fine di ottenere il tasso di interesse reale. La dimostrazione è semplificata usando i rapporti al posto dei tassi. Come mostrato ne il [Principio di Svalutazione](ch011-depreciation-principle.md), il tasso di svalutazione di una moneta merce è pari allo 0%, ovvero è pari ad un rapporto di crescita del 100%.
+L'[equazione di Fisher](https://en.wikipedia.org/wiki/Fisher_equation) viene usata per calcolare il tasso di crescita in una moneta soggetta ad [inflazione](https://en.wikipedia.org/wiki/Monetary_inflation), in quanto si deve tenere conto dell'effetto di svalutazione sulla moneta stessa nel futuro. Questo fenomeno porta ad aggiustare il tasso di interesse nominale al fine di ottenere il tasso di interesse reale. La dimostrazione è semplificata usando i rapporti al posto dei tassi. Come mostrato nel [Principio di Svalutazione](ch011-depreciation-principle.md), il tasso di svalutazione di una moneta merce è pari allo 0%, ovvero è pari ad un rapporto di crescita del 100%.
 
 La [moneta di monopolio](ch005-money-taxonomy.md) è soggetta a svalutazione a causa del [signoraggio](https://it.wikipedia.org/wiki/Signoraggio).
 
