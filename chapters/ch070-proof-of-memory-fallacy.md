@@ -12,7 +12,7 @@ La _proof-of-memory_ è uguale alla _proof-of-work_ in termini del consumo di ri
 
 ---
 
-Titolo originale: [Proof of Memory Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Fallacy)
+Titolo originale: [Proof of Memory Façade](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Façade)
 
 [Indice](/README.md)
 
