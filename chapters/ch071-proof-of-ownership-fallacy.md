@@ -18,6 +18,6 @@ Bitcoin come [moneta](ch005-money-taxonomy.md) funziona senza custodia (è _non-
 
 ---
 
-Titolo originale: [Proof of Ownership Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Ownership-Fallacy)
+Titolo originale: [Blockchain Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Blockchain-Fallacy)
 
 [Indice](/README.md)
