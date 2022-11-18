@@ -94,8 +94,8 @@ Donazioni: parsevalbtc@ln.tips
 |67 | [Fallacia del Dilemma del Prigioniero](chapters/ch067-prisoners-dilemma-fallacy.md) | [Prisoner's Dilemma Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Prisoner's-Dilemma-Fallacy) |
 |68 | [Fallacia della Chiave Privata](chapters/ch068-private-key-fallacy.md) | [Private Key Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Private-Key-Fallacy) |
 |69| [Fallacia della Prova di Costo](chapters/ch069-proof-of-cost-fallacy.md) | [Proof of Cost Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Cost-Fallacy) |
-|70 | [L'Argomento di Facciata della Prova di Memorizzazione](chapters/ch070-proof-of-memory-fallacy.md) | [Proof of Memory Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Fallacy) |
-|71 | [Fallacia della Blockchain](chapters/ch071-proof-of-ownership-fallacy.md) | [Proof of Ownership Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Ownership-Fallacy) |
+|70 | [L'Argomento di Facciata della Prova di Memorizzazione](chapters/ch070-proof-of-memory-façade.md) | [Proof of Memory Façade](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Façade) |
+|71 | [Fallacia della Blockchain](chapters/ch071-blockchain-fallacy.md) | [Blockchain Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Blockchain-Fallacy) |
 |72 | [Fallacia della _Proof of Stake_](chapters/ch072-proof-of-stake-fallacy.md) | [Proof of Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy) |
 |73 | [Fallacia della _Proof of Work_](chapters/ch073-proof-of-work-fallacy.md) | [Proof of Work Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Work-Fallacy) |
 |74 | [Fallacia del Teorema di Regressione](chapters/ch074-regression-fallacy.md) | [Regression Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Regression-Fallacy) |
