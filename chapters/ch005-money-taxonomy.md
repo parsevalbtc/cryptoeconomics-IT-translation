@@ -37,12 +37,12 @@ La tabella seguente fornisce gli esempi di ogni classificazione menzionata in pr
         * [**Lingotto**](https://it.wikipedia.org/wiki/Lingotto)
     * [Fiat](https://it.wikipedia.org/wiki/Moneta_legale) [nessun valore d'uso]
       * di monopolio
-      	* [**Banconota di Dollaro Statunitense**](https://it.wikipedia.org/wiki/Banconota_da_1_dollaro_(Stati_Uniti_d%27America)) 
-    * di mercato
-      * [**Bitcoin**](https://bitcoin.org/bitcoin.pdf)
+        * [**Banconota di Dollaro Statunitense**](https://it.wikipedia.org/wiki/Banconota_da_1_dollaro_(Stati_Uniti_d%27America)) 
+      * di mercato
+        * [**Bitcoin**](https://bitcoin.org/bitcoin.pdf)
   * [Sostituto Monetario](https://wiki.mises.org/wiki/Money_substitutes) [futuro]
     * [elettronico](https://www.investopedia.com/terms/e/electronic-money.asp) [intangibile]
-      * conto
+      * conto corrente
         * **Circuito Visa**   
     * [rappresentativo](https://en.wikipedia.org/wiki/Representative_money) [tangibile]
       * [Banconota](https://it.wikipedia.org/wiki/Banconota) 
