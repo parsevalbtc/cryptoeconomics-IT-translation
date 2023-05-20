@@ -43,7 +43,7 @@ La tabella seguente fornisce gli esempi di ogni classificazione menzionata in pr
   * [Sostituto Monetario](https://wiki.mises.org/wiki/Money_substitutes) [futuro]
     * [elettronico](https://www.investopedia.com/terms/e/electronic-money.asp) [intangibile]
       * conto
-        * ** Circuito Visa**   
+        * **Circuito Visa**   
     * [rappresentativo](https://en.wikipedia.org/wiki/Representative_money) [tangibile]
       * [Banconota](https://it.wikipedia.org/wiki/Banconota) 
         * [**Silver Certificate Statunitense**](https://en.wikipedia.org/wiki/Silver_certificate_(United_States))
