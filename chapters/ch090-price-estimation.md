@@ -21,7 +21,7 @@ Tuttavia, ai soli fini del confronto, procediamo a stimare ciascuna delle cinque
 Le valutazioni sono basate sul 2019 sebbene l'[inflazione](ch101-glossary.md#inflazione) di Bitcoin sia quella al 2029. Ciò implica che, basandosi sull'assunzione di crescita economica e di [inflazione monetaria](https://en.wikipedia.org/wiki/Monetary_inflation) del Dollaro Statunitense, i valori dovrebbero essere più elevati. L'ultima ipotesi può essere eliminata considerando una proiezione costante del valore del dollaro del 2019. Assumendo un tasso reale annuo di [crescita economica](https://en.wikipedia.org/wiki/Economic_growth) del 2% composto su 10 anni, i valori al 2029 vengono incrementati del ~22%.
 
 | Sostituto              | Dimensione  (2019)    | USD/BTC (2029) |
-| ---------------------- | --------------------- | -------------- |
+| ---------------------- | ---------------------:| -------------: |
 | **Moneta tangibile**   |   4'347'460'000'000 $ |      279'852 $ |
 | **Base monetaria**     |   8'187'102'500'000 $ |      527'016 $ |
 | **Credito bancario**   |  36'018'735'000'000 $ |    2'318'578 $ |
