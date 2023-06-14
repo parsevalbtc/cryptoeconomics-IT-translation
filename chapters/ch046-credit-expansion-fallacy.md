@@ -17,7 +17,7 @@ Talvolta ci si riferisce al quantitativo accumulato come alla "riserva" del prop
 Ci si riferisce all'ammontare totale dei [Dollari Statunitensi in circolazione](https://en.wikipedia.org/wiki/Money_supply#United_States) con la sigla "M0". Questo include tutta la valuta tangibile ("il contante di cassa") in aggiunta ai bilanci bancari intangibili dei conti presso la _Federal Reserve_. Queste due forme di moneta vengono considerate titoli d'[obbligo intercambiabili della Fed](https://en.wikipedia.org/wiki/Money_supply#United_States). I titoli d'obbligo intangibili sono moneta che è stata messa a bilancio ma [non ancora stampata](ch025-state-banking-principle.md). Come [riportato dalla Fed](https://www.federalreserve.gov/releases/h3/current/default.htm), il totale dei Dollari Statunitensi è così suddiviso:
 
 | Dollari                | Quantitativo (2019) |
-| ---------------------- | ------------------- |
+| ---------------------- | -------------------:|
 | Tangibile              | 1'738'984'000'000 $ |
 | intangibile            | 1'535'857'000'000 $ |
 | **Moneta totale (M0)** | 3'274'841'000'000 $ |
@@ -25,7 +25,7 @@ Ci si riferisce all'ammontare totale dei [Dollari Statunitensi in circolazione](
 La quantità M0 sommata a tutta la moneta dei conti bancari (n.d.t. in realtà credito bancario - si veda la tabella sottostante) viene chiamata "M3". Questo dato non è più pubblicato dalla Fed, ma viene [stimato](https://fred.stlouisfed.org/series/MABMM301USM189S) essere pari a 17'682'335'000'000 $. Il quantitativo totale del credito denominato in Dollari Statunitensi può essere stimato dalla somma delle seguenti categorie denominate in Dollari: [conti bancari](https://en.wikipedia.org/wiki/Bank_account), [titoli obbligazionari](https://www.forbes.com/sites/kevinmcpartland/2018/10/11/understanding-us-bond-market/#7c8fe6541caf), [titoli azionari pubblici](https://data.worldbank.org/indicator/cm.mkt.lcap.cd) e [privati](https://data.worldbank.org/indicator/cm.mkt.lcap.cd).
 
 | Credito in Dollari       | Quantitativo (2019)  |
-| ------------------------ | -------------------- |
+| ------------------------ | --------------------:|
 | Bancario (M3 - M0)       | 14'407'494'000'000 $ |
 | Titoli Obbligazionari    | 41'000'000'000'000 $ |
 | Titoli Azionari Pubblici | 32'891'169'631'125 $ |
