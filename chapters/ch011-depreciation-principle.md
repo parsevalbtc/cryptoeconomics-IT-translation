@@ -2,7 +2,7 @@
 
 
 
-La proprietà di un prodotto si trasferisce dal produttore al consumatore (o ad un altro produttore), tuttavia né la [produzione né il consumo](ch007-production-and-consumption.md) avvengono in quel momento (n.d.t. il momento dello scambio). Il Produttore [accumula](ch101-glossary.md#accumulare) il prodotto prima dello [scambio](ch101-glossary.md#scambio) e il consumatore lo conserva  dopo che esso è avvenuto. Il prodotto esiste e viene infine scambiato tra le persone. I termini "produttore" e "consumatore" sono nomi che definiscono gli _obiettivi_ (produzione e tempo libero) dei due principali attori economici. Il produttore _intende_ creare (apprezzare) il capitale, mentre il consumatore vuole distruggerlo (svalutarlo). Un produttore che [possiede](ch101-glossary.md#proprietario) in maniera esclusiva non produce e un consumatore che non possiede non consuma. Ma la riserva del produttore (il suo inventario) svaluta il prodotto così come lo svaluta quello del consumatore.
+La proprietà di un prodotto si trasferisce dal produttore al consumatore (o ad un altro produttore), tuttavia né la [produzione né il consumo](ch007-production-and-consumption.md) avvengono in quel momento (n.d.t. il momento dello scambio). Il Produttore [accumula](ch101-glossary.md#accumulare) il prodotto prima dello [scambio](ch101-glossary.md#scambio) e il consumatore lo conserva  dopo che esso è avvenuto. Il prodotto esiste e viene infine scambiato tra le persone. I termini "produttore" e "consumatore" sono nomi che definiscono gli _obiettivi_ (produzione e tempo libero) dei due principali attori economici. Il produttore _intende_ creare (apprezzare) il capitale, mentre il consumatore vuole distruggerlo (svalutarlo). Un produttore che [possiede](ch101-glossary.md#proprietario) in maniera esclusiva non produce e un consumatore che non possiede non consuma. Ma la riserva del produttore (il suo inventario) svaluta il prodotto così come lo svaluta quella del consumatore.
 
 L'utilizzo comune del termine "consumo" confonde l'[interesse](ch101-glossary.md#interesse) con la [svalutazione](https://en.wikipedia.org/wiki/Depreciation_(economics)). Il realizzarsi della vendita di un prodotto rappresenta un interesse per l'investitore, non una svalutazione del prodotto stesso. La svalutazione di un prodotto è consumo _effettivo_ e rappresenta [per il suo possessore un servizio](https://mises.org/library/man-economy-and-state-power-and-market/html/p/974) ([utilità](ch101-glossary.md#utilità)) oppure uno [spreco](https://it.wikipedia.org/wiki/Rifiuto). Lo spreco è una svalutazione sulla quale il [possessore](ch101-glossary.md#proprietario) non attribuisce alcun [valore](ch101-glossary.md#valore). Solo la distruzione riflette il consumo effettivo così come solo la creazione riflette la produzione effettiva. Solo l'_azione_ possiede un significato economico, il nome attribuito ad uno specifico ruolo non ne possiede alcuno. Il ricavo netto di una vendita che va dal produttore al consumatore è l'interesse, anche se esso viene capitalizzato attraverso il reinvestimento.
 
@@ -77,7 +77,7 @@ I tassi di crescita della moneta [inflazionaria](https://en.wikipedia.org/wiki/M
 
 ---
 
-Titolo originale: [Principio di Svalutazione](https://github.com/libbitcoin/libbitcoin-system/wiki/Depreciation-Principle)
+Titolo originale: [Depreciation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Depreciation-Principle)
 
 [Indice](/README.md)
 
