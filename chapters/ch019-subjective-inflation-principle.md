@@ -2,7 +2,7 @@
 
 
 
-L'[inflazione del prezzo](https://en.m.wikipedia.org/wiki/Inflation) nel libero [mercato](ch101-glossary.md#mercato) deriva completamente delle preferenze personali, e pertanto non è riconducibile a nessun altro fattore.
+L'[inflazione del prezzo](https://en.m.wikipedia.org/wiki/Inflation) nel libero [mercato](ch101-glossary.md#mercato) deriva completamente dalle preferenze personali, e pertanto non è riconducibile a nessun altro fattore.
 
 * I [prezzi](ch101-glossary.md#prezzo) dei beni sono determinati soggettivamente. ([Teoria Soggettiva del Valore](https://en.wikipedia.org/wiki/Subjective_theory_of_value))
 * La preferenza temporale determina l'[espansione](ch046-credit-expansion-fallacy.md) del credito sulla moneta. ([Assioma di Preferenza Temporale](ch085-time-preference-fallacy.md))
