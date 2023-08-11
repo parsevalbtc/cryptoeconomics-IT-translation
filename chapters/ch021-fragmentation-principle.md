@@ -10,7 +10,7 @@ Se assumiamo che le monete siano identiche a parte l'evento relativo alla loro s
 
 Un aumento o una diminuzione del numero di commercianti che accettano una delle due monete rappresenta, rispettivamente, un guadagno netto o una perdita netta di utilità combinata in quanto ciò implica la rimozione o l'aggiunta del costo di scambio. In altre parole, l'effetto è proporzionale per ciascuna delle monete coinvolte nella separazione. Questo fattore si riferisce alle caratteristiche specifiche di ciascuna separazione, non al processo di separazione in generale.
 
-Di conseguenza, una separazione produce sia uno spostamento che una riduzione di utilità in proporzione alla dimensione relativa delle due economie. Ne la [Fallacia dell'Effetto Network](ch066-network-effect-fallacy.md) viene spiegato perché la riduzione non sia di natura quadratica, come talvolta viene assunto.
+Di conseguenza, una separazione produce sia uno spostamento che una riduzione di utilità in proporzione alla dimensione relativa delle due economie. Nella [Fallacia dell'Effetto Network](ch066-network-effect-fallacy.md) viene spiegato perché la riduzione non sia di natura quadratica, come talvolta viene assunto.
 
 **Sebbene possa sembrare che nello spostamento qualcuno abbia "preso" valore dalla moneta originale, tale valore è in realtà "andato" a formare la moneta separata.** In altre parole, i commercianti sono padroni del valore che essi stessi attribuiscono ad una moneta. I proprietari hanno un'influenza indipendente sul potere d'acquisto, basato sul loro [livello di accumulo](ch049-dumping-fallacy.md). Tuttavia, ciò influenza il [prezzo](ch101-glossary.md#prezzo) delle unità, non l'utilità.
 
