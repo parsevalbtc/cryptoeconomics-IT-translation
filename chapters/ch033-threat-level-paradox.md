@@ -14,7 +14,7 @@ La conseguenza attesa di questo fenomeno è che Bitcoin non sarà ben preparato 
 
 ---
 
-Titolo originale: 
+Titolo originale: [Threat Level Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Threat-Level-Paradox)
 
 [Indice](/README.md)
 
