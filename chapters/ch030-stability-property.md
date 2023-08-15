@@ -4,7 +4,7 @@
 
 Il [valore è soggettivo](https://en.wikipedia.org/wiki/Subjective_theory_of_value) e di conseguenza la costanza dei prezzi rappresenta una finzione economica. I [prezzi](ch101-glossary.md#prezzo) di [scambio](ch101-glossary.md#scambio-di-unità) di una moneta sono determinati dalla sua [domanda e offerta](https://it.wikipedia.org/wiki/Domanda_e_offerta) che, a sua volta, dipende dalla curva di domanda di tutte le persone per tutti i prodotti. La stabilità di una moneta non è la tendenza verso un prezzo costante di tutti gli altri beni ma è una relazione di [smorzamento](https://en.wikipedia.org/wiki/Damping_ratio) tra la domanda di moneta e la sua offerta.
 
-E' possibile classificare le monete in tre categorie di offerta:
+È possibile classificare le monete in tre categorie di offerta:
 
 * Offerta di mercato ([moneta merce](https://it.wikipedia.org/wiki/Commodity))
 * Offerta di monopolio ([monopolio](ch005-money-taxonomy.md))
@@ -12,7 +12,7 @@ E' possibile classificare le monete in tre categorie di offerta:
 
 In ogni moneta, la distruzione di [unità](ch101-glossary.md#unità) diminuisce l'offerta e di conseguenza incrementa il valore delle unità rimanenti. Assumendo che non vi sia incentivo economico nella distruzione di unità, ciò non impatta la stabilità.
 
-L'offerta di una moneta di mercato aumenta grazie all'incentivo finanziario di [produrne in quantità maggiore](https://en.wikipedia.org/wiki/Gold_mining) quando ci si attende che il suo prezzo sia pari o superiore al prezzo di produzione (inclusivo del costo del capitale). Questa relazione tra prezzo e offerta è prevedibile nonostante il prezzo (e quindi l'offerta) non lo sia. Di conseguenza tutti i possessori della moneta soffrono di una riduzione del valore dato dall'incremento di offerta. La competizione garantisce che questa produzione di moneta di mercato è controllata dalla domanda. La retroazione data dalla diminuzione di domanda dovuta all'aumento di offerta riduce l'incentivo a produrre, garantendo quindi stabilità.
+L'offerta di una moneta di mercato aumenta grazie all'incentivo finanziario di [produrne in quantità maggiore](https://en.wikipedia.org/wiki/Gold_mining) quando ci si attende che il suo prezzo sia pari o superiore al prezzo di produzione (inclusivo del costo del capitale). Questa relazione tra prezzo e offerta è prevedibile nonostante il prezzo (e quindi l'offerta) non lo sia. Di conseguenza tutti i possessori della moneta soffrono di una riduzione del valore dato dall'incremento di offerta. La competizione garantisce che questa produzione di moneta di mercato sia controllata dalla domanda. La retroazione data dalla diminuzione di domanda dovuta all'aumento di offerta riduce l'incentivo a produrre, garantendo quindi stabilità.
 
 Come moneta di mercato, l’incremento di offerta di Bitcoin nelle prime fasi non ha effetto sul prezzo. Tuttavia, poiché il suo tasso di emissione è fisso, la sua stabilità è basata sui cambiamenti della domanda. A differenza della moneta merce, il costo di produzione di Bitcoin cresce e diminuisce in funzione della domanda per esso. Poiché il prezzo rappresenta la relazione tra domanda e offerta, ciò ha lo stesso effetto. Lo scopo dell’inflazione monetaria di Bitcoin è quello di distribuire razionalmente le unità, e alla fine questa fase giunge al termine. 
 
