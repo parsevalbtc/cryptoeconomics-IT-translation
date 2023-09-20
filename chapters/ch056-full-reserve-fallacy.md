@@ -64,7 +64,7 @@ Un'altra teoria collegata afferma che le banche possano legittimamente imprestar
 
 Un'ulteriore teoria collegata afferma che il [_free banking_](https://en.wikipedia.org/wiki/Free_banking) ha intrinsecamente l'abilità di creare denaro [dal nulla](ch084-thin-air-fallacy.md). Tuttavia, se ciò fosse vero allora ognuno potrebbe farlo, poiché il _free banking_ non conferisce poteri speciali alle persone che definiscono sé stessi come un'entità bancaria. Se la moneta potesse essere creata senza costi non rappresenterebbe una proprietà. Per questa ragione la teoria è invalida. Anche la moneta fiat di stato è soggetta ad un [costo di produzione](https://www.federalreserve.gov/faqs/currency_12771.htm), un costo atto a mantenere il suo [monopolio sulla produzione](https://en.wikipedia.org/wiki/Counterfeit), e un [costo politico](https://it.wikipedia.org/wiki/Crisi_in_Venezuela) dovuto all'[inflazione monetaria](https://en.wikipedia.org/wiki/Monetary_inflation). Il _free banking_, che si applica all'oro o a Bitcoin, beneficia dell'assenza del privilegio di [signoraggio](https://it.wikipedia.org/wiki/Signoraggio) dovuto alla natura della competizione.
 
-Infine, accade spesso che le persone che sostengono "l'attività di prestito a riserva intera" sono le stesse che esortano ad avere una più bassa preferenza temporale. Questa è una contraddizione diretta, in quanto il primo punto che loro sostenuto implica una preferenza temporale infinita.
+Infine, accade spesso che le persone che sostengono "l'attività di prestito a riserva intera" sono le stesse che esortano ad avere una più bassa preferenza temporale. Questa è una contraddizione diretta, in quanto il primo punto da loro sostenuto implica una preferenza temporale infinita.
 
 ---
 
