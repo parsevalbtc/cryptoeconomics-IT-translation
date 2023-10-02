@@ -2,7 +2,7 @@
 
 
 
-E' stata avanzata una [proposta](http://sites.stat.psu.edu/~gjb6/nash/money.pdf) secondo la quale l'esistenza di un "indice di valore" internazionale e non [politico](ch101-glossary.md#politico) (i.e. di tipo obiettivo) porterebbe le [persone](ch101-glossary.md#persona) ad obbligare gli [stati](ch101-glossary.md#stato) ad "agganciare" le loro monete all'indice, eliminando quindi l'[inflazione del prezzo](https://en.wikipedia.org/wiki/Inflation). E' stato anche suggerito che Bitcoin rappresenti questo tipo di indice e che ciò accelererebbe il verificarsi di questo scenario.
+È stata avanzata una [proposta](http://sites.stat.psu.edu/~gjb6/nash/money.pdf) secondo la quale l'esistenza di un "indice di valore" internazionale e non [politico](ch101-glossary.md#politico) (i.e. di tipo obiettivo) porterebbe le [persone](ch101-glossary.md#persona) ad obbligare gli [stati](ch101-glossary.md#stato) ad "agganciare" le loro monete all'indice, eliminando quindi l'[inflazione del prezzo](https://en.wikipedia.org/wiki/Inflation). È stato anche suggerito che Bitcoin rappresenti questo tipo di indice e che ciò accelererebbe il verificarsi di questo scenario.
 
 Il vantaggio immaginato in questo contesto è rappresentato dalla possibilità di abbandonare certe monete di stato in favore di altre. Si creerebbe uno spostamento dalle monete a più elevata inflazione a quelle a più bassa inflazione basandosi sul confronto con l'indice. Ne consegue che gli stati dovrebbero allineare in misura via via maggiore i loro tassi di inflazione all'indice. Il risultato è che le monete di stato raggiungerebbero "asintoticamente" la condizione di [Moneta Ideale](https://en.wikipedia.org/wiki/Ideal_money) rappresentata dall'indice.
 
