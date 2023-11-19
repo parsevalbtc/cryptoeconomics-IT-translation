@@ -20,7 +20,7 @@ Il teorema è in realtà basato sulle osservazioni _empiriche_ dell'evoluzione m
 
 > Tutte queste proposizioni implicate dal teorema di regressione sono enunciate apoditticamente per come implicato nell'apriorismo della prasseologia. Deve accadere necessariamente in questo modo. Nessuno potrà mai avere successo nella costruzione di un caso ipotetico nel quale le cose abbiano luogo in maniera differente.
 
-Uno dei molti problemi che affliggono l'economia empirica è che le nuove osservazioni possono invalidare le conclusioni tratte in precedenza. Bitcoin ha fatto ciò con questo teorema che aveva la pretesa di essere una dimostrazione non empirica. E' possibile osservare chiaramente che [Satoshi intendeva creare una moneta](https://bitcoin.org/bitcoin.pdf), il cui uso fosse quello monetario fin dal principio. 
+Uno dei molti problemi che affliggono l'economia empirica è che le nuove osservazioni possono invalidare le conclusioni tratte in precedenza. Bitcoin ha fatto ciò con questo teorema che aveva la pretesa di essere una dimostrazione non empirica. È possibile osservare chiaramente che [Satoshi intendeva creare una moneta](https://bitcoin.org/bitcoin.pdf), il cui uso fosse quello monetario fin dal principio. 
 
 L'idea alla base del teorema rappresenta una ragionevole _teoria_ empirica dell'evoluzione del concetto di moneta, ma tuttavia invalida sotto forma di _teorema_ razionale per distinguere la moneta da ciò che non è moneta. La moneta si distingue da certi comportamenti espressi dalle persone. Concludere che qualcosa è moneta consiste nell'osservare questi comportamenti, un metodo strettamente empirico. 
 
