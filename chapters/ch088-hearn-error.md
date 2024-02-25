@@ -6,14 +6,14 @@ Esiste una teoria secondo la quale lo [stato](ch101-glossary.md#stato) non possa
 
 Questo implica che un elevato volume (_throughput_) di [transazioni](ch101-glossary.md#transazione) permetta una difesa efficace contro gli [attacchi](ch101-glossary.md#attacco) e la [coercizione](ch101-glossary.md#coercizione). Ciò, a propria volta, implica che [Bitcoin](ch101-glossary.md#bitcoin) possa essere difeso accettando la forza [centralizzante](ch101-glossary.md#centralizzazione) di un elevato volume di transazioni.
 
-Questa teoria è invalida in quanto è basata su osservazioni empiriche che tuttavia derivano da un un errore fattuale. **E' evidente che lo stato preferisca, in realtà, proibire le cose popolari**. Qui di seguito vi è un breve elenco di cose popolari che vengono comunemente proibite:
+Questa teoria è invalida in quanto è basata su osservazioni empiriche che tuttavia derivano da un un errore fattuale. **È evidente che lo stato preferisca, in realtà, proibire le cose popolari**. Qui di seguito vi è un breve elenco di cose popolari che vengono comunemente proibite:
 
 * Droga
 * Gioco d'azzardo
 * Prostituzione
 * Religione
-* Libertà di Espressione
-* Libertà di Assemblea
+* Libertà di espressione
+* Libertà di assemblea
 * Commercio
 * Immigrazione
 * Armi
