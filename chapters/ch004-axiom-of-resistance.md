@@ -2,7 +2,7 @@
 
 
 
-Nella logica moderna un [assioma](https://it.wikipedia.org/wiki/Assioma_(matematica)) è una premessa, non può essere provata. E' una assunzione di partenza attraverso la quale possono essere dimostrate altre proposizioni. Per esempio nella [geometria Euclidea](https://it.wikipedia.org/wiki/Geometria_euclidea) non è possibile dimostrare che due rette parallele non si incontrino mai. Questa premessa definisce semplicemente il particolare tipo di geometria.
+Nella logica moderna un [assioma](https://it.wikipedia.org/wiki/Assioma_(matematica)) è una premessa, non può essere provata. È una assunzione di partenza attraverso la quale possono essere dimostrate altre proposizioni. Per esempio nella [geometria Euclidea](https://it.wikipedia.org/wiki/Geometria_euclidea) non è possibile dimostrare che due rette parallele non si incontrino mai. Questa premessa definisce semplicemente il particolare tipo di geometria.
 
 Provare delle affermazioni su Bitcoin richiede di affidarsi ad un sistema assiomatico specificamente basato su [matematica](https://it.wikipedia.org/wiki/Teoria_degli_insiemi_di_Zermelo-Fraenkel), [probabilità](https://it.wikipedia.org/wiki/Assiomi_di_Kolmogorov), e [catallattica](https://treccani.it/vocabolario/catallattica/); e quindi sulle assunzioni su cui si basano queste discipline. Tuttavia Bitcoin si basa anche su un assioma che non è presente in questi sistemi. Satoshi vi allude in una delle sue prime [dichiarazioni](https://satoshi.nakamotoinstitute.org/emails/cryptography/4/):
 
