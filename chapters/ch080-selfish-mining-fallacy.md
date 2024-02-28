@@ -16,7 +16,7 @@ Questa affermazione assume che esista il concetto di "giusta quota parte" che è
 
 Questi argomenti fallaci vengono esplicitamente attribuiti alla "convinzione comune". In altre parole, l'articolo li utilizza per mostrare che la convinzione comune è scorretta. Tuttavia, l'articolo sbaglia ad affermare in maniera incondizionata che questa ipoteticamente _ingiusta violazione del protocollo_ costituisca un attacco:
 
-> Questo attacco può avere conseguenze significative per Bitcoin: i miner razionali preferiranno unirsi ai _selfish miner_ ed il gruppo colluso aumenterà di dimensione finché non diventerà la maggioranza. A questo punto il sistema Bitcoin cessa di essere una valuta decentralizzata.
+> Questo attacco può avere conseguenze significative per Bitcoin: i miner razionali preferiranno unirsi ai _selfish miner_ e il gruppo colluso aumenterà di dimensione finché non diventerà la maggioranza. A questo punto il sistema Bitcoin cessa di essere una valuta decentralizzata.
 
 Questa è l'origine della fallacia. Non è l'attacco alla convinzione comune ad essere scorretto, l'errore sta nel presumere la convinzione comune. Il _selfish mining_ implica che Bitcoin manifesta una pressione al [raggruppamento](ch101-glossary.md#raggruppamento-pooling) basata sulla [latenza](ch101-glossary.md#latenza), benché questo sia un [difetto ben conosciuto](ch036-proximity-premium-flaw.md). Tutte le pressioni al raggruppamento tendono a ridurre il numero di miner, esponendo Bitcoin agli attacchi.
 

@@ -17,7 +17,7 @@ Utilizzo di [Hash Power](#hash-power) al fine di realizzare una [Doppia Spesa](#
 #### Attivazione
 Iniziare ad [Applicare](#applicazione-delle-regole-enforcement) una nuova [Regola](#regola).
 #### Bitcoin
-L'insieme di principi che proteggono una [Moneta](#moneta) dallo [Stato](#stato). Il termine ed i principi sono stati definiti da Satoshi in "Bitcoin: A Peer-to-Peer Electronic Cash System".
+L'insieme di principi che proteggono una [Moneta](#moneta) dallo [Stato](#stato). Il termine e i principi sono stati definiti da Satoshi in "Bitcoin: A Peer-to-Peer Electronic Cash System".
 #### Blocco
 Insieme [Valido](#validità) di [Transazioni](#transazione) dotate di [_Timestamp_](#marcatura-temporale-timestamp) e [Prova](#prova).
 #### Blocco Genesi

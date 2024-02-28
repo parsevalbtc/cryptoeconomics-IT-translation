@@ -12,7 +12,7 @@ Per le rimanenti considerazioni si _assume_ che le monete, congiuntamente, aumen
 
 Sotto le ipotesi formulate per il [Principio di Consolidamento](ch020-consolidation-principle.md) due monete simili saranno destinate a consolidarsi riducendo a zero il valore di una delle due nel tempo. Se una persona è in grado di sapere quale delle due subirà questa sorte, è razionale vendere questa moneta in favore dell'altra. Tuttavia, poiché è altrettanto plausibile _non_ sapere quale moneta sopravviverà, vi è la possibilità che, vendendo la moneta che avrà successo per quella destinata al fallimento, si sacrifichi _per intero_ il valore delle unità originarie. **Senza conoscenza del futuro, vendere tutto o una parte di una moneta per l'altra porta ad incrementare il profitto potenziale in proporzione ad un livello di rischio più elevato.** Per questa ragione è razionale allo stesso modo accumulare entrambe le monete, cosa che preserva le assunzioni ritenute valide prima della separazione.
 
-In conclusione, andrebbe sottolineato che entrambe le catene potrebbero fallire, ed il valore si consoliderebbe su una catena indipendente, su una commodity o su una moneta di [stato](ch101-glossary.md#stato). Questo capitolo si propone solamente di fornire un quadro di decisione razionale basato su assunzioni che tuttavia potrebbero non verificarsi.
+In conclusione, andrebbe sottolineato che entrambe le catene potrebbero fallire, e il valore si consoliderebbe su una catena indipendente, su una commodity o su una moneta di [stato](ch101-glossary.md#stato). Questo capitolo si propone solamente di fornire un quadro di decisione razionale basato su assunzioni che tuttavia potrebbero non verificarsi.
 
 ---
 
