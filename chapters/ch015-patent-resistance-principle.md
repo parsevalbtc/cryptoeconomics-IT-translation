@@ -2,7 +2,7 @@
 
 
 
-A differenza del *copyright*, il brevetto è una forza anti-mercato. Un vero contratto di *copyright* è un accordo contrattuale tra il compratore ed il venditore, mentre un brevetto è esclusivamente una concessione di [monopolio](https://mises.org/library/man-economy-and-state-power-and-market/html/p/1075) da parte dello [stato](ch101-glossary.md#stato). Il brevetto non è un "attacco" esercitato dal detentore del titolo stesso, è una [distorsione](ch101-glossary.md#distorsione) della [pressione al raggruppamento](ch039-pooling-pressure-risk.md) creata dallo stato.
+A differenza del *copyright*, il brevetto è una forza anti-mercato. Un vero contratto di *copyright* è un accordo contrattuale tra il compratore e il venditore, mentre un brevetto è esclusivamente una concessione di [monopolio](https://mises.org/library/man-economy-and-state-power-and-market/html/p/1075) da parte dello [stato](ch101-glossary.md#stato). Il brevetto non è un "attacco" esercitato dal detentore del titolo stesso, è una [distorsione](ch101-glossary.md#distorsione) della [pressione al raggruppamento](ch039-pooling-pressure-risk.md) creata dallo stato.
 
 Il processo di [mining](centro-di-mining-mine) è altamente competitivo. La protezione di monopolio applicata all'uso di un [algoritmo](https://www.asicboost.com/patent) di mining efficiente rappresenta una forte pressione di aggregazione anti-mercato. Bitcoin è reso sicuro dalle [persone](ch101-glossary.md#persona) che [resistono](ch004-axiom-of-resistance.md) alle forze anti-mercato. La resistenza affronta un [rischio](ch016-risk-sharing-principle.md) maggiore quando il [miner](ch101-glossary.md#miner) è fortemente [raggruppato](ch101-glossary.md#raggruppamento-pooling) e/o [non anonimo](ch023-public-data-principle.md).
 

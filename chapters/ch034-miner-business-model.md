@@ -14,7 +14,7 @@ Tuttavia, altri miner potrebbero ritirarsi dal business del mining in quanto il 
 
 Limitando l'erogazione dei [dividendi](https://it.wikipedia.org/wiki/Dividendo_(economia)) ai tassi di ritorno a mercato e reinvestendo tutta la ricompensa rimanente, un miner può mantenere un _hash power_ costante e quindi ottenere ritorni a mercato su una base proporzionale alla [capitalizzazione](ch101-glossary.md#capitalizzazione) di Bitcoin. Reinvestire i dividendi incrementa l'_hash power_ mentre la liquidazione degli stessi lo diminuisce. I [dispositivi di mining](ch101-glossary.md#dispositivo-di-mining-grind) vengono liquidati spegnendoli ogni qual volta ciascuno di essi va in perdita netta oppure [scontando](https://it.wikipedia.org/wiki/Valore_attuale) i ritorni futuri attraverso la vendita del dispositivo stesso.
 
-**Il tasso di ritorno del miner sul capitale dipende solamente dalla preferenza temporale**. La relazione tra l'economia ed i miner viene sviluppata ulteriormente nella [Fallacia del Bilanciamento del Potere](ch042-balance-of-power-fallacy.md).
+**Il tasso di ritorno del miner sul capitale dipende solamente dalla preferenza temporale**. La relazione tra l'economia e i miner viene sviluppata ulteriormente nella [Fallacia del Bilanciamento del Potere](ch042-balance-of-power-fallacy.md).
 
 ---
 

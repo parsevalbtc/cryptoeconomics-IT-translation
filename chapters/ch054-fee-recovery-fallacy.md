@@ -9,7 +9,7 @@ La teoria ignora il [costo opportunità](https://it.wikipedia.org/wiki/Costo_opp
 Data la natura di gioco [a somma zero](ch032-zero-sum-property.md) del mining questa disparità consente ai miner più razionali di aumentare il loro [_hash power_](ch101-glossary.md#hash-power) reinvestendo il loro più alto ritorno del capitale.
 
 
-Vi è una teoria correlata secondo la quale gli strumenti di stima delle _fee_ possano essere ingannati nel raccomandare delle _fee_ più alte di quanto sia effettivamente necessario. Come mostrato nella [Fallacia della Commissione a Parte](ch081-side-fee-fallacy.md) questo implica sia una relazione tra il valore storico ed il valore futuro delle _fee_ - relazione che non esiste, sia che tutte le commissioni siano visibili _on-[chain](ch101-glossary.md#catena)_, circostanza altrettanto non verificabile.
+Vi è una teoria correlata secondo la quale gli strumenti di stima delle _fee_ possano essere ingannati nel raccomandare delle _fee_ più alte di quanto sia effettivamente necessario. Come mostrato nella [Fallacia della Commissione a Parte](ch081-side-fee-fallacy.md) questo implica sia una relazione tra il valore storico e il valore futuro delle _fee_ - relazione che non esiste, sia che tutte le commissioni siano visibili _on-[chain](ch101-glossary.md#catena)_, circostanza altrettanto non verificabile.
 
 ---
 

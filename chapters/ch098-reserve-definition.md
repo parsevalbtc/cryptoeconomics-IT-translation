@@ -2,7 +2,7 @@
 
 
 
-Una riserva è il capitale posseduto da una [persona](ch101-glossary.md#persona). Si tratta di capitale presente, al contrario del capitale [investito](ch101-glossary.md#dare-in-prestito---investire). Il capitale presente si [svaluta](ch011-depreciation-principle.md) e per questa ragione rappresenta un costo continuo per il suo [possessore](ch101-glossary.md#proprietario). Il rapporto tra capitale riservato ed investito è un [riflesso](ch091-saving-relation.md) della [preferenza temporale](ch085-time-preference-fallacy.md) del possessore.
+Una riserva è il capitale posseduto da una [persona](ch101-glossary.md#persona). Si tratta di capitale presente, al contrario del capitale [investito](ch101-glossary.md#dare-in-prestito---investire). Il capitale presente si [svaluta](ch011-depreciation-principle.md) e per questa ragione rappresenta un costo continuo per il suo [possessore](ch101-glossary.md#proprietario). Il rapporto tra capitale riservato e investito è un [riflesso](ch091-saving-relation.md) della [preferenza temporale](ch085-time-preference-fallacy.md) del possessore.
 
 Il capitale messo a riserva con lo scopo di [finalizzare](https://it.wikipedia.org/wiki/Regolamento_(finanza)) i debiti è il mezzo con cui si effettua il _settlement_. Ad esempio, quando l'oro è il mezzo di _settlement_, l'oro rappresenta il capitale a riserva. Una promessa sull'oro, come può essere un [certificato sull'oro](https://en.wikipedia.org/wiki/Gold_certificate), è un prestito e di conseguenza non rappresenta una riserva per quel tipo di debito. Se il debito può essere finalizzato con certificati aurei, allora il possesso dei certificati costituisce una riserva.
 
