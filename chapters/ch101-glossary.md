@@ -65,7 +65,7 @@ Una [Persona](#persona) che controlla la proprietà di un'altra.
 #### Decentralizzazione
 La tendenza che si oppone alla [centralizzazione](#centralizzazione).
 #### Delegazione
-La tendenza verso l'esistenza di pochi [Proprietari](#proprietario).I Proprietari controllano direttamente la [spesa](#spesa).
+La tendenza verso l'esistenza di pochi [Proprietari](#proprietario). I Proprietari controllano direttamente la [spesa](#spesa).
 #### Denial of Service
 Utilizzare la [Comunicazione](#comunicazione) per sfruttare difetti nel [Protocollo](#protocollo) o nell'[Implementazione](#implementazione) che portano a degradare le prestazioni. DoS è un acronimo di questo termine.
 #### Developer - Sviluppatore
@@ -79,7 +79,7 @@ Uno [Strumento](#strumento-tool) che compie operazioni di [Hashing](#hash).
 #### Distorsione
 Aggressione al [Mercato](#mercato) che altera il costo del [Mining](#centro-di-mining-mine).
 #### Doppia Spesa
-[_Endorsment_](#endorsment) dello stesso [Output](#output) in due [Spese](#spesa) distinte.
+[_Endorsement_](#endorsement) dello stesso [Output](#output) in due [Spese](#spesa) distinte.
 #### Dust
 Un numero insufficiente di [Unità](#unità) necessarie per effettuare un [Trasferimento](#trasferimento) attraverso un [Output](#output). Le [Regole di Consenso](#regole-di-consenso) di BTC proibiscono il trasferimento di meno di un'unità.
 #### Economia
@@ -109,7 +109,7 @@ L'aumento di [Offerta](#offerta) dovuta al [Sussidio](#sussidio-subsidy). Il ter
 #### Inflazione del Prezzo
 Aumento del prezzo medio di [Scambio](#scambio-di-unità) nel tempo.
 #### Input
-Un [_Output_](#output) [_Point_](#point) collegato ad un [_Endorsment_](#endorsement).
+Un [_Output_](#output) [_Point_](#point) collegato ad un [_Endorsement_](#endorsement).
 #### Interesse
 Il tasso relativo all'aumento di [Utilità](#utilità) nel [Dare in prestito](#dare-in-prestito---investire).
 #### Latenza
@@ -183,7 +183,7 @@ Il ritorno sull'investimento al di sopra del tasso di [Interesse](#interesse) di
 #### Profondità (Depth)
 Il numero di [Blocchi](#blocco) più uno dopo una [Conferma](#conferma).
 #### Proof-of-Memory - Prova di Memorizzazione 
-[Prova](#prova) probabilistica del quantitativo di memoria computazionale utilizabbile (PoM).
+[Prova](#prova) probabilistica del quantitativo di memoria computazionale utilizzabile (PoM).
 #### Proof-of-Stake
 [Prova](#prova) crittografica del quantitativo di [proprietà](#proprietario).
 #### Proof-of-Work - Prova di Lavoro
