@@ -9,6 +9,7 @@ Bitcoin non è diverso da tutto ciò, è protetto dalle persone che corrono un r
 
 Bitcoin permette alle persone di condividere il rischio personale di accettare e minare la moneta. E' la sola volontà e abilità di queste persone a [resistere](ch004-axiom-of-resistance.md) che può impedire la [coercizione](ch101-glossary.md#coercizione) dei loro [nodi](ch101-glossary.md#nodo) e la [cooptazione](ch101-glossary.md#cooptazione-co-option) dei loro [centri di mining](ch101-glossary.md#centro-di-mining-mine), e in realtà è questo principio ciò che protegge Bitcoin. Se le persone non accettano questi rischi non vi è una sicurezza efficace della moneta. Se un gran numero di persone li accetta, il rischio individuale viene minimizzato. Bitcoin è uno strumento, non è magia.
 
+
 ---
 
 Titolo originale: [Risk Sharing Priciple](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Sharing-Principle)

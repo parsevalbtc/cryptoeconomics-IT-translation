@@ -6,7 +6,7 @@ Il [valore](ch101-glossary.md#valore) di Bitcoin rispetto alle sue alternative d
 
 Questi vantaggi rappresentano una riduzione di costo ottenuta evitando la tassazione. Il signoraggio è una forma di tassa diretta mentre il controllo sui cambi porta a limitare la sua evasione. Lo stato medesimo, spesso, sostiene la sua [indipendenza politica](https://www.federalreserve.gov/faqs/about_12799.htm) come un obiettivo volto a limitare questo potere di tassazione. La sorveglianza finanziaria limita l'evasione delle tasse in maniera generale. **Nonostante Bitcoin non possa eliminare la tassazione, esso porta a ridurre il suo gettito e rappresenta un cambio nella natura della tassazione.**  Ad ogni modo, per coloro che considerano lo stato un bene sociale, l'opzione di finanziarlo volontariamente rimane sempre aperta.
 
-Sarebbe un errore assumere che questi vantaggi derivino dall'esistenza di una tecnologia più efficiente di quella impiegata dalle [monete di monopolio](ch005-money-taxonomy.md). La tecnologia è in realtà molto [meno efficiente](ch018-scalability-priciple.md), tuttavia aiuta la persone a [resistere ai controlli dello stato](ch016-risk-sharing-principle.md). E' questa caratteristica [resistenza](ch004-axiom-of-resistance.md) ad attribuirgli valore.
+Sarebbe un errore assumere che questi vantaggi derivino dall'esistenza di una tecnologia più efficiente di quella impiegata dalle [monete di monopolio](ch005-money-taxonomy.md). La tecnologia è in realtà molto [meno efficiente](ch018-scalability-priciple.md), tuttavia aiuta la persone a [resistere ai controlli dello stato](ch016-risk-sharing-principle.md). È questa caratteristica [resistenza](ch004-axiom-of-resistance.md) ad attribuirgli valore.
 
 ---
 
