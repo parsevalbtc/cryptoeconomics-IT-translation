@@ -12,7 +12,7 @@ La [moneta rappresentativa](https://en.wikipedia.org/wiki/Representative_money) 
 
 I dollari che possono essere tenuti in mano sono vera moneta fiat, così come lo sono i bitcoin che possono essere spesi con la propria chiave privata. Come tale il termine "fiat" non fornisce una distinzione tra Dollaro e Bitcoin. *Tuttavia va ricordato che questa distinzione non si è mai resa necessaria prima dell'avvento di Bitcoin*. Monete di mercato senza valore d'uso [non erano ritenute possibili](ch074-regression-fallacy.md). Tuttavia vi è in realtà una reale distinzione tra questi due tipi di moneta, di cui nessuna delle due possiede valore d'uso. Questo richiede l'impiego di una nuova caratteristica distintiva.
 
-Il Dollaro (come tutte le monete fiat di stato) differisce da Bitcoin a causa della [protezione di monopolio](https://mises.org/library/man-economy-and-state-power-and-market/html/pp/1054) esercitata sulla sua produzione. E' il divieto di competere sul mercato che permette allo stato di limitare l'offerta monetaria e quindi di estrarre una rendita di [signoraggio](https://it.wikipedia.org/wiki/Signoraggio).
+Il Dollaro (come tutte le monete fiat di stato) differisce da Bitcoin a causa della [protezione di monopolio](https://mises.org/library/man-economy-and-state-power-and-market/html/pp/1054) esercitata sulla sua produzione. È il divieto di competere sul mercato che permette allo stato di limitare l'offerta monetaria e quindi di estrarre una rendita di [signoraggio](https://it.wikipedia.org/wiki/Signoraggio).
 
 > Il monopolio è una garanzia di uno speciale privilegio affidato dallo stato che riserva una certa area della produzione ad un particolare individuo o gruppo. 
 >
