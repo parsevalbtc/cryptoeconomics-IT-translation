@@ -143,7 +143,7 @@ Ciò, tuttavia, dimostra che nessuna spesa reale è stata ancora effettuata a pa
 |             | Risparmi | Moneta | Credito | Debito | Attività (_Asset_) | Passività (_Liability_) |
 | ----------- | -------- | ------ | ------- | ------ | ------------------ | ----------------------- |
 | Depositante | 100 oz   | 10 oz  | 90 oz   |        | 100 oz             |                         |
-| Banca       |          | 90 oz  | 81 oz   | 90 oz  | 90 oz              | 90 oz                   |
+| Banca       |          |  9 oz  | 81 oz   | 90 oz  | 90 oz              | 90 oz                   |
 | Debitore    |          | 81 oz  |         | 81 oz  | 81 oz              | 81 oz                   |
 
 Si noti che questo è un esito identico a quello della visione semplice. **Non vi è quindi distinzione tra queste due visioni apparentemente in competizione sulla creazione di moneta,** e ciò rende invalida la teoria. Questo fatto porta a risolvere la [secolare questione](https://en.wikipedia.org/wiki/Credit_theory_of_money#Scholarship), cominciata apparentemente tra [Platone](https://it.wikipedia.org/wiki/Platone) e [Aristotele](https://it.wikipedia.org/wiki/Aristotele) che provava a stabilire se la moneta fosse basata sull'attività estrattiva o sul credito. Le teorie sono identiche, in quanto la moneta e il credito rappresentano una [dualità](https://en.wiktionary.org/wiki/duality).
